@@ -21,9 +21,92 @@ public class StatusC : MonoBehaviour {
 
     uint[] pConditionImportancyTable = new uint[] { 16, 15, 14, 17, 13, 2, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 1, 0 };
     public bool[] Conditions = new bool[18];
-    public float ExpressionTimePassed;
+	public int CurrentFace;
+	public int VoiceID;
+	public int Might;
+	public int MightBonus;
+	public int Intelligence;
+	public int IntelligenceBonus;
+	public int Willpower;
+	public int WillpowerBonus;
+	public int Endurance;
+	public int EnduranceBonus;
+	public int Accuracy;
+	public int AccuracyBonus;
+	public int Speed;
+	public int SpeedBonus;
+	public int Luck;
+	public int LuckBonus;
+	public PlayerClassType ClassType;
+	public PlayerSex Sex;
+	public int Gold;
+	public int NumGoldInBank;
+	public int AgeModifier;
+	public int FoodRations;
+	public int BirthYear;
+
+	//skills
+	public int skillStaff;
+	public int skillSword;
+	public int skillDagger;
+	public int skillAxe;
+	public int skillSpear;
+	public int skillBow;
+	public int skillMace;
+	public int skillBlaster;
+	public int skillShield;
+	public int skillLeather;
+	public int skillChain;
+	public int skillPlate;
+	public int skillFire;
+	public int skillAir;
+	public int skillWater;
+	public int skillEarth;
+	public int skillSpirit;
+	public int skillMind;
+	public int skillBody;
+	public int skillLight;
+	public int skillDark;
+	public int skillItemId;
+	public int skillMerchant;
+	public int skillRepair;
+	public int skillBodybuilding;
+	public int skillMeditation;
+	public int skillPerception;
+	public int skillDiplomacy;
+	public int skillThievery;
+	public int skillDisarmTrap;
+	public int skillDodge;
+	public int skillUnarmed;
+	public int skillMonsterId;
+	public int skillArmsmaster;
+	public int skillStealing;
+	public int skillAlchemy;
+	public int skillLearning;
+	public int[] ActiveSkills = new int[37];
+	public int[] AwardsBits = new int[64];
+
+	public float ExpressionTimePassed;
     public Player_expression_ID expression;
-    public enum Player_expression_ID
+
+	public enum PlayerSex
+	{
+		Male = 0,
+		Female = 1,
+	}
+	public enum PlayerClassType : int
+	{
+		Knight = 0, Chevalier = 1, Champion = 2, BlackKnight = 3,
+		Theif = 4, Rogue = 5, Spy = 6, Assassin = 7,
+		Monk = 8, Initiate = 9, Master = 10, Ninja = 11,
+		Paladin = 12, Crusader = 13, Hero = 14, Villian = 15,
+		Archer = 16, Varrior_mage = 17, Master_archer = 18, Sniper = 19,
+		Ranger = 20, Hunter = 21, Ranger_lord = 22, Bounty_hunter = 23,
+		Cleric = 24, Priest = 25, Priest_of_sun = 26, Priest_of_moon = 27,
+		Druid = 28, Great_druid = 29, Arch_druid = 30, Warlock = 31,
+		Sorcerer = 32, Wizard = 33, Archmage = 34, Lich = 35
+	};
+	public enum Player_expression_ID
     {
         CHARACTER_EXPRESSION_INVALID = 0,
         CHARACTER_EXPRESSION_NORMAL = 1,      //нормальный
