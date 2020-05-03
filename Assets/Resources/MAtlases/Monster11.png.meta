@@ -1,180 +1,455 @@
 fileFormatVersion: 2
 guid: 117877e69d04d4e4d9eb5dfe7f762dec
-timeCreated: 1442628048
-licenseType: Pro
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: m190aa0
-    21300002: m190aa1
-    21300004: m190aa2
-    21300006: m190aa3
-    21300008: m190aa4
-    21300010: m190ab0
-    21300012: m190ab1
-    21300014: m190ab2
-    21300016: m190ab3
-    21300018: m190ab4
-    21300020: m190ac0
-    21300022: m190ac1
-    21300024: m190ac2
-    21300026: m190ac3
-    21300028: m190ac4
-    21300030: m190ad0
-    21300032: m190ad1
-    21300034: m190ad2
-    21300036: m190ad3
-    21300038: m190ad4
-    21300040: m190ae0
-    21300042: m190ae1
-    21300044: m190ae2
-    21300046: m190ae3
-    21300048: m190ae4
-    21300050: m190af0
-    21300052: m190af1
-    21300054: m190af2
-    21300056: m190af3
-    21300058: m190af4
-    21300060: m190ag0
-    21300062: m190ag1
-    21300064: m190ag2
-    21300066: m190ag3
-    21300068: m190ag4
-    21300070: m190ah0
-    21300072: m190ah1
-    21300074: m190ah2
-    21300076: m190ah3
-    21300078: m190ah4
-    21300080: m190da0
-    21300082: m190db0
-    21300084: m190dc0
-    21300086: m190dd0
-    21300088: m190fa0
-    21300090: m190fb0
-    21300092: m190fc0
-    21300094: m190fd0
-    21300096: m190na0
-    21300098: m190na1
-    21300100: m190na2
-    21300102: m190na3
-    21300104: m190na4
-    21300106: m190nb0
-    21300108: m190nb1
-    21300110: m190nb2
-    21300112: m190nb3
-    21300114: m190nb4
-    21300116: m190nc0
-    21300118: m190nc1
-    21300120: m190nc2
-    21300122: m190nc3
-    21300124: m190nc4
-    21300126: m190nd0
-    21300128: m190nd1
-    21300130: m190nd2
-    21300132: m190nd3
-    21300134: m190nd4
-    21300136: m190ne0
-    21300138: m190ne1
-    21300140: m190ne2
-    21300142: m190ne3
-    21300144: m190ne4
-    21300146: m190nef4
-    21300148: m190nf0
-    21300150: m190nf1
-    21300152: m190nf2
-    21300154: m190nf3
-    21300156: m190nf4
-    21300158: m190sa0
-    21300160: m190sa1
-    21300162: m190sa2
-    21300164: m190sa3
-    21300166: m190sa4
-    21300168: m190wa0
-    21300170: m190wa1
-    21300172: m190wa2
-    21300174: m190wa3
-    21300176: m190wa4
-    21300178: m190wb0
-    21300180: m190wb1
-    21300182: m190wb2
-    21300184: m190wb3
-    21300186: m190wb4
-    21300188: m190wc0
-    21300190: m190wc1
-    21300192: m190wc2
-    21300194: m190wc3
-    21300196: m190wc4
-    21300198: m190wd0
-    21300200: m190wd1
-    21300202: m190wd2
-    21300204: m190wd3
-    21300206: m190wd4
-    21300208: m190we0
-    21300210: m190we1
-    21300212: m190we2
-    21300214: m190we3
-    21300216: m190we4
-    21300218: m190wf0
-    21300220: m190wf1
-    21300222: m190wf2
-    21300224: m190wf3
-    21300226: m190wf4
-    21300228: m190wg0
-    21300230: m190wg1
-    21300232: m190wg2
-    21300234: m190wg3
-    21300236: m190wg4
-    21300238: m190wh0
-    21300240: m190wh1
-    21300242: m190wh2
-    21300244: m190wh3
-    21300246: m190wh4
-    21300248: m190xa0
-  serializedVersion: 2
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: m190aa0
+  - first:
+      213: 21300002
+    second: m190aa1
+  - first:
+      213: 21300004
+    second: m190aa2
+  - first:
+      213: 21300006
+    second: m190aa3
+  - first:
+      213: 21300008
+    second: m190aa4
+  - first:
+      213: 21300010
+    second: m190ab0
+  - first:
+      213: 21300012
+    second: m190ab1
+  - first:
+      213: 21300014
+    second: m190ab2
+  - first:
+      213: 21300016
+    second: m190ab3
+  - first:
+      213: 21300018
+    second: m190ab4
+  - first:
+      213: 21300020
+    second: m190ac0
+  - first:
+      213: 21300022
+    second: m190ac1
+  - first:
+      213: 21300024
+    second: m190ac2
+  - first:
+      213: 21300026
+    second: m190ac3
+  - first:
+      213: 21300028
+    second: m190ac4
+  - first:
+      213: 21300030
+    second: m190ad0
+  - first:
+      213: 21300032
+    second: m190ad1
+  - first:
+      213: 21300034
+    second: m190ad2
+  - first:
+      213: 21300036
+    second: m190ad3
+  - first:
+      213: 21300038
+    second: m190ad4
+  - first:
+      213: 21300040
+    second: m190ae0
+  - first:
+      213: 21300042
+    second: m190ae1
+  - first:
+      213: 21300044
+    second: m190ae2
+  - first:
+      213: 21300046
+    second: m190ae3
+  - first:
+      213: 21300048
+    second: m190ae4
+  - first:
+      213: 21300050
+    second: m190af0
+  - first:
+      213: 21300052
+    second: m190af1
+  - first:
+      213: 21300054
+    second: m190af2
+  - first:
+      213: 21300056
+    second: m190af3
+  - first:
+      213: 21300058
+    second: m190af4
+  - first:
+      213: 21300060
+    second: m190ag0
+  - first:
+      213: 21300062
+    second: m190ag1
+  - first:
+      213: 21300064
+    second: m190ag2
+  - first:
+      213: 21300066
+    second: m190ag3
+  - first:
+      213: 21300068
+    second: m190ag4
+  - first:
+      213: 21300070
+    second: m190ah0
+  - first:
+      213: 21300072
+    second: m190ah1
+  - first:
+      213: 21300074
+    second: m190ah2
+  - first:
+      213: 21300076
+    second: m190ah3
+  - first:
+      213: 21300078
+    second: m190ah4
+  - first:
+      213: 21300080
+    second: m190da0
+  - first:
+      213: 21300082
+    second: m190db0
+  - first:
+      213: 21300084
+    second: m190dc0
+  - first:
+      213: 21300086
+    second: m190dd0
+  - first:
+      213: 21300088
+    second: m190fa0
+  - first:
+      213: 21300090
+    second: m190fb0
+  - first:
+      213: 21300092
+    second: m190fc0
+  - first:
+      213: 21300094
+    second: m190fd0
+  - first:
+      213: 21300096
+    second: m190na0
+  - first:
+      213: 21300098
+    second: m190na1
+  - first:
+      213: 21300100
+    second: m190na2
+  - first:
+      213: 21300102
+    second: m190na3
+  - first:
+      213: 21300104
+    second: m190na4
+  - first:
+      213: 21300106
+    second: m190nb0
+  - first:
+      213: 21300108
+    second: m190nb1
+  - first:
+      213: 21300110
+    second: m190nb2
+  - first:
+      213: 21300112
+    second: m190nb3
+  - first:
+      213: 21300114
+    second: m190nb4
+  - first:
+      213: 21300116
+    second: m190nc0
+  - first:
+      213: 21300118
+    second: m190nc1
+  - first:
+      213: 21300120
+    second: m190nc2
+  - first:
+      213: 21300122
+    second: m190nc3
+  - first:
+      213: 21300124
+    second: m190nc4
+  - first:
+      213: 21300126
+    second: m190nd0
+  - first:
+      213: 21300128
+    second: m190nd1
+  - first:
+      213: 21300130
+    second: m190nd2
+  - first:
+      213: 21300132
+    second: m190nd3
+  - first:
+      213: 21300134
+    second: m190nd4
+  - first:
+      213: 21300136
+    second: m190ne0
+  - first:
+      213: 21300138
+    second: m190ne1
+  - first:
+      213: 21300140
+    second: m190ne2
+  - first:
+      213: 21300142
+    second: m190ne3
+  - first:
+      213: 21300144
+    second: m190ne4
+  - first:
+      213: 21300146
+    second: m190nef4
+  - first:
+      213: 21300148
+    second: m190nf0
+  - first:
+      213: 21300150
+    second: m190nf1
+  - first:
+      213: 21300152
+    second: m190nf2
+  - first:
+      213: 21300154
+    second: m190nf3
+  - first:
+      213: 21300156
+    second: m190nf4
+  - first:
+      213: 21300158
+    second: m190sa0
+  - first:
+      213: 21300160
+    second: m190sa1
+  - first:
+      213: 21300162
+    second: m190sa2
+  - first:
+      213: 21300164
+    second: m190sa3
+  - first:
+      213: 21300166
+    second: m190sa4
+  - first:
+      213: 21300168
+    second: m190wa0
+  - first:
+      213: 21300170
+    second: m190wa1
+  - first:
+      213: 21300172
+    second: m190wa2
+  - first:
+      213: 21300174
+    second: m190wa3
+  - first:
+      213: 21300176
+    second: m190wa4
+  - first:
+      213: 21300178
+    second: m190wb0
+  - first:
+      213: 21300180
+    second: m190wb1
+  - first:
+      213: 21300182
+    second: m190wb2
+  - first:
+      213: 21300184
+    second: m190wb3
+  - first:
+      213: 21300186
+    second: m190wb4
+  - first:
+      213: 21300188
+    second: m190wc0
+  - first:
+      213: 21300190
+    second: m190wc1
+  - first:
+      213: 21300192
+    second: m190wc2
+  - first:
+      213: 21300194
+    second: m190wc3
+  - first:
+      213: 21300196
+    second: m190wc4
+  - first:
+      213: 21300198
+    second: m190wd0
+  - first:
+      213: 21300200
+    second: m190wd1
+  - first:
+      213: 21300202
+    second: m190wd2
+  - first:
+      213: 21300204
+    second: m190wd3
+  - first:
+      213: 21300206
+    second: m190wd4
+  - first:
+      213: 21300208
+    second: m190we0
+  - first:
+      213: 21300210
+    second: m190we1
+  - first:
+      213: 21300212
+    second: m190we2
+  - first:
+      213: 21300214
+    second: m190we3
+  - first:
+      213: 21300216
+    second: m190we4
+  - first:
+      213: 21300218
+    second: m190wf0
+  - first:
+      213: 21300220
+    second: m190wf1
+  - first:
+      213: 21300222
+    second: m190wf2
+  - first:
+      213: 21300224
+    second: m190wf3
+  - first:
+      213: 21300226
+    second: m190wf4
+  - first:
+      213: 21300228
+    second: m190wg0
+  - first:
+      213: 21300230
+    second: m190wg1
+  - first:
+      213: 21300232
+    second: m190wg2
+  - first:
+      213: 21300234
+    second: m190wg3
+  - first:
+      213: 21300236
+    second: m190wg4
+  - first:
+      213: 21300238
+    second: m190wh0
+  - first:
+      213: 21300240
+    second: m190wh1
+  - first:
+      213: 21300242
+    second: m190wh2
+  - first:
+      213: 21300244
+    second: m190wh3
+  - first:
+      213: 21300246
+    second: m190wh4
+  - first:
+      213: 21300248
+    second: m190xa0
+  externalObjects: {}
+  serializedVersion: 10
   mipmaps:
     mipMapMode: 0
     enableMipMap: 1
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
     convertToNormalMap: 0
     externalNormalMap: 0
-    heightScale: .25
+    heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
   cubemapConvolution: 0
-  cubemapConvolutionSteps: 8
-  cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -1
   maxTextureSize: 4096
   textureSettings:
+    serializedVersion: 2
     filterMode: -1
     aniso: -1
-    mipBias: -1
-    wrapMode: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
-  rGBM: 0
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
-  spritePivot: {x: .5, y: .5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings: []
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: m190aa0
+    - serializedVersion: 2
+      name: m190aa0
       rect:
         serializedVersion: 2
         x: 2
@@ -182,9 +457,20 @@ TextureImporter:
         width: 98
         height: 151
       alignment: 9
-      pivot: {x: -.683673441, y: 1.68874168}
+      pivot: {x: -0.68367344, y: 1.6887417}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190aa1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190aa1
       rect:
         serializedVersion: 2
         x: 102
@@ -192,9 +478,20 @@ TextureImporter:
         width: 71
         height: 152
       alignment: 9
-      pivot: {x: -1.22535217, y: 1.68421054}
+      pivot: {x: -1.2253522, y: 1.6842105}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190aa2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190aa2
       rect:
         serializedVersion: 2
         x: 175
@@ -202,9 +499,20 @@ TextureImporter:
         width: 87
         height: 152
       alignment: 9
-      pivot: {x: -1.01149428, y: 1.68421054}
+      pivot: {x: -1.0114943, y: 1.6842105}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190aa3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190aa3
       rect:
         serializedVersion: 2
         x: 264
@@ -212,9 +520,20 @@ TextureImporter:
         width: 109
         height: 152
       alignment: 9
-      pivot: {x: -.853210986, y: 1.68421054}
+      pivot: {x: -0.853211, y: 1.6842105}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190aa4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190aa4
       rect:
         serializedVersion: 2
         x: 375
@@ -222,9 +541,20 @@ TextureImporter:
         width: 97
         height: 152
       alignment: 9
-      pivot: {x: -.938144326, y: 1.68421054}
+      pivot: {x: -0.9381443, y: 1.6842105}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190ab0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190ab0
       rect:
         serializedVersion: 2
         x: 474
@@ -232,9 +562,20 @@ TextureImporter:
         width: 108
         height: 177
       alignment: 9
-      pivot: {x: -.481481493, y: 1.440678}
+      pivot: {x: -0.4814815, y: 1.440678}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190ab1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190ab1
       rect:
         serializedVersion: 2
         x: 584
@@ -242,9 +583,20 @@ TextureImporter:
         width: 96
         height: 178
       alignment: 9
-      pivot: {x: -.645833313, y: 1.43820226}
+      pivot: {x: -0.6458333, y: 1.4382023}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190ab2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190ab2
       rect:
         serializedVersion: 2
         x: 682
@@ -252,9 +604,20 @@ TextureImporter:
         width: 87
         height: 178
       alignment: 9
-      pivot: {x: -.793103456, y: 1.43820226}
+      pivot: {x: -0.79310346, y: 1.4382023}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190ab3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190ab3
       rect:
         serializedVersion: 2
         x: 771
@@ -262,9 +625,20 @@ TextureImporter:
         width: 105
         height: 179
       alignment: 9
-      pivot: {x: -.790476203, y: 1.43016756}
+      pivot: {x: -0.7904762, y: 1.4301676}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190ab4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190ab4
       rect:
         serializedVersion: 2
         x: 878
@@ -272,9 +646,20 @@ TextureImporter:
         width: 108
         height: 178
       alignment: 9
-      pivot: {x: -.888888896, y: 1.43820226}
+      pivot: {x: -0.8888889, y: 1.4382023}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190ac0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190ac0
       rect:
         serializedVersion: 2
         x: 988
@@ -282,9 +667,20 @@ TextureImporter:
         width: 94
         height: 164
       alignment: 9
-      pivot: {x: -.670212746, y: 1.554878}
+      pivot: {x: -0.67021275, y: 1.554878}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190ac1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190ac1
       rect:
         serializedVersion: 2
         x: 1084
@@ -292,9 +688,20 @@ TextureImporter:
         width: 122
         height: 165
       alignment: 9
-      pivot: {x: -.270491809, y: 1.5515151}
+      pivot: {x: -0.2704918, y: 1.5515151}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190ac2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190ac2
       rect:
         serializedVersion: 2
         x: 1208
@@ -302,9 +709,20 @@ TextureImporter:
         width: 133
         height: 165
       alignment: 9
-      pivot: {x: -.165413529, y: 1.5515151}
+      pivot: {x: -0.16541353, y: 1.5515151}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190ac3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190ac3
       rect:
         serializedVersion: 2
         x: 1343
@@ -312,9 +730,20 @@ TextureImporter:
         width: 97
         height: 165
       alignment: 9
-      pivot: {x: -.680412352, y: 1.5515151}
+      pivot: {x: -0.68041235, y: 1.5515151}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190ac4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190ac4
       rect:
         serializedVersion: 2
         x: 1442
@@ -322,9 +751,20 @@ TextureImporter:
         width: 94
         height: 165
       alignment: 9
-      pivot: {x: -1.05319154, y: 1.5515151}
+      pivot: {x: -1.0531915, y: 1.5515151}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190ad0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190ad0
       rect:
         serializedVersion: 2
         x: 1538
@@ -332,9 +772,20 @@ TextureImporter:
         width: 86
         height: 151
       alignment: 9
-      pivot: {x: -.988372087, y: 1.69536424}
+      pivot: {x: -0.9883721, y: 1.6953642}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190ad1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190ad1
       rect:
         serializedVersion: 2
         x: 1626
@@ -342,9 +793,20 @@ TextureImporter:
         width: 94
         height: 151
       alignment: 9
-      pivot: {x: -.925531924, y: 1.69536424}
+      pivot: {x: -0.9255319, y: 1.6953642}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190ad2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190ad2
       rect:
         serializedVersion: 2
         x: 1722
@@ -352,9 +814,20 @@ TextureImporter:
         width: 154
         height: 151
       alignment: 9
-      pivot: {x: -.577922106, y: 1.69536424}
+      pivot: {x: -0.5779221, y: 1.6953642}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190ad3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190ad3
       rect:
         serializedVersion: 2
         x: 1878
@@ -362,9 +835,20 @@ TextureImporter:
         width: 146
         height: 151
       alignment: 9
-      pivot: {x: -.630136967, y: 1.69536424}
+      pivot: {x: -0.63013697, y: 1.6953642}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190ad4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190ad4
       rect:
         serializedVersion: 2
         x: 2
@@ -372,9 +856,20 @@ TextureImporter:
         width: 85
         height: 151
       alignment: 9
-      pivot: {x: -1, y: 1.69536424}
+      pivot: {x: -1, y: 1.6953642}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190ae0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190ae0
       rect:
         serializedVersion: 2
         x: 89
@@ -382,9 +877,20 @@ TextureImporter:
         width: 94
         height: 122
       alignment: 9
-      pivot: {x: -1.04255319, y: 2.09836054}
+      pivot: {x: -1.0425532, y: 2.0983605}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190ae1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190ae1
       rect:
         serializedVersion: 2
         x: 185
@@ -392,9 +898,20 @@ TextureImporter:
         width: 145
         height: 122
       alignment: 9
-      pivot: {x: -.600000024, y: 2.09836054}
+      pivot: {x: -0.6, y: 2.0983605}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190ae2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190ae2
       rect:
         serializedVersion: 2
         x: 332
@@ -402,9 +919,20 @@ TextureImporter:
         width: 135
         height: 122
       alignment: 9
-      pivot: {x: -.637037039, y: 2.09836054}
+      pivot: {x: -0.63703704, y: 2.0983605}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190ae3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190ae3
       rect:
         serializedVersion: 2
         x: 469
@@ -412,9 +940,20 @@ TextureImporter:
         width: 130
         height: 122
       alignment: 9
-      pivot: {x: -.461538464, y: 2.09836054}
+      pivot: {x: -0.46153846, y: 2.0983605}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190ae4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190ae4
       rect:
         serializedVersion: 2
         x: 601
@@ -422,9 +961,20 @@ TextureImporter:
         width: 93
         height: 122
       alignment: 9
-      pivot: {x: -.69892472, y: 2.09836054}
+      pivot: {x: -0.6989247, y: 2.0983605}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190af0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190af0
       rect:
         serializedVersion: 2
         x: 696
@@ -432,9 +982,20 @@ TextureImporter:
         width: 88
         height: 127
       alignment: 9
-      pivot: {x: -1.11363637, y: 2.01574802}
+      pivot: {x: -1.1136364, y: 2.015748}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190af1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190af1
       rect:
         serializedVersion: 2
         x: 786
@@ -442,9 +1003,20 @@ TextureImporter:
         width: 124
         height: 127
       alignment: 9
-      pivot: {x: -.70161289, y: 2.01574802}
+      pivot: {x: -0.7016129, y: 2.015748}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190af2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190af2
       rect:
         serializedVersion: 2
         x: 912
@@ -452,9 +1024,20 @@ TextureImporter:
         width: 140
         height: 127
       alignment: 9
-      pivot: {x: -.628571451, y: 2.01574802}
+      pivot: {x: -0.62857145, y: 2.015748}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190af3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190af3
       rect:
         serializedVersion: 2
         x: 1054
@@ -462,9 +1045,20 @@ TextureImporter:
         width: 126
         height: 127
       alignment: 9
-      pivot: {x: -.5, y: 2.01574802}
+      pivot: {x: -0.5, y: 2.015748}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190af4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190af4
       rect:
         serializedVersion: 2
         x: 1182
@@ -472,9 +1066,20 @@ TextureImporter:
         width: 89
         height: 127
       alignment: 9
-      pivot: {x: -.775280893, y: 2.01574802}
+      pivot: {x: -0.7752809, y: 2.015748}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190ag0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190ag0
       rect:
         serializedVersion: 2
         x: 1273
@@ -482,9 +1087,20 @@ TextureImporter:
         width: 87
         height: 138
       alignment: 9
-      pivot: {x: -1.08045971, y: 1.8550725}
+      pivot: {x: -1.0804597, y: 1.8550725}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190ag1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190ag1
       rect:
         serializedVersion: 2
         x: 1362
@@ -492,9 +1108,20 @@ TextureImporter:
         width: 98
         height: 138
       alignment: 9
-      pivot: {x: -.887755096, y: 1.8550725}
+      pivot: {x: -0.8877551, y: 1.8550725}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190ag2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190ag2
       rect:
         serializedVersion: 2
         x: 1462
@@ -502,9 +1129,20 @@ TextureImporter:
         width: 137
         height: 138
       alignment: 9
-      pivot: {x: -.642335773, y: 1.8550725}
+      pivot: {x: -0.6423358, y: 1.8550725}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190ag3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190ag3
       rect:
         serializedVersion: 2
         x: 1601
@@ -512,9 +1150,20 @@ TextureImporter:
         width: 136
         height: 138
       alignment: 9
-      pivot: {x: -.536764681, y: 1.8550725}
+      pivot: {x: -0.5367647, y: 1.8550725}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190ag4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190ag4
       rect:
         serializedVersion: 2
         x: 1739
@@ -522,9 +1171,20 @@ TextureImporter:
         width: 88
         height: 138
       alignment: 9
-      pivot: {x: -.840909064, y: 1.8550725}
+      pivot: {x: -0.84090906, y: 1.8550725}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190ah0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190ah0
       rect:
         serializedVersion: 2
         x: 1829
@@ -532,9 +1192,20 @@ TextureImporter:
         width: 96
         height: 147
       alignment: 9
-      pivot: {x: -.8125, y: 1.74149656}
+      pivot: {x: -0.8125, y: 1.7414966}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190ah1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190ah1
       rect:
         serializedVersion: 2
         x: 1927
@@ -542,9 +1213,20 @@ TextureImporter:
         width: 77
         height: 147
       alignment: 9
-      pivot: {x: -1.12987018, y: 1.74149656}
+      pivot: {x: -1.1298702, y: 1.7414966}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190ah2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190ah2
       rect:
         serializedVersion: 2
         x: 2
@@ -552,9 +1234,20 @@ TextureImporter:
         width: 125
         height: 147
       alignment: 9
-      pivot: {x: -.703999996, y: 1.74149656}
+      pivot: {x: -0.704, y: 1.7414966}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190ah3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190ah3
       rect:
         serializedVersion: 2
         x: 129
@@ -562,9 +1255,20 @@ TextureImporter:
         width: 141
         height: 147
       alignment: 9
-      pivot: {x: -.574468076, y: 1.74149656}
+      pivot: {x: -0.5744681, y: 1.7414966}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190ah4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190ah4
       rect:
         serializedVersion: 2
         x: 272
@@ -572,9 +1276,20 @@ TextureImporter:
         width: 95
         height: 147
       alignment: 9
-      pivot: {x: -.863157868, y: 1.74149656}
+      pivot: {x: -0.86315787, y: 1.7414966}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190da0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190da0
       rect:
         serializedVersion: 2
         x: 369
@@ -582,9 +1297,20 @@ TextureImporter:
         width: 139
         height: 169
       alignment: 9
-      pivot: {x: -.453237414, y: 1.51479292}
+      pivot: {x: -0.4532374, y: 1.5147929}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190db0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190db0
       rect:
         serializedVersion: 2
         x: 510
@@ -592,9 +1318,20 @@ TextureImporter:
         width: 96
         height: 140
       alignment: 9
-      pivot: {x: -.708333313, y: 1.82857144}
+      pivot: {x: -0.7083333, y: 1.8285714}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190dc0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190dc0
       rect:
         serializedVersion: 2
         x: 608
@@ -602,9 +1339,20 @@ TextureImporter:
         width: 114
         height: 125
       alignment: 9
-      pivot: {x: -.578947365, y: 2.0480001}
+      pivot: {x: -0.57894737, y: 2.048}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190dd0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190dd0
       rect:
         serializedVersion: 2
         x: 724
@@ -612,9 +1360,20 @@ TextureImporter:
         width: 154
         height: 57
       alignment: 9
-      pivot: {x: -.292207778, y: 4.4912281}
+      pivot: {x: -0.29220778, y: 4.491228}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190fa0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190fa0
       rect:
         serializedVersion: 2
         x: 880
@@ -622,9 +1381,20 @@ TextureImporter:
         width: 140
         height: 151
       alignment: 9
-      pivot: {x: -.25, y: 1.69536424}
+      pivot: {x: -0.25, y: 1.6953642}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190fb0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190fb0
       rect:
         serializedVersion: 2
         x: 1022
@@ -632,9 +1402,20 @@ TextureImporter:
         width: 140
         height: 152
       alignment: 9
-      pivot: {x: -.285714298, y: 1.68421054}
+      pivot: {x: -0.2857143, y: 1.6842105}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190fc0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190fc0
       rect:
         serializedVersion: 2
         x: 1164
@@ -642,9 +1423,20 @@ TextureImporter:
         width: 140
         height: 153
       alignment: 9
-      pivot: {x: -.328571439, y: 1.67320263}
+      pivot: {x: -0.32857144, y: 1.6732026}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190fd0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190fd0
       rect:
         serializedVersion: 2
         x: 1306
@@ -652,9 +1444,20 @@ TextureImporter:
         width: 138
         height: 154
       alignment: 9
-      pivot: {x: -.376811594, y: 1.66233766}
+      pivot: {x: -0.3768116, y: 1.6623377}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190na0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190na0
       rect:
         serializedVersion: 2
         x: 1446
@@ -662,9 +1465,20 @@ TextureImporter:
         width: 155
         height: 162
       alignment: 9
-      pivot: {x: -.354838699, y: 1.57407403}
+      pivot: {x: -0.3548387, y: 1.574074}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190na1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190na1
       rect:
         serializedVersion: 2
         x: 1603
@@ -672,9 +1486,20 @@ TextureImporter:
         width: 94
         height: 163
       alignment: 9
-      pivot: {x: -.840425551, y: 1.57055211}
+      pivot: {x: -0.84042555, y: 1.5705521}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190na2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190na2
       rect:
         serializedVersion: 2
         x: 1699
@@ -682,9 +1507,20 @@ TextureImporter:
         width: 98
         height: 163
       alignment: 9
-      pivot: {x: -.683673441, y: 1.57055211}
+      pivot: {x: -0.68367344, y: 1.5705521}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190na3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190na3
       rect:
         serializedVersion: 2
         x: 1799
@@ -692,9 +1528,20 @@ TextureImporter:
         width: 141
         height: 163
       alignment: 9
-      pivot: {x: -.382978737, y: 1.57055211}
+      pivot: {x: -0.38297874, y: 1.5705521}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190na4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190na4
       rect:
         serializedVersion: 2
         x: 2
@@ -702,9 +1549,20 @@ TextureImporter:
         width: 155
         height: 163
       alignment: 9
-      pivot: {x: -.296774179, y: 1.57055211}
+      pivot: {x: -0.29677418, y: 1.5705521}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190nb0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190nb0
       rect:
         serializedVersion: 2
         x: 159
@@ -712,9 +1570,20 @@ TextureImporter:
         width: 144
         height: 178
       alignment: 9
-      pivot: {x: -.368055552, y: 1.43258429}
+      pivot: {x: -0.36805555, y: 1.4325843}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190nb1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190nb1
       rect:
         serializedVersion: 2
         x: 305
@@ -722,9 +1591,20 @@ TextureImporter:
         width: 107
         height: 179
       alignment: 9
-      pivot: {x: -.570093453, y: 1.43016756}
+      pivot: {x: -0.57009345, y: 1.4301676}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190nb2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190nb2
       rect:
         serializedVersion: 2
         x: 414
@@ -732,9 +1612,20 @@ TextureImporter:
         width: 118
         height: 179
       alignment: 9
-      pivot: {x: -.372881353, y: 1.43016756}
+      pivot: {x: -0.37288135, y: 1.4301676}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190nb3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190nb3
       rect:
         serializedVersion: 2
         x: 534
@@ -742,9 +1633,20 @@ TextureImporter:
         width: 125
         height: 179
       alignment: 9
-      pivot: {x: -.384000003, y: 1.43016756}
+      pivot: {x: -0.384, y: 1.4301676}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190nb4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190nb4
       rect:
         serializedVersion: 2
         x: 661
@@ -752,9 +1654,20 @@ TextureImporter:
         width: 145
         height: 179
       alignment: 9
-      pivot: {x: -.406896561, y: 1.43016756}
+      pivot: {x: -0.40689656, y: 1.4301676}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190nc0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190nc0
       rect:
         serializedVersion: 2
         x: 808
@@ -762,9 +1675,20 @@ TextureImporter:
         width: 170
         height: 137
       alignment: 9
-      pivot: {x: -.158823535, y: 1.86131382}
+      pivot: {x: -0.15882353, y: 1.8613138}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190nc1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190nc1
       rect:
         serializedVersion: 2
         x: 980
@@ -772,9 +1696,20 @@ TextureImporter:
         width: 138
         height: 138
       alignment: 9
-      pivot: {x: -.297101438, y: 1.8550725}
+      pivot: {x: -0.29710144, y: 1.8550725}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190nc2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190nc2
       rect:
         serializedVersion: 2
         x: 1120
@@ -782,9 +1717,20 @@ TextureImporter:
         width: 135
         height: 138
       alignment: 9
-      pivot: {x: -.318518519, y: 1.8550725}
+      pivot: {x: -0.31851852, y: 1.8550725}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190nc3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190nc3
       rect:
         serializedVersion: 2
         x: 1257
@@ -792,9 +1738,20 @@ TextureImporter:
         width: 133
         height: 138
       alignment: 9
-      pivot: {x: -.39849624, y: 1.8550725}
+      pivot: {x: -0.39849624, y: 1.8550725}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190nc4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190nc4
       rect:
         serializedVersion: 2
         x: 1392
@@ -802,9 +1759,20 @@ TextureImporter:
         width: 171
         height: 138
       alignment: 9
-      pivot: {x: -.339181274, y: 1.8550725}
+      pivot: {x: -0.33918127, y: 1.8550725}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190nd0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190nd0
       rect:
         serializedVersion: 2
         x: 1565
@@ -812,9 +1780,20 @@ TextureImporter:
         width: 169
         height: 125
       alignment: 9
-      pivot: {x: -.0887573957, y: 2.03999996}
+      pivot: {x: -0.088757396, y: 2.04}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190nd1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190nd1
       rect:
         serializedVersion: 2
         x: 1736
@@ -822,9 +1801,20 @@ TextureImporter:
         width: 114
         height: 126
       alignment: 9
-      pivot: {x: -.473684222, y: 2.03174615}
+      pivot: {x: -0.47368422, y: 2.0317461}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190nd2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190nd2
       rect:
         serializedVersion: 2
         x: 1852
@@ -832,9 +1822,20 @@ TextureImporter:
         width: 103
         height: 126
       alignment: 9
-      pivot: {x: -.524271846, y: 2.03174615}
+      pivot: {x: -0.52427185, y: 2.0317461}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190nd3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a305410000000000800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190nd3
       rect:
         serializedVersion: 2
         x: 2
@@ -842,9 +1843,20 @@ TextureImporter:
         width: 153
         height: 126
       alignment: 9
-      pivot: {x: -.411764711, y: 2.03174615}
+      pivot: {x: -0.4117647, y: 2.0317461}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190nd4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190nd4
       rect:
         serializedVersion: 2
         x: 157
@@ -852,9 +1864,20 @@ TextureImporter:
         width: 169
         height: 126
       alignment: 9
-      pivot: {x: -.426035494, y: 2.03174615}
+      pivot: {x: -0.4260355, y: 2.0317461}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190ne0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190ne0
       rect:
         serializedVersion: 2
         x: 328
@@ -862,9 +1885,20 @@ TextureImporter:
         width: 137
         height: 134
       alignment: 9
-      pivot: {x: -.240875915, y: 1.91044772}
+      pivot: {x: -0.24087591, y: 1.9104477}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190ne1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a305410000000000800000000000000
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190ne1
       rect:
         serializedVersion: 2
         x: 467
@@ -872,9 +1906,20 @@ TextureImporter:
         width: 99
         height: 134
       alignment: 9
-      pivot: {x: -.656565666, y: 1.91044772}
+      pivot: {x: -0.65656567, y: 1.9104477}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190ne2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190ne2
       rect:
         serializedVersion: 2
         x: 568
@@ -882,9 +1927,20 @@ TextureImporter:
         width: 85
         height: 134
       alignment: 9
-      pivot: {x: -.870588243, y: 1.91044772}
+      pivot: {x: -0.87058824, y: 1.9104477}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190ne3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190ne3
       rect:
         serializedVersion: 2
         x: 655
@@ -892,9 +1948,20 @@ TextureImporter:
         width: 137
         height: 135
       alignment: 9
-      pivot: {x: -.562043786, y: 1.89629626}
+      pivot: {x: -0.5620438, y: 1.8962963}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190ne4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea305410000000000800000000000000
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190ne4
       rect:
         serializedVersion: 2
         x: 794
@@ -902,9 +1969,20 @@ TextureImporter:
         width: 136
         height: 135
       alignment: 9
-      pivot: {x: -.632352948, y: 1.89629626}
+      pivot: {x: -0.63235295, y: 1.8962963}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190nef4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b305410000000000800000000000000
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190nef4
       rect:
         serializedVersion: 2
         x: 932
@@ -912,9 +1990,20 @@ TextureImporter:
         width: 130
         height: 145
       alignment: 9
-      pivot: {x: -.669230759, y: 1.76551723}
+      pivot: {x: -0.66923076, y: 1.7655172}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190nf0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b305410000000000800000000000000
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190nf0
       rect:
         serializedVersion: 2
         x: 1064
@@ -922,9 +2011,20 @@ TextureImporter:
         width: 131
         height: 145
       alignment: 9
-      pivot: {x: -.290076345, y: 1.76551723}
+      pivot: {x: -0.29007635, y: 1.7655172}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190nf1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b305410000000000800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190nf1
       rect:
         serializedVersion: 2
         x: 1197
@@ -932,9 +2032,20 @@ TextureImporter:
         width: 93
         height: 145
       alignment: 9
-      pivot: {x: -.763440847, y: 1.76551723}
+      pivot: {x: -0.76344085, y: 1.7655172}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190nf2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b305410000000000800000000000000
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190nf2
       rect:
         serializedVersion: 2
         x: 1292
@@ -942,9 +2053,20 @@ TextureImporter:
         width: 84
         height: 145
       alignment: 9
-      pivot: {x: -1.03571427, y: 1.76551723}
+      pivot: {x: -1.0357143, y: 1.7655172}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190nf3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b305410000000000800000000000000
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190nf3
       rect:
         serializedVersion: 2
         x: 1378
@@ -952,9 +2074,20 @@ TextureImporter:
         width: 139
         height: 145
       alignment: 9
-      pivot: {x: -.589928031, y: 1.76551723}
+      pivot: {x: -0.58992803, y: 1.7655172}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190nf4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab305410000000000800000000000000
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190nf4
       rect:
         serializedVersion: 2
         x: 932
@@ -962,9 +2095,20 @@ TextureImporter:
         width: 130
         height: 145
       alignment: 9
-      pivot: {x: -.669230759, y: 1.76551723}
+      pivot: {x: -0.66923076, y: 1.7655172}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190sa0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb305410000000000800000000000000
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190sa0
       rect:
         serializedVersion: 2
         x: 1519
@@ -972,9 +2116,20 @@ TextureImporter:
         width: 117
         height: 150
       alignment: 9
-      pivot: {x: -.452991456, y: 1.70666671}
+      pivot: {x: -0.45299146, y: 1.7066667}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190sa1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb305410000000000800000000000000
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190sa1
       rect:
         serializedVersion: 2
         x: 1638
@@ -982,9 +2137,20 @@ TextureImporter:
         width: 82
         height: 150
       alignment: 9
-      pivot: {x: -1, y: 1.70666671}
+      pivot: {x: -1, y: 1.7066667}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190sa2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c305410000000000800000000000000
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190sa2
       rect:
         serializedVersion: 2
         x: 1722
@@ -992,9 +2158,20 @@ TextureImporter:
         width: 104
         height: 150
       alignment: 9
-      pivot: {x: -.846153855, y: 1.70666671}
+      pivot: {x: -0.84615386, y: 1.7066667}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190sa3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c305410000000000800000000000000
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190sa3
       rect:
         serializedVersion: 2
         x: 1828
@@ -1002,9 +2179,20 @@ TextureImporter:
         width: 143
         height: 150
       alignment: 9
-      pivot: {x: -.5804196, y: 1.70666671}
+      pivot: {x: -0.5804196, y: 1.7066667}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190sa4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c305410000000000800000000000000
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190sa4
       rect:
         serializedVersion: 2
         x: 2
@@ -1012,9 +2200,20 @@ TextureImporter:
         width: 115
         height: 150
       alignment: 9
-      pivot: {x: -.747826099, y: 1.70666671}
+      pivot: {x: -0.7478261, y: 1.7066667}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190wa0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c305410000000000800000000000000
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190wa0
       rect:
         serializedVersion: 2
         x: 119
@@ -1022,9 +2221,20 @@ TextureImporter:
         width: 73
         height: 150
       alignment: 9
-      pivot: {x: -1.2054795, y: 1.70666671}
+      pivot: {x: -1.2054795, y: 1.7066667}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190wa1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c305410000000000800000000000000
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190wa1
       rect:
         serializedVersion: 2
         x: 194
@@ -1032,9 +2242,20 @@ TextureImporter:
         width: 123
         height: 150
       alignment: 9
-      pivot: {x: -.65040648, y: 1.70666671}
+      pivot: {x: -0.6504065, y: 1.7066667}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190wa2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac305410000000000800000000000000
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190wa2
       rect:
         serializedVersion: 2
         x: 319
@@ -1042,9 +2263,20 @@ TextureImporter:
         width: 131
         height: 150
       alignment: 9
-      pivot: {x: -.564885497, y: 1.70666671}
+      pivot: {x: -0.5648855, y: 1.7066667}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190wa3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc305410000000000800000000000000
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190wa3
       rect:
         serializedVersion: 2
         x: 452
@@ -1052,9 +2284,20 @@ TextureImporter:
         width: 98
         height: 150
       alignment: 9
-      pivot: {x: -.744897962, y: 1.70666671}
+      pivot: {x: -0.74489796, y: 1.7066667}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190wa4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec305410000000000800000000000000
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190wa4
       rect:
         serializedVersion: 2
         x: 552
@@ -1062,9 +2305,20 @@ TextureImporter:
         width: 74
         height: 150
       alignment: 9
-      pivot: {x: -1.27027023, y: 1.70666671}
+      pivot: {x: -1.2702702, y: 1.7066667}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190wb0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d305410000000000800000000000000
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190wb0
       rect:
         serializedVersion: 2
         x: 628
@@ -1072,9 +2326,20 @@ TextureImporter:
         width: 92
         height: 155
       alignment: 9
-      pivot: {x: -.880434811, y: 1.65161288}
+      pivot: {x: -0.8804348, y: 1.6516129}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190wb1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d305410000000000800000000000000
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190wb1
       rect:
         serializedVersion: 2
         x: 722
@@ -1082,9 +2347,20 @@ TextureImporter:
         width: 98
         height: 155
       alignment: 9
-      pivot: {x: -.857142866, y: 1.65161288}
+      pivot: {x: -0.85714287, y: 1.6516129}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190wb2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d305410000000000800000000000000
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190wb2
       rect:
         serializedVersion: 2
         x: 822
@@ -1092,9 +2368,20 @@ TextureImporter:
         width: 132
         height: 155
       alignment: 9
-      pivot: {x: -.621212125, y: 1.65161288}
+      pivot: {x: -0.6212121, y: 1.6516129}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190wb3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d305410000000000800000000000000
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190wb3
       rect:
         serializedVersion: 2
         x: 956
@@ -1102,9 +2389,20 @@ TextureImporter:
         width: 129
         height: 155
       alignment: 9
-      pivot: {x: -.519379854, y: 1.65161288}
+      pivot: {x: -0.51937985, y: 1.6516129}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190wb4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d305410000000000800000000000000
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190wb4
       rect:
         serializedVersion: 2
         x: 1087
@@ -1112,9 +2410,20 @@ TextureImporter:
         width: 92
         height: 155
       alignment: 9
-      pivot: {x: -.902173936, y: 1.65161288}
+      pivot: {x: -0.90217394, y: 1.6516129}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190wc0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad305410000000000800000000000000
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190wc0
       rect:
         serializedVersion: 2
         x: 1181
@@ -1122,9 +2431,20 @@ TextureImporter:
         width: 110
         height: 157
       alignment: 9
-      pivot: {x: -.672727287, y: 1.63057327}
+      pivot: {x: -0.6727273, y: 1.6305733}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190wc1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd305410000000000800000000000000
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190wc1
       rect:
         serializedVersion: 2
         x: 1293
@@ -1132,9 +2452,20 @@ TextureImporter:
         width: 84
         height: 157
       alignment: 9
-      pivot: {x: -1.03571427, y: 1.63057327}
+      pivot: {x: -1.0357143, y: 1.6305733}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190wc2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed305410000000000800000000000000
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190wc2
       rect:
         serializedVersion: 2
         x: 1379
@@ -1142,9 +2473,20 @@ TextureImporter:
         width: 108
         height: 157
       alignment: 9
-      pivot: {x: -.907407403, y: 1.63057327}
+      pivot: {x: -0.9074074, y: 1.6305733}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190wc3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e305410000000000800000000000000
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190wc3
       rect:
         serializedVersion: 2
         x: 1489
@@ -1152,9 +2494,20 @@ TextureImporter:
         width: 131
         height: 157
       alignment: 9
-      pivot: {x: -.648854971, y: 1.63057327}
+      pivot: {x: -0.648855, y: 1.6305733}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190wc4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e305410000000000800000000000000
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190wc4
       rect:
         serializedVersion: 2
         x: 1622
@@ -1162,9 +2515,20 @@ TextureImporter:
         width: 109
         height: 157
       alignment: 9
-      pivot: {x: -.660550475, y: 1.63057327}
+      pivot: {x: -0.6605505, y: 1.6305733}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190wd0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e305410000000000800000000000000
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190wd0
       rect:
         serializedVersion: 2
         x: 1733
@@ -1172,9 +2536,20 @@ TextureImporter:
         width: 120
         height: 153
       alignment: 9
-      pivot: {x: -.508333325, y: 1.67320263}
+      pivot: {x: -0.5083333, y: 1.6732026}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190wd1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e305410000000000800000000000000
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190wd1
       rect:
         serializedVersion: 2
         x: 1855
@@ -1182,9 +2557,20 @@ TextureImporter:
         width: 123
         height: 153
       alignment: 9
-      pivot: {x: -.536585391, y: 1.67320263}
+      pivot: {x: -0.5365854, y: 1.6732026}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190wd2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e305410000000000800000000000000
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190wd2
       rect:
         serializedVersion: 2
         x: 2
@@ -1192,9 +2578,20 @@ TextureImporter:
         width: 100
         height: 153
       alignment: 9
-      pivot: {x: -.879999995, y: 1.67320263}
+      pivot: {x: -0.88, y: 1.6732026}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190wd3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae305410000000000800000000000000
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190wd3
       rect:
         serializedVersion: 2
         x: 104
@@ -1202,9 +2599,20 @@ TextureImporter:
         width: 129
         height: 153
       alignment: 9
-      pivot: {x: -.674418628, y: 1.67320263}
+      pivot: {x: -0.6744186, y: 1.6732026}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190wd4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce305410000000000800000000000000
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190wd4
       rect:
         serializedVersion: 2
         x: 235
@@ -1212,9 +2620,20 @@ TextureImporter:
         width: 118
         height: 153
       alignment: 9
-      pivot: {x: -.644067824, y: 1.67320263}
+      pivot: {x: -0.6440678, y: 1.6732026}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190we0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee305410000000000800000000000000
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190we0
       rect:
         serializedVersion: 2
         x: 355
@@ -1222,9 +2641,20 @@ TextureImporter:
         width: 111
         height: 151
       alignment: 9
-      pivot: {x: -.567567587, y: 1.69536424}
+      pivot: {x: -0.5675676, y: 1.6953642}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190we1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f305410000000000800000000000000
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190we1
       rect:
         serializedVersion: 2
         x: 468
@@ -1232,9 +2662,20 @@ TextureImporter:
         width: 137
         height: 151
       alignment: 9
-      pivot: {x: -.394160599, y: 1.69536424}
+      pivot: {x: -0.3941606, y: 1.6953642}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190we2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f305410000000000800000000000000
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190we2
       rect:
         serializedVersion: 2
         x: 607
@@ -1242,9 +2683,20 @@ TextureImporter:
         width: 108
         height: 151
       alignment: 9
-      pivot: {x: -.648148119, y: 1.69536424}
+      pivot: {x: -0.6481481, y: 1.6953642}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190we3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f305410000000000800000000000000
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190we3
       rect:
         serializedVersion: 2
         x: 717
@@ -1252,9 +2704,20 @@ TextureImporter:
         width: 118
         height: 151
       alignment: 9
-      pivot: {x: -.686440706, y: 1.69536424}
+      pivot: {x: -0.6864407, y: 1.6953642}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190we4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f305410000000000800000000000000
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190we4
       rect:
         serializedVersion: 2
         x: 837
@@ -1262,9 +2725,20 @@ TextureImporter:
         width: 111
         height: 151
       alignment: 9
-      pivot: {x: -.738738716, y: 1.69536424}
+      pivot: {x: -0.7387387, y: 1.6953642}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190wf0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f305410000000000800000000000000
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190wf0
       rect:
         serializedVersion: 2
         x: 950
@@ -1272,9 +2746,20 @@ TextureImporter:
         width: 105
         height: 155
       alignment: 9
-      pivot: {x: -.695238113, y: 1.65161288}
+      pivot: {x: -0.6952381, y: 1.6516129}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190wf1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af305410000000000800000000000000
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190wf1
       rect:
         serializedVersion: 2
         x: 1057
@@ -1282,9 +2767,20 @@ TextureImporter:
         width: 138
         height: 156
       alignment: 9
-      pivot: {x: -.376811594, y: 1.64102566}
+      pivot: {x: -0.3768116, y: 1.6410257}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190wf2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf305410000000000800000000000000
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190wf2
       rect:
         serializedVersion: 2
         x: 1197
@@ -1292,9 +2788,20 @@ TextureImporter:
         width: 101
         height: 156
       alignment: 9
-      pivot: {x: -.702970326, y: 1.64102566}
+      pivot: {x: -0.7029703, y: 1.6410257}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190wf3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef305410000000000800000000000000
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190wf3
       rect:
         serializedVersion: 2
         x: 1300
@@ -1302,9 +2809,20 @@ TextureImporter:
         width: 98
         height: 155
       alignment: 9
-      pivot: {x: -.867346942, y: 1.65161288}
+      pivot: {x: -0.86734694, y: 1.6516129}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190wf4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00405410000000000800000000000000
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190wf4
       rect:
         serializedVersion: 2
         x: 1400
@@ -1312,9 +2830,20 @@ TextureImporter:
         width: 105
         height: 155
       alignment: 9
-      pivot: {x: -.742857158, y: 1.65161288}
+      pivot: {x: -0.74285716, y: 1.6516129}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190wg0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20405410000000000800000000000000
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190wg0
       rect:
         serializedVersion: 2
         x: 1507
@@ -1322,9 +2851,20 @@ TextureImporter:
         width: 118
         height: 158
       alignment: 9
-      pivot: {x: -.559322059, y: 1.62025321}
+      pivot: {x: -0.55932206, y: 1.6202532}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190wg1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40405410000000000800000000000000
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190wg1
       rect:
         serializedVersion: 2
         x: 1627
@@ -1332,9 +2872,20 @@ TextureImporter:
         width: 119
         height: 158
       alignment: 9
-      pivot: {x: -.537815154, y: 1.62025321}
+      pivot: {x: -0.53781515, y: 1.6202532}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190wg2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60405410000000000800000000000000
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190wg2
       rect:
         serializedVersion: 2
         x: 1748
@@ -1342,9 +2893,20 @@ TextureImporter:
         width: 83
         height: 158
       alignment: 9
-      pivot: {x: -1.18072283, y: 1.62025321}
+      pivot: {x: -1.1807228, y: 1.6202532}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190wg3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80405410000000000800000000000000
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190wg3
       rect:
         serializedVersion: 2
         x: 1833
@@ -1352,9 +2914,20 @@ TextureImporter:
         width: 88
         height: 158
       alignment: 9
-      pivot: {x: -1, y: 1.62025321}
+      pivot: {x: -1, y: 1.6202532}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190wg4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0405410000000000800000000000000
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190wg4
       rect:
         serializedVersion: 2
         x: 1923
@@ -1362,9 +2935,20 @@ TextureImporter:
         width: 118
         height: 158
       alignment: 9
-      pivot: {x: -.61016947, y: 1.62025321}
+      pivot: {x: -0.6101695, y: 1.6202532}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190wh0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0405410000000000800000000000000
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190wh0
       rect:
         serializedVersion: 2
         x: 2
@@ -1372,9 +2956,20 @@ TextureImporter:
         width: 106
         height: 155
       alignment: 9
-      pivot: {x: -.679245293, y: 1.65161288}
+      pivot: {x: -0.6792453, y: 1.6516129}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190wh1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0405410000000000800000000000000
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190wh1
       rect:
         serializedVersion: 2
         x: 110
@@ -1382,9 +2977,20 @@ TextureImporter:
         width: 99
         height: 155
       alignment: 9
-      pivot: {x: -.878787875, y: 1.65161288}
+      pivot: {x: -0.8787879, y: 1.6516129}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190wh2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01405410000000000800000000000000
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190wh2
       rect:
         serializedVersion: 2
         x: 211
@@ -1392,9 +2998,20 @@ TextureImporter:
         width: 110
         height: 155
       alignment: 9
-      pivot: {x: -.818181813, y: 1.65161288}
+      pivot: {x: -0.8181818, y: 1.6516129}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190wh3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21405410000000000800000000000000
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190wh3
       rect:
         serializedVersion: 2
         x: 323
@@ -1402,9 +3019,20 @@ TextureImporter:
         width: 95
         height: 155
       alignment: 9
-      pivot: {x: -.83157897, y: 1.65161288}
+      pivot: {x: -0.83157897, y: 1.6516129}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190wh4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41405410000000000800000000000000
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190wh4
       rect:
         serializedVersion: 2
         x: 420
@@ -1412,9 +3040,20 @@ TextureImporter:
         width: 107
         height: 155
       alignment: 9
-      pivot: {x: -.719626188, y: 1.65161288}
+      pivot: {x: -0.7196262, y: 1.6516129}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m190xa0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61405410000000000800000000000000
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m190xa0
       rect:
         serializedVersion: 2
         x: 529
@@ -1422,9 +3061,31 @@ TextureImporter:
         width: 156
         height: 38
       alignment: 9
-      pivot: {x: -.365384609, y: 6.73684216}
+      pivot: {x: -0.3653846, y: 6.736842}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81405410000000000800000000000000
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

@@ -1,179 +1,452 @@
 fileFormatVersion: 2
 guid: ece9ae94e748659419fc45211557e417
-timeCreated: 1442630296
-licenseType: Pro
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: m166Aa0
-    21300002: m166Aa1
-    21300004: m166Aa2
-    21300006: m166Aa3
-    21300008: m166Aa4
-    21300010: m166Ab0
-    21300012: m166Ab1
-    21300014: m166Ab2
-    21300016: m166Ab3
-    21300018: m166Ab4
-    21300020: m166Ac0
-    21300022: m166Ac1
-    21300024: m166Ac2
-    21300026: m166Ac3
-    21300028: m166Ac4
-    21300030: m166Ad0
-    21300032: m166Ad1
-    21300034: m166Ad2
-    21300036: m166Ad3
-    21300038: m166Ad4
-    21300040: m166Ae0
-    21300042: m166Ae1
-    21300044: m166Ae2
-    21300046: m166Ae3
-    21300048: m166Ae4
-    21300050: m166Af0
-    21300052: m166Af1
-    21300054: m166Af2
-    21300056: m166Af3
-    21300058: m166Af4
-    21300060: m166Ag0
-    21300062: m166Ag1
-    21300064: m166Ag2
-    21300066: m166Ag3
-    21300068: m166Ag4
-    21300070: m166Ah0
-    21300072: m166Ah1
-    21300074: m166Ah2
-    21300076: m166Ah3
-    21300078: m166Ah4
-    21300080: m166Ai0
-    21300082: m166Ai1
-    21300084: m166Ai2
-    21300086: m166Ai3
-    21300088: m166Ai4
-    21300090: m166Da0
-    21300092: m166Db0
-    21300094: m166Dc0
-    21300096: m166Dd0
-    21300098: m166Fa0
-    21300100: m166Fb0
-    21300102: m166Fc0
-    21300104: m166Fd0
-    21300106: m166Na0
-    21300108: m166Na1
-    21300110: m166Na2
-    21300112: m166Na3
-    21300114: m166Na4
-    21300116: m166Nb0
-    21300118: m166Nb1
-    21300120: m166Nb2
-    21300122: m166Nb3
-    21300124: m166Nb4
-    21300126: m166Nc0
-    21300128: m166Nc1
-    21300130: m166Nc2
-    21300132: m166Nc3
-    21300134: m166Nc4
-    21300136: m166Nd0
-    21300138: m166Nd1
-    21300140: m166Nd2
-    21300142: m166Nd3
-    21300144: m166Nd4
-    21300146: m166Ne0
-    21300148: m166Ne1
-    21300150: m166Ne2
-    21300152: m166Ne3
-    21300154: m166Ne4
-    21300156: m166Nf0
-    21300158: m166Nf1
-    21300160: m166Nf2
-    21300162: m166Nf3
-    21300164: m166Nf4
-    21300166: m166Wa0
-    21300168: m166Wa1
-    21300170: m166Wa2
-    21300172: m166Wa3
-    21300174: m166Wa4
-    21300176: m166Wb0
-    21300178: m166Wb1
-    21300180: m166Wb2
-    21300182: m166Wb3
-    21300184: m166Wb4
-    21300186: m166Wc0
-    21300188: m166Wc1
-    21300190: m166Wc2
-    21300192: m166Wc3
-    21300194: m166Wc4
-    21300196: m166Wd0
-    21300198: m166Wd1
-    21300200: m166Wd2
-    21300202: m166Wd3
-    21300204: m166Wd4
-    21300206: m166We0
-    21300208: m166We1
-    21300210: m166We2
-    21300212: m166We3
-    21300214: m166We4
-    21300216: m166Wf0
-    21300218: m166Wf1
-    21300220: m166Wf2
-    21300222: m166Wf3
-    21300224: m166Wf4
-    21300226: m166Wg0
-    21300228: m166Wg1
-    21300230: m166Wg2
-    21300232: m166Wg3
-    21300234: m166Wg4
-    21300236: m166Wh0
-    21300238: m166Wh1
-    21300240: m166Wh2
-    21300242: m166Wh3
-    21300244: m166Wh4
-    21300246: m166Xa0
-  serializedVersion: 2
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: m166Aa0
+  - first:
+      213: 21300002
+    second: m166Aa1
+  - first:
+      213: 21300004
+    second: m166Aa2
+  - first:
+      213: 21300006
+    second: m166Aa3
+  - first:
+      213: 21300008
+    second: m166Aa4
+  - first:
+      213: 21300010
+    second: m166Ab0
+  - first:
+      213: 21300012
+    second: m166Ab1
+  - first:
+      213: 21300014
+    second: m166Ab2
+  - first:
+      213: 21300016
+    second: m166Ab3
+  - first:
+      213: 21300018
+    second: m166Ab4
+  - first:
+      213: 21300020
+    second: m166Ac0
+  - first:
+      213: 21300022
+    second: m166Ac1
+  - first:
+      213: 21300024
+    second: m166Ac2
+  - first:
+      213: 21300026
+    second: m166Ac3
+  - first:
+      213: 21300028
+    second: m166Ac4
+  - first:
+      213: 21300030
+    second: m166Ad0
+  - first:
+      213: 21300032
+    second: m166Ad1
+  - first:
+      213: 21300034
+    second: m166Ad2
+  - first:
+      213: 21300036
+    second: m166Ad3
+  - first:
+      213: 21300038
+    second: m166Ad4
+  - first:
+      213: 21300040
+    second: m166Ae0
+  - first:
+      213: 21300042
+    second: m166Ae1
+  - first:
+      213: 21300044
+    second: m166Ae2
+  - first:
+      213: 21300046
+    second: m166Ae3
+  - first:
+      213: 21300048
+    second: m166Ae4
+  - first:
+      213: 21300050
+    second: m166Af0
+  - first:
+      213: 21300052
+    second: m166Af1
+  - first:
+      213: 21300054
+    second: m166Af2
+  - first:
+      213: 21300056
+    second: m166Af3
+  - first:
+      213: 21300058
+    second: m166Af4
+  - first:
+      213: 21300060
+    second: m166Ag0
+  - first:
+      213: 21300062
+    second: m166Ag1
+  - first:
+      213: 21300064
+    second: m166Ag2
+  - first:
+      213: 21300066
+    second: m166Ag3
+  - first:
+      213: 21300068
+    second: m166Ag4
+  - first:
+      213: 21300070
+    second: m166Ah0
+  - first:
+      213: 21300072
+    second: m166Ah1
+  - first:
+      213: 21300074
+    second: m166Ah2
+  - first:
+      213: 21300076
+    second: m166Ah3
+  - first:
+      213: 21300078
+    second: m166Ah4
+  - first:
+      213: 21300080
+    second: m166Ai0
+  - first:
+      213: 21300082
+    second: m166Ai1
+  - first:
+      213: 21300084
+    second: m166Ai2
+  - first:
+      213: 21300086
+    second: m166Ai3
+  - first:
+      213: 21300088
+    second: m166Ai4
+  - first:
+      213: 21300090
+    second: m166Da0
+  - first:
+      213: 21300092
+    second: m166Db0
+  - first:
+      213: 21300094
+    second: m166Dc0
+  - first:
+      213: 21300096
+    second: m166Dd0
+  - first:
+      213: 21300098
+    second: m166Fa0
+  - first:
+      213: 21300100
+    second: m166Fb0
+  - first:
+      213: 21300102
+    second: m166Fc0
+  - first:
+      213: 21300104
+    second: m166Fd0
+  - first:
+      213: 21300106
+    second: m166Na0
+  - first:
+      213: 21300108
+    second: m166Na1
+  - first:
+      213: 21300110
+    second: m166Na2
+  - first:
+      213: 21300112
+    second: m166Na3
+  - first:
+      213: 21300114
+    second: m166Na4
+  - first:
+      213: 21300116
+    second: m166Nb0
+  - first:
+      213: 21300118
+    second: m166Nb1
+  - first:
+      213: 21300120
+    second: m166Nb2
+  - first:
+      213: 21300122
+    second: m166Nb3
+  - first:
+      213: 21300124
+    second: m166Nb4
+  - first:
+      213: 21300126
+    second: m166Nc0
+  - first:
+      213: 21300128
+    second: m166Nc1
+  - first:
+      213: 21300130
+    second: m166Nc2
+  - first:
+      213: 21300132
+    second: m166Nc3
+  - first:
+      213: 21300134
+    second: m166Nc4
+  - first:
+      213: 21300136
+    second: m166Nd0
+  - first:
+      213: 21300138
+    second: m166Nd1
+  - first:
+      213: 21300140
+    second: m166Nd2
+  - first:
+      213: 21300142
+    second: m166Nd3
+  - first:
+      213: 21300144
+    second: m166Nd4
+  - first:
+      213: 21300146
+    second: m166Ne0
+  - first:
+      213: 21300148
+    second: m166Ne1
+  - first:
+      213: 21300150
+    second: m166Ne2
+  - first:
+      213: 21300152
+    second: m166Ne3
+  - first:
+      213: 21300154
+    second: m166Ne4
+  - first:
+      213: 21300156
+    second: m166Nf0
+  - first:
+      213: 21300158
+    second: m166Nf1
+  - first:
+      213: 21300160
+    second: m166Nf2
+  - first:
+      213: 21300162
+    second: m166Nf3
+  - first:
+      213: 21300164
+    second: m166Nf4
+  - first:
+      213: 21300166
+    second: m166Wa0
+  - first:
+      213: 21300168
+    second: m166Wa1
+  - first:
+      213: 21300170
+    second: m166Wa2
+  - first:
+      213: 21300172
+    second: m166Wa3
+  - first:
+      213: 21300174
+    second: m166Wa4
+  - first:
+      213: 21300176
+    second: m166Wb0
+  - first:
+      213: 21300178
+    second: m166Wb1
+  - first:
+      213: 21300180
+    second: m166Wb2
+  - first:
+      213: 21300182
+    second: m166Wb3
+  - first:
+      213: 21300184
+    second: m166Wb4
+  - first:
+      213: 21300186
+    second: m166Wc0
+  - first:
+      213: 21300188
+    second: m166Wc1
+  - first:
+      213: 21300190
+    second: m166Wc2
+  - first:
+      213: 21300192
+    second: m166Wc3
+  - first:
+      213: 21300194
+    second: m166Wc4
+  - first:
+      213: 21300196
+    second: m166Wd0
+  - first:
+      213: 21300198
+    second: m166Wd1
+  - first:
+      213: 21300200
+    second: m166Wd2
+  - first:
+      213: 21300202
+    second: m166Wd3
+  - first:
+      213: 21300204
+    second: m166Wd4
+  - first:
+      213: 21300206
+    second: m166We0
+  - first:
+      213: 21300208
+    second: m166We1
+  - first:
+      213: 21300210
+    second: m166We2
+  - first:
+      213: 21300212
+    second: m166We3
+  - first:
+      213: 21300214
+    second: m166We4
+  - first:
+      213: 21300216
+    second: m166Wf0
+  - first:
+      213: 21300218
+    second: m166Wf1
+  - first:
+      213: 21300220
+    second: m166Wf2
+  - first:
+      213: 21300222
+    second: m166Wf3
+  - first:
+      213: 21300224
+    second: m166Wf4
+  - first:
+      213: 21300226
+    second: m166Wg0
+  - first:
+      213: 21300228
+    second: m166Wg1
+  - first:
+      213: 21300230
+    second: m166Wg2
+  - first:
+      213: 21300232
+    second: m166Wg3
+  - first:
+      213: 21300234
+    second: m166Wg4
+  - first:
+      213: 21300236
+    second: m166Wh0
+  - first:
+      213: 21300238
+    second: m166Wh1
+  - first:
+      213: 21300240
+    second: m166Wh2
+  - first:
+      213: 21300242
+    second: m166Wh3
+  - first:
+      213: 21300244
+    second: m166Wh4
+  - first:
+      213: 21300246
+    second: m166Xa0
+  externalObjects: {}
+  serializedVersion: 10
   mipmaps:
     mipMapMode: 0
     enableMipMap: 1
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
     convertToNormalMap: 0
     externalNormalMap: 0
-    heightScale: .25
+    heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
   cubemapConvolution: 0
-  cubemapConvolutionSteps: 8
-  cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -1
   maxTextureSize: 4096
   textureSettings:
+    serializedVersion: 2
     filterMode: -1
     aniso: -1
-    mipBias: -1
-    wrapMode: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
-  rGBM: 0
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
-  spritePivot: {x: .5, y: .5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings: []
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: m166Aa0
+    - serializedVersion: 2
+      name: m166Aa0
       rect:
         serializedVersion: 2
         x: 2
@@ -181,9 +454,20 @@ TextureImporter:
         width: 209
         height: 195
       alignment: 9
-      pivot: {x: -.0765550211, y: 1.18974364}
+      pivot: {x: -0.07655502, y: 1.1897436}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Aa1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Aa1
       rect:
         serializedVersion: 2
         x: 213
@@ -191,9 +475,20 @@ TextureImporter:
         width: 165
         height: 195
       alignment: 9
-      pivot: {x: -.381818175, y: 1.18974364}
+      pivot: {x: -0.38181818, y: 1.1897436}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Aa2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Aa2
       rect:
         serializedVersion: 2
         x: 380
@@ -201,9 +496,20 @@ TextureImporter:
         width: 97
         height: 195
       alignment: 9
-      pivot: {x: -1.07216489, y: 1.18974364}
+      pivot: {x: -1.0721649, y: 1.1897436}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Aa3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Aa3
       rect:
         serializedVersion: 2
         x: 479
@@ -211,9 +517,20 @@ TextureImporter:
         width: 167
         height: 195
       alignment: 9
-      pivot: {x: -.347305387, y: 1.18974364}
+      pivot: {x: -0.3473054, y: 1.1897436}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Aa4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Aa4
       rect:
         serializedVersion: 2
         x: 648
@@ -221,9 +538,20 @@ TextureImporter:
         width: 208
         height: 194
       alignment: 9
-      pivot: {x: -.149038464, y: 1.19072163}
+      pivot: {x: -0.14903846, y: 1.1907216}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Ab0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Ab0
       rect:
         serializedVersion: 2
         x: 858
@@ -231,9 +559,20 @@ TextureImporter:
         width: 235
         height: 197
       alignment: 9
-      pivot: {x: -.0170212761, y: 1.19289339}
+      pivot: {x: -0.017021276, y: 1.1928934}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Ab1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Ab1
       rect:
         serializedVersion: 2
         x: 1095
@@ -241,9 +580,20 @@ TextureImporter:
         width: 182
         height: 198
       alignment: 9
-      pivot: {x: -.258241773, y: 1.19191921}
+      pivot: {x: -0.25824177, y: 1.1919192}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Ab2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Ab2
       rect:
         serializedVersion: 2
         x: 1279
@@ -251,9 +601,20 @@ TextureImporter:
         width: 97
         height: 198
       alignment: 9
-      pivot: {x: -1.06185567, y: 1.19191921}
+      pivot: {x: -1.0618557, y: 1.1919192}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Ab3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Ab3
       rect:
         serializedVersion: 2
         x: 1378
@@ -261,9 +622,20 @@ TextureImporter:
         width: 185
         height: 198
       alignment: 9
-      pivot: {x: -.21081081, y: 1.19191921}
+      pivot: {x: -0.21081081, y: 1.1919192}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Ab4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Ab4
       rect:
         serializedVersion: 2
         x: 1565
@@ -271,9 +643,20 @@ TextureImporter:
         width: 234
         height: 197
       alignment: 9
-      pivot: {x: -.0726495758, y: 1.19289339}
+      pivot: {x: -0.072649576, y: 1.1928934}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Ac0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Ac0
       rect:
         serializedVersion: 2
         x: 1801
@@ -281,9 +664,20 @@ TextureImporter:
         width: 229
         height: 206
       alignment: 9
-      pivot: {x: -.0655021816, y: 1.19417477}
+      pivot: {x: -0.06550218, y: 1.1941748}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Ac1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Ac1
       rect:
         serializedVersion: 2
         x: 2
@@ -291,9 +685,20 @@ TextureImporter:
         width: 181
         height: 206
       alignment: 9
-      pivot: {x: -.259668499, y: 1.19417477}
+      pivot: {x: -0.2596685, y: 1.1941748}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Ac2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Ac2
       rect:
         serializedVersion: 2
         x: 185
@@ -301,9 +706,20 @@ TextureImporter:
         width: 94
         height: 207
       alignment: 9
-      pivot: {x: -1.09574473, y: 1.19323671}
+      pivot: {x: -1.0957447, y: 1.1932367}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Ac3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Ac3
       rect:
         serializedVersion: 2
         x: 281
@@ -311,9 +727,20 @@ TextureImporter:
         width: 176
         height: 206
       alignment: 9
-      pivot: {x: -.193181813, y: 1.19902909}
+      pivot: {x: -0.19318181, y: 1.1990291}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Ac4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Ac4
       rect:
         serializedVersion: 2
         x: 459
@@ -321,9 +748,20 @@ TextureImporter:
         width: 229
         height: 206
       alignment: 9
-      pivot: {x: -.0524017476, y: 1.19902909}
+      pivot: {x: -0.052401748, y: 1.1990291}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Ad0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Ad0
       rect:
         serializedVersion: 2
         x: 690
@@ -331,9 +769,20 @@ TextureImporter:
         width: 228
         height: 217
       alignment: 9
-      pivot: {x: -.092105262, y: 1.1797235}
+      pivot: {x: -0.09210526, y: 1.1797235}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Ad1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Ad1
       rect:
         serializedVersion: 2
         x: 920
@@ -341,9 +790,20 @@ TextureImporter:
         width: 178
         height: 217
       alignment: 9
-      pivot: {x: -.275280893, y: 1.1797235}
+      pivot: {x: -0.2752809, y: 1.1797235}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Ad2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Ad2
       rect:
         serializedVersion: 2
         x: 1100
@@ -351,9 +811,20 @@ TextureImporter:
         width: 94
         height: 217
       alignment: 9
-      pivot: {x: -1.09574473, y: 1.1797235}
+      pivot: {x: -1.0957447, y: 1.1797235}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Ad3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Ad3
       rect:
         serializedVersion: 2
         x: 1196
@@ -361,9 +832,20 @@ TextureImporter:
         width: 165
         height: 217
       alignment: 9
-      pivot: {x: -.230303034, y: 1.1797235}
+      pivot: {x: -0.23030303, y: 1.1797235}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Ad4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Ad4
       rect:
         serializedVersion: 2
         x: 1363
@@ -371,9 +853,20 @@ TextureImporter:
         width: 230
         height: 216
       alignment: 9
-      pivot: {x: -.0260869563, y: 1.18518519}
+      pivot: {x: -0.026086956, y: 1.1851852}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Ae0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Ae0
       rect:
         serializedVersion: 2
         x: 1595
@@ -381,9 +874,20 @@ TextureImporter:
         width: 243
         height: 220
       alignment: 9
-      pivot: {x: -.0411522649, y: 1.15909088}
+      pivot: {x: -0.041152265, y: 1.1590909}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Ae1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Ae1
       rect:
         serializedVersion: 2
         x: 1840
@@ -391,9 +895,20 @@ TextureImporter:
         width: 184
         height: 220
       alignment: 9
-      pivot: {x: -.244565219, y: 1.15909088}
+      pivot: {x: -0.24456522, y: 1.1590909}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Ae2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Ae2
       rect:
         serializedVersion: 2
         x: 2
@@ -401,9 +916,20 @@ TextureImporter:
         width: 97
         height: 220
       alignment: 9
-      pivot: {x: -1.05154634, y: 1.15909088}
+      pivot: {x: -1.0515463, y: 1.1590909}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Ae3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Ae3
       rect:
         serializedVersion: 2
         x: 101
@@ -411,9 +937,20 @@ TextureImporter:
         width: 163
         height: 220
       alignment: 9
-      pivot: {x: -.319018394, y: 1.15909088}
+      pivot: {x: -0.3190184, y: 1.1590909}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Ae4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Ae4
       rect:
         serializedVersion: 2
         x: 266
@@ -421,9 +958,20 @@ TextureImporter:
         width: 243
         height: 219
       alignment: 9
-      pivot: {x: -.0123456791, y: 1.16438353}
+      pivot: {x: -0.012345679, y: 1.1643835}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Af0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Af0
       rect:
         serializedVersion: 2
         x: 511
@@ -431,9 +979,20 @@ TextureImporter:
         width: 239
         height: 214
       alignment: 9
-      pivot: {x: 0, y: 1.15420556}
+      pivot: {x: 0, y: 1.1542056}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Af1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Af1
       rect:
         serializedVersion: 2
         x: 752
@@ -441,9 +1000,20 @@ TextureImporter:
         width: 185
         height: 214
       alignment: 9
-      pivot: {x: -.248648643, y: 1.15420556}
+      pivot: {x: -0.24864864, y: 1.1542056}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Af2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Af2
       rect:
         serializedVersion: 2
         x: 939
@@ -451,9 +1021,20 @@ TextureImporter:
         width: 99
         height: 214
       alignment: 9
-      pivot: {x: -1.030303, y: 1.15420556}
+      pivot: {x: -1.030303, y: 1.1542056}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Af3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Af3
       rect:
         serializedVersion: 2
         x: 1040
@@ -461,9 +1042,20 @@ TextureImporter:
         width: 179
         height: 213
       alignment: 9
-      pivot: {x: -.279329598, y: 1.15962446}
+      pivot: {x: -0.2793296, y: 1.1596245}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Af4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Af4
       rect:
         serializedVersion: 2
         x: 1221
@@ -471,9 +1063,20 @@ TextureImporter:
         width: 240
         height: 213
       alignment: 9
-      pivot: {x: -.0666666701, y: 1.15962446}
+      pivot: {x: -0.06666667, y: 1.1596245}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Ag0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Ag0
       rect:
         serializedVersion: 2
         x: 1463
@@ -481,9 +1084,20 @@ TextureImporter:
         width: 221
         height: 215
       alignment: 9
-      pivot: {x: -.0271493215, y: 1.15813959}
+      pivot: {x: -0.027149322, y: 1.1581396}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Ag1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Ag1
       rect:
         serializedVersion: 2
         x: 1686
@@ -491,9 +1105,20 @@ TextureImporter:
         width: 165
         height: 215
       alignment: 9
-      pivot: {x: -.351515144, y: 1.15813959}
+      pivot: {x: -0.35151514, y: 1.1581396}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Ag2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Ag2
       rect:
         serializedVersion: 2
         x: 1853
@@ -501,9 +1126,20 @@ TextureImporter:
         width: 93
         height: 215
       alignment: 9
-      pivot: {x: -1.1075269, y: 1.15813959}
+      pivot: {x: -1.1075269, y: 1.1581396}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Ag3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Ag3
       rect:
         serializedVersion: 2
         x: 2
@@ -511,9 +1147,20 @@ TextureImporter:
         width: 171
         height: 215
       alignment: 9
-      pivot: {x: -.356725156, y: 1.15813959}
+      pivot: {x: -0.35672516, y: 1.1581396}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Ag4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Ag4
       rect:
         serializedVersion: 2
         x: 175
@@ -521,9 +1168,20 @@ TextureImporter:
         width: 221
         height: 214
       alignment: 9
-      pivot: {x: -.131221727, y: 1.16355145}
+      pivot: {x: -0.13122173, y: 1.1635514}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Ah0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Ah0
       rect:
         serializedVersion: 2
         x: 398
@@ -531,9 +1189,20 @@ TextureImporter:
         width: 202
         height: 220
       alignment: 9
-      pivot: {x: -.0891089141, y: 1.15909088}
+      pivot: {x: -0.089108914, y: 1.1590909}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Ah1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Ah1
       rect:
         serializedVersion: 2
         x: 602
@@ -541,9 +1210,20 @@ TextureImporter:
         width: 147
         height: 219
       alignment: 9
-      pivot: {x: -.482993186, y: 1.15981734}
+      pivot: {x: -0.4829932, y: 1.1598173}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Ah2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Ah2
       rect:
         serializedVersion: 2
         x: 751
@@ -551,9 +1231,20 @@ TextureImporter:
         width: 90
         height: 219
       alignment: 9
-      pivot: {x: -1.15555561, y: 1.15981734}
+      pivot: {x: -1.1555556, y: 1.1598173}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Ah3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Ah3
       rect:
         serializedVersion: 2
         x: 843
@@ -561,9 +1252,20 @@ TextureImporter:
         width: 153
         height: 218
       alignment: 9
-      pivot: {x: -.496732026, y: 1.16513765}
+      pivot: {x: -0.49673203, y: 1.1651376}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Ah4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Ah4
       rect:
         serializedVersion: 2
         x: 998
@@ -571,9 +1273,20 @@ TextureImporter:
         width: 202
         height: 218
       alignment: 9
-      pivot: {x: -.178217828, y: 1.16513765}
+      pivot: {x: -0.17821783, y: 1.1651376}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Ai0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Ai0
       rect:
         serializedVersion: 2
         x: 1202
@@ -581,9 +1294,20 @@ TextureImporter:
         width: 186
         height: 211
       alignment: 9
-      pivot: {x: -.145161286, y: 1.17535543}
+      pivot: {x: -0.14516129, y: 1.1753554}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Ai1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Ai1
       rect:
         serializedVersion: 2
         x: 1390
@@ -591,9 +1315,20 @@ TextureImporter:
         width: 143
         height: 211
       alignment: 9
-      pivot: {x: -.552447557, y: 1.17535543}
+      pivot: {x: -0.55244756, y: 1.1753554}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Ai2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Ai2
       rect:
         serializedVersion: 2
         x: 1535
@@ -601,9 +1336,20 @@ TextureImporter:
         width: 92
         height: 211
       alignment: 9
-      pivot: {x: -1.14130437, y: 1.17535543}
+      pivot: {x: -1.1413044, y: 1.1753554}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Ai3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Ai3
       rect:
         serializedVersion: 2
         x: 1629
@@ -611,9 +1357,20 @@ TextureImporter:
         width: 150
         height: 210
       alignment: 9
-      pivot: {x: -.486666679, y: 1.1761905}
+      pivot: {x: -0.48666668, y: 1.1761905}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Ai4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Ai4
       rect:
         serializedVersion: 2
         x: 1781
@@ -621,9 +1378,20 @@ TextureImporter:
         width: 185
         height: 209
       alignment: 9
-      pivot: {x: -.232432425, y: 1.18181813}
+      pivot: {x: -0.23243243, y: 1.1818181}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Da0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Da0
       rect:
         serializedVersion: 2
         x: 2
@@ -631,9 +1399,20 @@ TextureImporter:
         width: 213
         height: 192
       alignment: 9
-      pivot: {x: -.173708916, y: 1.28125}
+      pivot: {x: -0.17370892, y: 1.28125}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Db0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Db0
       rect:
         serializedVersion: 2
         x: 217
@@ -641,9 +1420,20 @@ TextureImporter:
         width: 211
         height: 139
       alignment: 9
-      pivot: {x: -.0995260701, y: 1.84172666}
+      pivot: {x: -0.09952607, y: 1.8417267}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Dc0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Dc0
       rect:
         serializedVersion: 2
         x: 430
@@ -651,9 +1441,20 @@ TextureImporter:
         width: 235
         height: 71
       alignment: 9
-      pivot: {x: -.0510638282, y: 3.60563374}
+      pivot: {x: -0.05106383, y: 3.6056337}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Dd0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Dd0
       rect:
         serializedVersion: 2
         x: 667
@@ -661,9 +1462,20 @@ TextureImporter:
         width: 228
         height: 72
       alignment: 9
-      pivot: {x: -.0570175424, y: 3.55555558}
+      pivot: {x: -0.057017542, y: 3.5555556}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Fa0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Fa0
       rect:
         serializedVersion: 2
         x: 897
@@ -671,9 +1483,20 @@ TextureImporter:
         width: 199
         height: 195
       alignment: 9
-      pivot: {x: -.125628144, y: 1.20000005}
+      pivot: {x: -0.12562814, y: 1.2}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Fb0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Fb0
       rect:
         serializedVersion: 2
         x: 1098
@@ -681,9 +1504,20 @@ TextureImporter:
         width: 211
         height: 212
       alignment: 9
-      pivot: {x: -.113744073, y: 1.18867922}
+      pivot: {x: -0.11374407, y: 1.1886792}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Fc0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Fc0
       rect:
         serializedVersion: 2
         x: 1311
@@ -691,9 +1525,20 @@ TextureImporter:
         width: 216
         height: 215
       alignment: 9
-      pivot: {x: -.0833333358, y: 1.19069767}
+      pivot: {x: -0.083333336, y: 1.1906977}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Fd0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Fd0
       rect:
         serializedVersion: 2
         x: 1529
@@ -701,9 +1546,20 @@ TextureImporter:
         width: 209
         height: 218
       alignment: 9
-      pivot: {x: -.0813397095, y: 1.17431188}
+      pivot: {x: -0.08133971, y: 1.1743119}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Na0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Na0
       rect:
         serializedVersion: 2
         x: 1740
@@ -711,9 +1567,20 @@ TextureImporter:
         width: 225
         height: 196
       alignment: 9
-      pivot: {x: -.0844444409, y: 1.07653058}
+      pivot: {x: -0.08444444, y: 1.0765306}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Na1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Na1
       rect:
         serializedVersion: 2
         x: 2
@@ -721,9 +1588,20 @@ TextureImporter:
         width: 155
         height: 195
       alignment: 9
-      pivot: {x: -.367741942, y: 1.07692313}
+      pivot: {x: -0.36774194, y: 1.0769231}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Na2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Na2
       rect:
         serializedVersion: 2
         x: 159
@@ -731,9 +1609,20 @@ TextureImporter:
         width: 122
         height: 195
       alignment: 9
-      pivot: {x: -.672131121, y: 1.07692313}
+      pivot: {x: -0.6721311, y: 1.0769231}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Na3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Na3
       rect:
         serializedVersion: 2
         x: 283
@@ -741,9 +1630,20 @@ TextureImporter:
         width: 184
         height: 195
       alignment: 9
-      pivot: {x: -.206521735, y: 1.07179487}
+      pivot: {x: -0.20652173, y: 1.0717949}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Na4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Na4
       rect:
         serializedVersion: 2
         x: 469
@@ -751,9 +1651,20 @@ TextureImporter:
         width: 224
         height: 195
       alignment: 9
-      pivot: {x: -.0535714291, y: 1.07692313}
+      pivot: {x: -0.05357143, y: 1.0769231}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Nb0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Nb0
       rect:
         serializedVersion: 2
         x: 695
@@ -761,9 +1672,20 @@ TextureImporter:
         width: 216
         height: 179
       alignment: 9
-      pivot: {x: -.166666672, y: 1.11731839}
+      pivot: {x: -0.16666667, y: 1.1173184}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Nb1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Nb1
       rect:
         serializedVersion: 2
         x: 913
@@ -771,9 +1693,20 @@ TextureImporter:
         width: 178
         height: 180
       alignment: 9
-      pivot: {x: -.376404494, y: 1.11111116}
+      pivot: {x: -0.3764045, y: 1.1111112}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Nb2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Nb2
       rect:
         serializedVersion: 2
         x: 1093
@@ -781,9 +1714,20 @@ TextureImporter:
         width: 147
         height: 180
       alignment: 9
-      pivot: {x: -.557823122, y: 1.11111116}
+      pivot: {x: -0.5578231, y: 1.1111112}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Nb3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Nb3
       rect:
         serializedVersion: 2
         x: 1242
@@ -791,9 +1735,20 @@ TextureImporter:
         width: 207
         height: 179
       alignment: 9
-      pivot: {x: -.173913047, y: 1.11173189}
+      pivot: {x: -0.17391305, y: 1.1117319}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Nb4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Nb4
       rect:
         serializedVersion: 2
         x: 1451
@@ -801,9 +1756,20 @@ TextureImporter:
         width: 215
         height: 178
       alignment: 9
-      pivot: {x: -.0186046511, y: 1.1179775}
+      pivot: {x: -0.018604651, y: 1.1179775}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Nc0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Nc0
       rect:
         serializedVersion: 2
         x: 1668
@@ -811,9 +1777,20 @@ TextureImporter:
         width: 211
         height: 213
       alignment: 9
-      pivot: {x: -.189573467, y: 1.06572771}
+      pivot: {x: -0.18957347, y: 1.0657277}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Nc1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Nc1
       rect:
         serializedVersion: 2
         x: 2
@@ -821,9 +1798,20 @@ TextureImporter:
         width: 168
         height: 214
       alignment: 9
-      pivot: {x: -.482142866, y: 1.06074762}
+      pivot: {x: -0.48214287, y: 1.0607476}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Nc2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Nc2
       rect:
         serializedVersion: 2
         x: 172
@@ -831,9 +1819,20 @@ TextureImporter:
         width: 141
         height: 213
       alignment: 9
-      pivot: {x: -.581560254, y: 1.06103289}
+      pivot: {x: -0.58156025, y: 1.0610329}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Nc3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a305410000000000800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Nc3
       rect:
         serializedVersion: 2
         x: 315
@@ -841,9 +1840,20 @@ TextureImporter:
         width: 220
         height: 212
       alignment: 9
-      pivot: {x: -.0681818202, y: 1.06603777}
+      pivot: {x: -0.06818182, y: 1.0660378}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Nc4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Nc4
       rect:
         serializedVersion: 2
         x: 537
@@ -851,9 +1861,20 @@ TextureImporter:
         width: 211
         height: 210
       alignment: 9
-      pivot: {x: -.0189573467, y: 1.07142854}
+      pivot: {x: -0.018957347, y: 1.0714285}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Nd0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Nd0
       rect:
         serializedVersion: 2
         x: 750
@@ -861,9 +1882,20 @@ TextureImporter:
         width: 230
         height: 224
       alignment: 9
-      pivot: {x: -.11304348, y: 1.11607146}
+      pivot: {x: -0.11304348, y: 1.1160715}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Nd1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a305410000000000800000000000000
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Nd1
       rect:
         serializedVersion: 2
         x: 982
@@ -871,9 +1903,20 @@ TextureImporter:
         width: 143
         height: 225
       alignment: 9
-      pivot: {x: -.5804196, y: 1.11111116}
+      pivot: {x: -0.5804196, y: 1.1111112}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Nd2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Nd2
       rect:
         serializedVersion: 2
         x: 1127
@@ -881,9 +1924,20 @@ TextureImporter:
         width: 98
         height: 224
       alignment: 9
-      pivot: {x: -.96938777, y: 1.11160719}
+      pivot: {x: -0.96938777, y: 1.1116072}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Nd3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Nd3
       rect:
         serializedVersion: 2
         x: 1227
@@ -891,9 +1945,20 @@ TextureImporter:
         width: 196
         height: 223
       alignment: 9
-      pivot: {x: -.173469394, y: 1.11659193}
+      pivot: {x: -0.1734694, y: 1.1165919}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Nd4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea305410000000000800000000000000
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Nd4
       rect:
         serializedVersion: 2
         x: 1425
@@ -903,7 +1968,18 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0, y: 1.122172}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Ne0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b305410000000000800000000000000
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Ne0
       rect:
         serializedVersion: 2
         x: 1656
@@ -911,9 +1987,20 @@ TextureImporter:
         width: 237
         height: 206
       alignment: 9
-      pivot: {x: -.0506329127, y: 1.17475724}
+      pivot: {x: -0.050632913, y: 1.1747572}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Ne1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b305410000000000800000000000000
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Ne1
       rect:
         serializedVersion: 2
         x: 2
@@ -921,9 +2008,20 @@ TextureImporter:
         width: 173
         height: 206
       alignment: 9
-      pivot: {x: -.35838151, y: 1.17475724}
+      pivot: {x: -0.3583815, y: 1.1747572}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Ne2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b305410000000000800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Ne2
       rect:
         serializedVersion: 2
         x: 177
@@ -931,9 +2029,20 @@ TextureImporter:
         width: 95
         height: 206
       alignment: 9
-      pivot: {x: -.936842084, y: 1.17475724}
+      pivot: {x: -0.9368421, y: 1.1747572}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Ne3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b305410000000000800000000000000
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Ne3
       rect:
         serializedVersion: 2
         x: 274
@@ -941,9 +2050,20 @@ TextureImporter:
         width: 169
         height: 206
       alignment: 9
-      pivot: {x: -.384615391, y: 1.17475724}
+      pivot: {x: -0.3846154, y: 1.1747572}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Ne4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b305410000000000800000000000000
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Ne4
       rect:
         serializedVersion: 2
         x: 445
@@ -951,9 +2071,20 @@ TextureImporter:
         width: 236
         height: 205
       alignment: 9
-      pivot: {x: -.0296610165, y: 1.18048775}
+      pivot: {x: -0.029661017, y: 1.1804878}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Nf0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab305410000000000800000000000000
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Nf0
       rect:
         serializedVersion: 2
         x: 683
@@ -961,9 +2092,20 @@ TextureImporter:
         width: 230
         height: 215
       alignment: 9
-      pivot: {x: 0, y: 1.17674422}
+      pivot: {x: 0, y: 1.1767442}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Nf1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb305410000000000800000000000000
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Nf1
       rect:
         serializedVersion: 2
         x: 915
@@ -971,9 +2113,20 @@ TextureImporter:
         width: 169
         height: 216
       alignment: 9
-      pivot: {x: -.295857996, y: 1.17592597}
+      pivot: {x: -0.295858, y: 1.175926}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Nf2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb305410000000000800000000000000
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Nf2
       rect:
         serializedVersion: 2
         x: 1086
@@ -981,9 +2134,20 @@ TextureImporter:
         width: 74
         height: 216
       alignment: 9
-      pivot: {x: -1.44594598, y: 1.17592597}
+      pivot: {x: -1.445946, y: 1.175926}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Nf3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c305410000000000800000000000000
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Nf3
       rect:
         serializedVersion: 2
         x: 1162
@@ -991,9 +2155,20 @@ TextureImporter:
         width: 171
         height: 215
       alignment: 9
-      pivot: {x: -.380116969, y: 1.17674422}
+      pivot: {x: -0.38011697, y: 1.1767442}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Nf4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c305410000000000800000000000000
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Nf4
       rect:
         serializedVersion: 2
         x: 1335
@@ -1001,9 +2176,20 @@ TextureImporter:
         width: 229
         height: 214
       alignment: 9
-      pivot: {x: -.117903933, y: 1.18224299}
+      pivot: {x: -0.11790393, y: 1.182243}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Wa0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c305410000000000800000000000000
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Wa0
       rect:
         serializedVersion: 2
         x: 1566
@@ -1011,9 +2197,20 @@ TextureImporter:
         width: 189
         height: 193
       alignment: 9
-      pivot: {x: -.169312164, y: 1.19689119}
+      pivot: {x: -0.16931216, y: 1.1968912}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Wa1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c305410000000000800000000000000
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Wa1
       rect:
         serializedVersion: 2
         x: 1757
@@ -1021,9 +2218,20 @@ TextureImporter:
         width: 155
         height: 193
       alignment: 9
-      pivot: {x: -.49032259, y: 1.19689119}
+      pivot: {x: -0.4903226, y: 1.1968912}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Wa2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c305410000000000800000000000000
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Wa2
       rect:
         serializedVersion: 2
         x: 1914
@@ -1031,9 +2239,20 @@ TextureImporter:
         width: 104
         height: 193
       alignment: 9
-      pivot: {x: -1, y: 1.19689119}
+      pivot: {x: -1, y: 1.1968912}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Wa3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac305410000000000800000000000000
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Wa3
       rect:
         serializedVersion: 2
         x: 2
@@ -1041,9 +2260,20 @@ TextureImporter:
         width: 163
         height: 192
       alignment: 9
-      pivot: {x: -.374233127, y: 1.19791663}
+      pivot: {x: -0.37423313, y: 1.1979166}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Wa4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc305410000000000800000000000000
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Wa4
       rect:
         serializedVersion: 2
         x: 167
@@ -1051,9 +2281,20 @@ TextureImporter:
         width: 188
         height: 191
       alignment: 9
-      pivot: {x: -.186170205, y: 1.20418847}
+      pivot: {x: -0.1861702, y: 1.2041885}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Wb0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec305410000000000800000000000000
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Wb0
       rect:
         serializedVersion: 2
         x: 357
@@ -1061,9 +2302,20 @@ TextureImporter:
         width: 198
         height: 197
       alignment: 9
-      pivot: {x: -.13636364, y: 1.20304573}
+      pivot: {x: -0.13636364, y: 1.2030457}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Wb1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d305410000000000800000000000000
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Wb1
       rect:
         serializedVersion: 2
         x: 557
@@ -1071,9 +2323,20 @@ TextureImporter:
         width: 159
         height: 198
       alignment: 9
-      pivot: {x: -.471698105, y: 1.20202017}
+      pivot: {x: -0.4716981, y: 1.2020202}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Wb2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d305410000000000800000000000000
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Wb2
       rect:
         serializedVersion: 2
         x: 718
@@ -1081,9 +2344,20 @@ TextureImporter:
         width: 109
         height: 198
       alignment: 9
-      pivot: {x: -.954128444, y: 1.20202017}
+      pivot: {x: -0.95412844, y: 1.2020202}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Wb3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d305410000000000800000000000000
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Wb3
       rect:
         serializedVersion: 2
         x: 829
@@ -1091,9 +2365,20 @@ TextureImporter:
         width: 171
         height: 198
       alignment: 9
-      pivot: {x: -.333333343, y: 1.20202017}
+      pivot: {x: -0.33333334, y: 1.2020202}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Wb4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d305410000000000800000000000000
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Wb4
       rect:
         serializedVersion: 2
         x: 1002
@@ -1101,9 +2386,20 @@ TextureImporter:
         width: 197
         height: 197
       alignment: 9
-      pivot: {x: -.157360405, y: 1.20304573}
+      pivot: {x: -0.1573604, y: 1.2030457}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Wc0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d305410000000000800000000000000
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Wc0
       rect:
         serializedVersion: 2
         x: 1201
@@ -1111,9 +2407,20 @@ TextureImporter:
         width: 206
         height: 214
       alignment: 9
-      pivot: {x: -.121359222, y: 1.19626164}
+      pivot: {x: -0.12135922, y: 1.1962616}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Wc1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad305410000000000800000000000000
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Wc1
       rect:
         serializedVersion: 2
         x: 1409
@@ -1121,9 +2428,20 @@ TextureImporter:
         width: 158
         height: 214
       alignment: 9
-      pivot: {x: -.462025315, y: 1.19626164}
+      pivot: {x: -0.4620253, y: 1.1962616}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Wc2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd305410000000000800000000000000
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Wc2
       rect:
         serializedVersion: 2
         x: 1569
@@ -1131,9 +2449,20 @@ TextureImporter:
         width: 109
         height: 214
       alignment: 9
-      pivot: {x: -.954128444, y: 1.19626164}
+      pivot: {x: -0.95412844, y: 1.1962616}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Wc3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed305410000000000800000000000000
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Wc3
       rect:
         serializedVersion: 2
         x: 1680
@@ -1141,9 +2470,20 @@ TextureImporter:
         width: 159
         height: 214
       alignment: 9
-      pivot: {x: -.427672952, y: 1.19626164}
+      pivot: {x: -0.42767295, y: 1.1962616}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Wc4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e305410000000000800000000000000
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Wc4
       rect:
         serializedVersion: 2
         x: 1841
@@ -1151,9 +2491,20 @@ TextureImporter:
         width: 204
         height: 214
       alignment: 9
-      pivot: {x: -.127450988, y: 1.19626164}
+      pivot: {x: -0.12745099, y: 1.1962616}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Wd0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e305410000000000800000000000000
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Wd0
       rect:
         serializedVersion: 2
         x: 2
@@ -1161,9 +2512,20 @@ TextureImporter:
         width: 215
         height: 213
       alignment: 9
-      pivot: {x: -.0930232555, y: 1.20187795}
+      pivot: {x: -0.093023255, y: 1.201878}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Wd1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e305410000000000800000000000000
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Wd1
       rect:
         serializedVersion: 2
         x: 219
@@ -1171,9 +2533,20 @@ TextureImporter:
         width: 157
         height: 213
       alignment: 9
-      pivot: {x: -.452229291, y: 1.20187795}
+      pivot: {x: -0.4522293, y: 1.201878}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Wd2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e305410000000000800000000000000
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Wd2
       rect:
         serializedVersion: 2
         x: 378
@@ -1181,9 +2554,20 @@ TextureImporter:
         width: 107
         height: 213
       alignment: 9
-      pivot: {x: -.981308401, y: 1.20187795}
+      pivot: {x: -0.9813084, y: 1.201878}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Wd3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e305410000000000800000000000000
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Wd3
       rect:
         serializedVersion: 2
         x: 487
@@ -1191,9 +2575,20 @@ TextureImporter:
         width: 175
         height: 213
       alignment: 9
-      pivot: {x: -.32571429, y: 1.20187795}
+      pivot: {x: -0.3257143, y: 1.201878}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Wd4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae305410000000000800000000000000
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Wd4
       rect:
         serializedVersion: 2
         x: 664
@@ -1201,9 +2596,20 @@ TextureImporter:
         width: 214
         height: 212
       alignment: 9
-      pivot: {x: -.0981308445, y: 1.20754719}
+      pivot: {x: -0.098130845, y: 1.2075472}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166We0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce305410000000000800000000000000
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166We0
       rect:
         serializedVersion: 2
         x: 880
@@ -1211,9 +2617,20 @@ TextureImporter:
         width: 221
         height: 214
       alignment: 9
-      pivot: {x: -.0497737564, y: 1.19626164}
+      pivot: {x: -0.049773756, y: 1.1962616}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166We1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee305410000000000800000000000000
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166We1
       rect:
         serializedVersion: 2
         x: 1103
@@ -1221,9 +2638,20 @@ TextureImporter:
         width: 163
         height: 213
       alignment: 9
-      pivot: {x: -.423312873, y: 1.19718313}
+      pivot: {x: -0.42331287, y: 1.1971831}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166We2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f305410000000000800000000000000
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166We2
       rect:
         serializedVersion: 2
         x: 1268
@@ -1231,9 +2659,20 @@ TextureImporter:
         width: 110
         height: 213
       alignment: 9
-      pivot: {x: -.954545438, y: 1.19718313}
+      pivot: {x: -0.95454544, y: 1.1971831}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166We3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f305410000000000800000000000000
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166We3
       rect:
         serializedVersion: 2
         x: 1380
@@ -1241,9 +2680,20 @@ TextureImporter:
         width: 171
         height: 213
       alignment: 9
-      pivot: {x: -.380116969, y: 1.19718313}
+      pivot: {x: -0.38011697, y: 1.1971831}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166We4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f305410000000000800000000000000
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166We4
       rect:
         serializedVersion: 2
         x: 1553
@@ -1251,9 +2701,20 @@ TextureImporter:
         width: 219
         height: 212
       alignment: 9
-      pivot: {x: -.114155248, y: 1.2028302}
+      pivot: {x: -0.11415525, y: 1.2028302}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Wf0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f305410000000000800000000000000
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Wf0
       rect:
         serializedVersion: 2
         x: 1774
@@ -1261,9 +2722,20 @@ TextureImporter:
         width: 216
         height: 217
       alignment: 9
-      pivot: {x: -.0509259254, y: 1.1797235}
+      pivot: {x: -0.050925925, y: 1.1797235}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Wf1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f305410000000000800000000000000
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Wf1
       rect:
         serializedVersion: 2
         x: 2
@@ -1271,9 +2743,20 @@ TextureImporter:
         width: 160
         height: 216
       alignment: 9
-      pivot: {x: -.412499994, y: 1.18518519}
+      pivot: {x: -0.4125, y: 1.1851852}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Wf2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af305410000000000800000000000000
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Wf2
       rect:
         serializedVersion: 2
         x: 164
@@ -1281,9 +2764,20 @@ TextureImporter:
         width: 103
         height: 216
       alignment: 9
-      pivot: {x: -1.00970876, y: 1.18518519}
+      pivot: {x: -1.0097088, y: 1.1851852}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Wf3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf305410000000000800000000000000
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Wf3
       rect:
         serializedVersion: 2
         x: 269
@@ -1291,9 +2785,20 @@ TextureImporter:
         width: 155
         height: 216
       alignment: 9
-      pivot: {x: -.503225803, y: 1.18518519}
+      pivot: {x: -0.5032258, y: 1.1851852}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Wf4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef305410000000000800000000000000
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Wf4
       rect:
         serializedVersion: 2
         x: 426
@@ -1301,9 +2806,20 @@ TextureImporter:
         width: 214
         height: 216
       alignment: 9
-      pivot: {x: -.140186921, y: 1.18518519}
+      pivot: {x: -0.14018692, y: 1.1851852}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Wg0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00405410000000000800000000000000
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Wg0
       rect:
         serializedVersion: 2
         x: 642
@@ -1311,9 +2827,20 @@ TextureImporter:
         width: 197
         height: 214
       alignment: 9
-      pivot: {x: -.101522841, y: 1.1775701}
+      pivot: {x: -0.10152284, y: 1.1775701}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Wg1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20405410000000000800000000000000
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Wg1
       rect:
         serializedVersion: 2
         x: 841
@@ -1321,9 +2848,20 @@ TextureImporter:
         width: 151
         height: 213
       alignment: 9
-      pivot: {x: -.49006623, y: 1.17840374}
+      pivot: {x: -0.49006623, y: 1.1784037}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Wg2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40405410000000000800000000000000
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Wg2
       rect:
         serializedVersion: 2
         x: 994
@@ -1331,9 +2869,20 @@ TextureImporter:
         width: 99
         height: 213
       alignment: 9
-      pivot: {x: -1.05050504, y: 1.17840374}
+      pivot: {x: -1.050505, y: 1.1784037}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Wg3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60405410000000000800000000000000
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Wg3
       rect:
         serializedVersion: 2
         x: 1095
@@ -1341,9 +2890,20 @@ TextureImporter:
         width: 154
         height: 212
       alignment: 9
-      pivot: {x: -.480519474, y: 1.17924523}
+      pivot: {x: -0.48051947, y: 1.1792452}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Wg4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80405410000000000800000000000000
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Wg4
       rect:
         serializedVersion: 2
         x: 1251
@@ -1351,9 +2911,20 @@ TextureImporter:
         width: 195
         height: 213
       alignment: 9
-      pivot: {x: -.205128208, y: 1.17840374}
+      pivot: {x: -0.20512821, y: 1.1784037}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Wh0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0405410000000000800000000000000
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Wh0
       rect:
         serializedVersion: 2
         x: 1448
@@ -1361,9 +2932,20 @@ TextureImporter:
         width: 174
         height: 195
       alignment: 9
-      pivot: {x: -.224137932, y: 1.19487178}
+      pivot: {x: -0.22413793, y: 1.1948718}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Wh1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0405410000000000800000000000000
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Wh1
       rect:
         serializedVersion: 2
         x: 1624
@@ -1371,9 +2953,20 @@ TextureImporter:
         width: 146
         height: 196
       alignment: 9
-      pivot: {x: -.541095912, y: 1.19387758}
+      pivot: {x: -0.5410959, y: 1.1938776}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Wh2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0405410000000000800000000000000
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Wh2
       rect:
         serializedVersion: 2
         x: 1772
@@ -1381,9 +2974,20 @@ TextureImporter:
         width: 96
         height: 196
       alignment: 9
-      pivot: {x: -1.08333337, y: 1.19387758}
+      pivot: {x: -1.0833334, y: 1.1938776}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Wh3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01405410000000000800000000000000
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Wh3
       rect:
         serializedVersion: 2
         x: 1870
@@ -1391,9 +2995,20 @@ TextureImporter:
         width: 144
         height: 195
       alignment: 9
-      pivot: {x: -.486111104, y: 1.19487178}
+      pivot: {x: -0.4861111, y: 1.1948718}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Wh4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21405410000000000800000000000000
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Wh4
       rect:
         serializedVersion: 2
         x: 2
@@ -1401,9 +3016,20 @@ TextureImporter:
         width: 173
         height: 195
       alignment: 9
-      pivot: {x: -.248554915, y: 1.19487178}
+      pivot: {x: -0.24855492, y: 1.1948718}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m166Xa0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41405410000000000800000000000000
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m166Xa0
       rect:
         serializedVersion: 2
         x: 177
@@ -1411,9 +3037,31 @@ TextureImporter:
         width: 228
         height: 72
       alignment: 9
-      pivot: {x: -.0570175424, y: 3.55555558}
+      pivot: {x: -0.057017542, y: 3.5555556}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61405410000000000800000000000000
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

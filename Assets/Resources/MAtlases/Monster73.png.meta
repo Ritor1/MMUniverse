@@ -1,84 +1,167 @@
 fileFormatVersion: 2
 guid: 166b141cb52b6924ab75c0e5d242b91d
-timeCreated: 1442628091
-licenseType: Pro
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: m514da0
-    21300002: m514db0
-    21300004: m514dc0
-    21300006: m514sa0
-    21300008: m514sa1
-    21300010: m514sa2
-    21300012: m514sa3
-    21300014: m514sa4
-    21300016: m514wa0
-    21300018: m514wa1
-    21300020: m514wa2
-    21300022: m514wa3
-    21300024: m514wa4
-    21300026: m514wb0
-    21300028: m514wb1
-    21300030: m514wb2
-    21300032: m514wb3
-    21300034: m514wb4
-    21300036: m514wc0
-    21300038: m514wc1
-    21300040: m514wc2
-    21300042: m514wc3
-    21300044: m514wc4
-    21300046: m514wd0
-    21300048: m514wd1
-    21300050: m514wd2
-    21300052: m514wd3
-    21300054: m514wd4
-    21300056: m514xa0
-  serializedVersion: 2
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: m514da0
+  - first:
+      213: 21300002
+    second: m514db0
+  - first:
+      213: 21300004
+    second: m514dc0
+  - first:
+      213: 21300006
+    second: m514sa0
+  - first:
+      213: 21300008
+    second: m514sa1
+  - first:
+      213: 21300010
+    second: m514sa2
+  - first:
+      213: 21300012
+    second: m514sa3
+  - first:
+      213: 21300014
+    second: m514sa4
+  - first:
+      213: 21300016
+    second: m514wa0
+  - first:
+      213: 21300018
+    second: m514wa1
+  - first:
+      213: 21300020
+    second: m514wa2
+  - first:
+      213: 21300022
+    second: m514wa3
+  - first:
+      213: 21300024
+    second: m514wa4
+  - first:
+      213: 21300026
+    second: m514wb0
+  - first:
+      213: 21300028
+    second: m514wb1
+  - first:
+      213: 21300030
+    second: m514wb2
+  - first:
+      213: 21300032
+    second: m514wb3
+  - first:
+      213: 21300034
+    second: m514wb4
+  - first:
+      213: 21300036
+    second: m514wc0
+  - first:
+      213: 21300038
+    second: m514wc1
+  - first:
+      213: 21300040
+    second: m514wc2
+  - first:
+      213: 21300042
+    second: m514wc3
+  - first:
+      213: 21300044
+    second: m514wc4
+  - first:
+      213: 21300046
+    second: m514wd0
+  - first:
+      213: 21300048
+    second: m514wd1
+  - first:
+      213: 21300050
+    second: m514wd2
+  - first:
+      213: 21300052
+    second: m514wd3
+  - first:
+      213: 21300054
+    second: m514wd4
+  - first:
+      213: 21300056
+    second: m514xa0
+  externalObjects: {}
+  serializedVersion: 10
   mipmaps:
     mipMapMode: 0
     enableMipMap: 1
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
     convertToNormalMap: 0
     externalNormalMap: 0
-    heightScale: .25
+    heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
   cubemapConvolution: 0
-  cubemapConvolutionSteps: 8
-  cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -1
   maxTextureSize: 4096
   textureSettings:
+    serializedVersion: 2
     filterMode: -1
     aniso: -1
-    mipBias: -1
-    wrapMode: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
-  rGBM: 0
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
-  spritePivot: {x: .5, y: .5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings: []
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: m514da0
+    - serializedVersion: 2
+      name: m514da0
       rect:
         serializedVersion: 2
         x: 2
@@ -86,9 +169,20 @@ TextureImporter:
         width: 43
         height: 51
       alignment: 9
-      pivot: {x: -2.51162791, y: 5}
+      pivot: {x: -2.511628, y: 5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m514db0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m514db0
       rect:
         serializedVersion: 2
         x: 47
@@ -96,9 +190,20 @@ TextureImporter:
         width: 51
         height: 53
       alignment: 9
-      pivot: {x: -2.19607854, y: 4.81132078}
+      pivot: {x: -2.1960785, y: 4.811321}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m514dc0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m514dc0
       rect:
         serializedVersion: 2
         x: 100
@@ -106,9 +211,20 @@ TextureImporter:
         width: 64
         height: 46
       alignment: 9
-      pivot: {x: -1.78125, y: 5.52173901}
+      pivot: {x: -1.78125, y: 5.521739}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m514sa0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m514sa0
       rect:
         serializedVersion: 2
         x: 166
@@ -116,9 +232,20 @@ TextureImporter:
         width: 47
         height: 50
       alignment: 9
-      pivot: {x: -2.27659583, y: 5.11999989}
+      pivot: {x: -2.2765958, y: 5.12}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m514sa1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m514sa1
       rect:
         serializedVersion: 2
         x: 215
@@ -126,9 +253,20 @@ TextureImporter:
         width: 113
         height: 50
       alignment: 9
-      pivot: {x: -.557522118, y: 5.11999989}
+      pivot: {x: -0.5575221, y: 5.12}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m514sa2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m514sa2
       rect:
         serializedVersion: 2
         x: 330
@@ -136,9 +274,20 @@ TextureImporter:
         width: 176
         height: 50
       alignment: 9
-      pivot: {x: -.0625, y: 5.11999989}
+      pivot: {x: -0.0625, y: 5.12}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m514sa3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m514sa3
       rect:
         serializedVersion: 2
         x: 2
@@ -146,9 +295,20 @@ TextureImporter:
         width: 149
         height: 50
       alignment: 9
-      pivot: {x: -.181208059, y: 5.11999989}
+      pivot: {x: -0.18120806, y: 5.12}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m514sa4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m514sa4
       rect:
         serializedVersion: 2
         x: 153
@@ -156,9 +316,20 @@ TextureImporter:
         width: 49
         height: 50
       alignment: 9
-      pivot: {x: -2.06122446, y: 5.11999989}
+      pivot: {x: -2.0612245, y: 5.12}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m514wa0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m514wa0
       rect:
         serializedVersion: 2
         x: 204
@@ -166,9 +337,20 @@ TextureImporter:
         width: 41
         height: 55
       alignment: 9
-      pivot: {x: -2.60975599, y: 4.65454531}
+      pivot: {x: -2.609756, y: 4.6545453}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m514wa1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m514wa1
       rect:
         serializedVersion: 2
         x: 247
@@ -176,9 +358,20 @@ TextureImporter:
         width: 140
         height: 55
       alignment: 9
-      pivot: {x: -.25, y: 4.65454531}
+      pivot: {x: -0.25, y: 4.6545453}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m514wa2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m514wa2
       rect:
         serializedVersion: 2
         x: 2
@@ -186,9 +379,20 @@ TextureImporter:
         width: 180
         height: 55
       alignment: 9
-      pivot: {x: -.027777778, y: 4.65454531}
+      pivot: {x: -0.027777778, y: 4.6545453}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m514wa3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m514wa3
       rect:
         serializedVersion: 2
         x: 184
@@ -196,9 +400,20 @@ TextureImporter:
         width: 128
         height: 55
       alignment: 9
-      pivot: {x: -.3671875, y: 4.65454531}
+      pivot: {x: -0.3671875, y: 4.6545453}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m514wa4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m514wa4
       rect:
         serializedVersion: 2
         x: 314
@@ -206,9 +421,20 @@ TextureImporter:
         width: 42
         height: 55
       alignment: 9
-      pivot: {x: -2.57142854, y: 4.65454531}
+      pivot: {x: -2.5714285, y: 4.6545453}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m514wb0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m514wb0
       rect:
         serializedVersion: 2
         x: 358
@@ -216,9 +442,20 @@ TextureImporter:
         width: 47
         height: 49
       alignment: 9
-      pivot: {x: -2.14893627, y: 5.20408154}
+      pivot: {x: -2.1489363, y: 5.2040815}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m514wb1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m514wb1
       rect:
         serializedVersion: 2
         x: 2
@@ -226,9 +463,20 @@ TextureImporter:
         width: 142
         height: 50
       alignment: 9
-      pivot: {x: -.239436626, y: 5.11999989}
+      pivot: {x: -0.23943663, y: 5.12}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m514wb2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m514wb2
       rect:
         serializedVersion: 2
         x: 146
@@ -236,9 +484,20 @@ TextureImporter:
         width: 174
         height: 50
       alignment: 9
-      pivot: {x: -.0747126415, y: 5.11999989}
+      pivot: {x: -0.07471264, y: 5.12}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m514wb3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m514wb3
       rect:
         serializedVersion: 2
         x: 322
@@ -246,9 +505,20 @@ TextureImporter:
         width: 118
         height: 50
       alignment: 9
-      pivot: {x: -.491525412, y: 5.11999989}
+      pivot: {x: -0.4915254, y: 5.12}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m514wb4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m514wb4
       rect:
         serializedVersion: 2
         x: 442
@@ -256,9 +526,20 @@ TextureImporter:
         width: 47
         height: 50
       alignment: 9
-      pivot: {x: -2.2978723, y: 5.11999989}
+      pivot: {x: -2.2978723, y: 5.12}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m514wc0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m514wc0
       rect:
         serializedVersion: 2
         x: 2
@@ -266,9 +547,20 @@ TextureImporter:
         width: 41
         height: 55
       alignment: 9
-      pivot: {x: -2.60975599, y: 4.65454531}
+      pivot: {x: -2.609756, y: 4.6545453}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m514wc1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m514wc1
       rect:
         serializedVersion: 2
         x: 45
@@ -276,9 +568,20 @@ TextureImporter:
         width: 133
         height: 55
       alignment: 9
-      pivot: {x: -.315789461, y: 4.65454531}
+      pivot: {x: -0.31578946, y: 4.6545453}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m514wc2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m514wc2
       rect:
         serializedVersion: 2
         x: 180
@@ -286,9 +589,20 @@ TextureImporter:
         width: 181
         height: 55
       alignment: 9
-      pivot: {x: -.0276243091, y: 4.65454531}
+      pivot: {x: -0.027624309, y: 4.6545453}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m514wc3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m514wc3
       rect:
         serializedVersion: 2
         x: 363
@@ -296,9 +610,20 @@ TextureImporter:
         width: 135
         height: 55
       alignment: 9
-      pivot: {x: -.296296299, y: 4.65454531}
+      pivot: {x: -0.2962963, y: 4.6545453}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m514wc4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m514wc4
       rect:
         serializedVersion: 2
         x: 2
@@ -306,9 +631,20 @@ TextureImporter:
         width: 42
         height: 54
       alignment: 9
-      pivot: {x: -2.57142854, y: 4.74074078}
+      pivot: {x: -2.5714285, y: 4.740741}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m514wd0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m514wd0
       rect:
         serializedVersion: 2
         x: 46
@@ -316,9 +652,20 @@ TextureImporter:
         width: 44
         height: 51
       alignment: 9
-      pivot: {x: -2.43181825, y: 5.01960802}
+      pivot: {x: -2.4318182, y: 5.019608}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m514wd1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m514wd1
       rect:
         serializedVersion: 2
         x: 92
@@ -326,9 +673,20 @@ TextureImporter:
         width: 117
         height: 51
       alignment: 9
-      pivot: {x: -.504273534, y: 5.01960802}
+      pivot: {x: -0.50427353, y: 5.019608}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m514wd2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m514wd2
       rect:
         serializedVersion: 2
         x: 211
@@ -336,9 +694,20 @@ TextureImporter:
         width: 177
         height: 51
       alignment: 9
-      pivot: {x: -.0508474559, y: 5.01960802}
+      pivot: {x: -0.050847456, y: 5.019608}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m514wd3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m514wd3
       rect:
         serializedVersion: 2
         x: 2
@@ -346,9 +715,20 @@ TextureImporter:
         width: 149
         height: 51
       alignment: 9
-      pivot: {x: -.181208059, y: 5.01960802}
+      pivot: {x: -0.18120806, y: 5.019608}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m514wd4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m514wd4
       rect:
         serializedVersion: 2
         x: 153
@@ -356,9 +736,20 @@ TextureImporter:
         width: 45
         height: 51
       alignment: 9
-      pivot: {x: -2.33333325, y: 5.01960802}
+      pivot: {x: -2.3333333, y: 5.019608}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m514xa0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m514xa0
       rect:
         serializedVersion: 2
         x: 200
@@ -366,9 +757,31 @@ TextureImporter:
         width: 83
         height: 36
       alignment: 9
-      pivot: {x: -1.32530117, y: 7.11111116}
+      pivot: {x: -1.3253012, y: 7.111111}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

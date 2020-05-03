@@ -664,15 +664,15 @@ public class MeshToTerrain : EditorWindow
 
         if (heightmap == null)
         {
-            heightmap = new float[t.terrainData.heightmapWidth, t.terrainData.heightmapHeight];
+            heightmap = new float[t.terrainData.heightmapResolution, t.terrainData.heightmapResolution];
             lastX = 0;
         }
 
         long startTicks = DateTime.Now.Ticks;
 
-        for (int i = lastX; i < t.terrainData.heightmapWidth; i++)
+        for (int i = lastX; i < t.terrainData.heightmapResolution; i++)
         {
-            for (int j = 0; j < t.terrainData.heightmapHeight; j++)
+            for (int j = 0; j < t.terrainData.heightmapResolution; j++)
             {
                 Vector3 curPoint = beginPoint + new Vector3(i * vScale.x, 0, j * vScale.z);
                 RaycastHit hit;
@@ -687,7 +687,7 @@ public class MeshToTerrain : EditorWindow
             if (new TimeSpan(DateTime.Now.Ticks - startTicks).TotalSeconds >= 1)
             {
                 lastX = i;
-                progress = (activeIndex + lastX / (float)t.terrainData.heightmapWidth) / prefs.terrains.Count;
+                progress = (activeIndex + lastX / (float)t.terrainData.heightmapResolution) / prefs.terrains.Count;
                 return;
             }
         }

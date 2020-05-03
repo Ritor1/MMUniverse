@@ -1,205 +1,530 @@
 fileFormatVersion: 2
 guid: 3f4952f49b93c4d49b7d86c712debc63
-timeCreated: 1442628746
-licenseType: Pro
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: M422Aa0
-    21300002: M422Aa1
-    21300004: M422Aa2
-    21300006: M422Aa3
-    21300008: M422Aa4
-    21300010: M422Ab0
-    21300012: M422Ab1
-    21300014: M422Ab2
-    21300016: M422Ab3
-    21300018: M422Ab4
-    21300020: M422Ac0
-    21300022: M422Ac1
-    21300024: M422Ac2
-    21300026: M422Ac3
-    21300028: M422Ac4
-    21300030: M422Ad0
-    21300032: M422Ad1
-    21300034: M422Ad2
-    21300036: M422Ad3
-    21300038: M422Ad4
-    21300040: M422Ae0
-    21300042: M422Ae1
-    21300044: M422Ae2
-    21300046: M422Ae3
-    21300048: M422Ae4
-    21300050: M422Af0
-    21300052: M422Af1
-    21300054: M422Af2
-    21300056: M422Af3
-    21300058: M422Af4
-    21300060: M422Ag0
-    21300062: M422Ag1
-    21300064: M422Ag2
-    21300066: M422Ag3
-    21300068: M422Ag4
-    21300070: M422Ah0
-    21300072: M422Ah1
-    21300074: M422Ah2
-    21300076: M422Ah3
-    21300078: M422Ah4
-    21300080: M422Da0
-    21300082: M422Da1
-    21300084: M422Da2
-    21300086: M422Da3
-    21300088: M422Da4
-    21300090: M422Db0
-    21300092: M422Db1
-    21300094: M422Db2
-    21300096: M422Db3
-    21300098: M422Db4
-    21300100: M422Dc0
-    21300102: M422Dc1
-    21300104: M422Dc2
-    21300106: M422Dc3
-    21300108: M422Dc4
-    21300110: M422Fa0
-    21300112: M422Fa1
-    21300114: M422Fa2
-    21300116: M422Fa3
-    21300118: M422Fa4
-    21300120: M422Fb0
-    21300122: M422Fb1
-    21300124: M422Fb2
-    21300126: M422Fb3
-    21300128: M422Fb4
-    21300130: M422Fc0
-    21300132: M422Fc1
-    21300134: M422Fc2
-    21300136: M422Fc3
-    21300138: M422Fc4
-    21300140: M422Fd0
-    21300142: M422Fd1
-    21300144: M422Fd2
-    21300146: M422Fd3
-    21300148: M422Fd4
-    21300150: M422Na0
-    21300152: M422Na1
-    21300154: M422Na2
-    21300156: M422Na3
-    21300158: M422Na4
-    21300160: M422Nb0
-    21300162: M422Nb1
-    21300164: M422Nb2
-    21300166: M422Nb3
-    21300168: M422Nb4
-    21300170: M422Nc0
-    21300172: M422Nc1
-    21300174: M422Nc2
-    21300176: M422Nc3
-    21300178: M422Nc4
-    21300180: M422Nd0
-    21300182: M422Nd1
-    21300184: M422Nd2
-    21300186: M422Nd3
-    21300188: M422Nd4
-    21300190: M422Ne0
-    21300192: M422Ne1
-    21300194: M422Ne2
-    21300196: M422Ne3
-    21300198: M422Ne4
-    21300200: M422Sa0
-    21300202: M422Sa1
-    21300204: M422Sa2
-    21300206: M422Sa3
-    21300208: M422Sa4
-    21300210: M422Wa0
-    21300212: M422Wa1
-    21300214: M422Wa2
-    21300216: M422Wa3
-    21300218: M422Wa4
-    21300220: M422Wb0
-    21300222: M422Wb1
-    21300224: M422Wb2
-    21300226: M422Wb3
-    21300228: M422Wb4
-    21300230: M422Wc0
-    21300232: M422Wc1
-    21300234: M422Wc2
-    21300236: M422Wc3
-    21300238: M422Wc4
-    21300240: M422Wd0
-    21300242: M422Wd1
-    21300244: M422Wd2
-    21300246: M422Wd3
-    21300248: M422Wd4
-    21300250: M422We0
-    21300252: M422We1
-    21300254: M422We2
-    21300256: M422We3
-    21300258: M422We4
-    21300260: M422Wf0
-    21300262: M422Wf1
-    21300264: M422Wf2
-    21300266: M422Wf3
-    21300268: M422Wf4
-    21300270: M422Wg0
-    21300272: M422Wg1
-    21300274: M422Wg2
-    21300276: M422Wg3
-    21300278: M422Wg4
-    21300280: M422Wh0
-    21300282: M422Wh1
-    21300284: M422Wh2
-    21300286: M422Wh3
-    21300288: M422Wh4
-    21300290: M422Xa0
-    21300292: M422Xa1
-    21300294: M422Xa2
-    21300296: M422Xa3
-    21300298: M422Xa4
-  serializedVersion: 2
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: M422Aa0
+  - first:
+      213: 21300002
+    second: M422Aa1
+  - first:
+      213: 21300004
+    second: M422Aa2
+  - first:
+      213: 21300006
+    second: M422Aa3
+  - first:
+      213: 21300008
+    second: M422Aa4
+  - first:
+      213: 21300010
+    second: M422Ab0
+  - first:
+      213: 21300012
+    second: M422Ab1
+  - first:
+      213: 21300014
+    second: M422Ab2
+  - first:
+      213: 21300016
+    second: M422Ab3
+  - first:
+      213: 21300018
+    second: M422Ab4
+  - first:
+      213: 21300020
+    second: M422Ac0
+  - first:
+      213: 21300022
+    second: M422Ac1
+  - first:
+      213: 21300024
+    second: M422Ac2
+  - first:
+      213: 21300026
+    second: M422Ac3
+  - first:
+      213: 21300028
+    second: M422Ac4
+  - first:
+      213: 21300030
+    second: M422Ad0
+  - first:
+      213: 21300032
+    second: M422Ad1
+  - first:
+      213: 21300034
+    second: M422Ad2
+  - first:
+      213: 21300036
+    second: M422Ad3
+  - first:
+      213: 21300038
+    second: M422Ad4
+  - first:
+      213: 21300040
+    second: M422Ae0
+  - first:
+      213: 21300042
+    second: M422Ae1
+  - first:
+      213: 21300044
+    second: M422Ae2
+  - first:
+      213: 21300046
+    second: M422Ae3
+  - first:
+      213: 21300048
+    second: M422Ae4
+  - first:
+      213: 21300050
+    second: M422Af0
+  - first:
+      213: 21300052
+    second: M422Af1
+  - first:
+      213: 21300054
+    second: M422Af2
+  - first:
+      213: 21300056
+    second: M422Af3
+  - first:
+      213: 21300058
+    second: M422Af4
+  - first:
+      213: 21300060
+    second: M422Ag0
+  - first:
+      213: 21300062
+    second: M422Ag1
+  - first:
+      213: 21300064
+    second: M422Ag2
+  - first:
+      213: 21300066
+    second: M422Ag3
+  - first:
+      213: 21300068
+    second: M422Ag4
+  - first:
+      213: 21300070
+    second: M422Ah0
+  - first:
+      213: 21300072
+    second: M422Ah1
+  - first:
+      213: 21300074
+    second: M422Ah2
+  - first:
+      213: 21300076
+    second: M422Ah3
+  - first:
+      213: 21300078
+    second: M422Ah4
+  - first:
+      213: 21300080
+    second: M422Da0
+  - first:
+      213: 21300082
+    second: M422Da1
+  - first:
+      213: 21300084
+    second: M422Da2
+  - first:
+      213: 21300086
+    second: M422Da3
+  - first:
+      213: 21300088
+    second: M422Da4
+  - first:
+      213: 21300090
+    second: M422Db0
+  - first:
+      213: 21300092
+    second: M422Db1
+  - first:
+      213: 21300094
+    second: M422Db2
+  - first:
+      213: 21300096
+    second: M422Db3
+  - first:
+      213: 21300098
+    second: M422Db4
+  - first:
+      213: 21300100
+    second: M422Dc0
+  - first:
+      213: 21300102
+    second: M422Dc1
+  - first:
+      213: 21300104
+    second: M422Dc2
+  - first:
+      213: 21300106
+    second: M422Dc3
+  - first:
+      213: 21300108
+    second: M422Dc4
+  - first:
+      213: 21300110
+    second: M422Fa0
+  - first:
+      213: 21300112
+    second: M422Fa1
+  - first:
+      213: 21300114
+    second: M422Fa2
+  - first:
+      213: 21300116
+    second: M422Fa3
+  - first:
+      213: 21300118
+    second: M422Fa4
+  - first:
+      213: 21300120
+    second: M422Fb0
+  - first:
+      213: 21300122
+    second: M422Fb1
+  - first:
+      213: 21300124
+    second: M422Fb2
+  - first:
+      213: 21300126
+    second: M422Fb3
+  - first:
+      213: 21300128
+    second: M422Fb4
+  - first:
+      213: 21300130
+    second: M422Fc0
+  - first:
+      213: 21300132
+    second: M422Fc1
+  - first:
+      213: 21300134
+    second: M422Fc2
+  - first:
+      213: 21300136
+    second: M422Fc3
+  - first:
+      213: 21300138
+    second: M422Fc4
+  - first:
+      213: 21300140
+    second: M422Fd0
+  - first:
+      213: 21300142
+    second: M422Fd1
+  - first:
+      213: 21300144
+    second: M422Fd2
+  - first:
+      213: 21300146
+    second: M422Fd3
+  - first:
+      213: 21300148
+    second: M422Fd4
+  - first:
+      213: 21300150
+    second: M422Na0
+  - first:
+      213: 21300152
+    second: M422Na1
+  - first:
+      213: 21300154
+    second: M422Na2
+  - first:
+      213: 21300156
+    second: M422Na3
+  - first:
+      213: 21300158
+    second: M422Na4
+  - first:
+      213: 21300160
+    second: M422Nb0
+  - first:
+      213: 21300162
+    second: M422Nb1
+  - first:
+      213: 21300164
+    second: M422Nb2
+  - first:
+      213: 21300166
+    second: M422Nb3
+  - first:
+      213: 21300168
+    second: M422Nb4
+  - first:
+      213: 21300170
+    second: M422Nc0
+  - first:
+      213: 21300172
+    second: M422Nc1
+  - first:
+      213: 21300174
+    second: M422Nc2
+  - first:
+      213: 21300176
+    second: M422Nc3
+  - first:
+      213: 21300178
+    second: M422Nc4
+  - first:
+      213: 21300180
+    second: M422Nd0
+  - first:
+      213: 21300182
+    second: M422Nd1
+  - first:
+      213: 21300184
+    second: M422Nd2
+  - first:
+      213: 21300186
+    second: M422Nd3
+  - first:
+      213: 21300188
+    second: M422Nd4
+  - first:
+      213: 21300190
+    second: M422Ne0
+  - first:
+      213: 21300192
+    second: M422Ne1
+  - first:
+      213: 21300194
+    second: M422Ne2
+  - first:
+      213: 21300196
+    second: M422Ne3
+  - first:
+      213: 21300198
+    second: M422Ne4
+  - first:
+      213: 21300200
+    second: M422Sa0
+  - first:
+      213: 21300202
+    second: M422Sa1
+  - first:
+      213: 21300204
+    second: M422Sa2
+  - first:
+      213: 21300206
+    second: M422Sa3
+  - first:
+      213: 21300208
+    second: M422Sa4
+  - first:
+      213: 21300210
+    second: M422Wa0
+  - first:
+      213: 21300212
+    second: M422Wa1
+  - first:
+      213: 21300214
+    second: M422Wa2
+  - first:
+      213: 21300216
+    second: M422Wa3
+  - first:
+      213: 21300218
+    second: M422Wa4
+  - first:
+      213: 21300220
+    second: M422Wb0
+  - first:
+      213: 21300222
+    second: M422Wb1
+  - first:
+      213: 21300224
+    second: M422Wb2
+  - first:
+      213: 21300226
+    second: M422Wb3
+  - first:
+      213: 21300228
+    second: M422Wb4
+  - first:
+      213: 21300230
+    second: M422Wc0
+  - first:
+      213: 21300232
+    second: M422Wc1
+  - first:
+      213: 21300234
+    second: M422Wc2
+  - first:
+      213: 21300236
+    second: M422Wc3
+  - first:
+      213: 21300238
+    second: M422Wc4
+  - first:
+      213: 21300240
+    second: M422Wd0
+  - first:
+      213: 21300242
+    second: M422Wd1
+  - first:
+      213: 21300244
+    second: M422Wd2
+  - first:
+      213: 21300246
+    second: M422Wd3
+  - first:
+      213: 21300248
+    second: M422Wd4
+  - first:
+      213: 21300250
+    second: M422We0
+  - first:
+      213: 21300252
+    second: M422We1
+  - first:
+      213: 21300254
+    second: M422We2
+  - first:
+      213: 21300256
+    second: M422We3
+  - first:
+      213: 21300258
+    second: M422We4
+  - first:
+      213: 21300260
+    second: M422Wf0
+  - first:
+      213: 21300262
+    second: M422Wf1
+  - first:
+      213: 21300264
+    second: M422Wf2
+  - first:
+      213: 21300266
+    second: M422Wf3
+  - first:
+      213: 21300268
+    second: M422Wf4
+  - first:
+      213: 21300270
+    second: M422Wg0
+  - first:
+      213: 21300272
+    second: M422Wg1
+  - first:
+      213: 21300274
+    second: M422Wg2
+  - first:
+      213: 21300276
+    second: M422Wg3
+  - first:
+      213: 21300278
+    second: M422Wg4
+  - first:
+      213: 21300280
+    second: M422Wh0
+  - first:
+      213: 21300282
+    second: M422Wh1
+  - first:
+      213: 21300284
+    second: M422Wh2
+  - first:
+      213: 21300286
+    second: M422Wh3
+  - first:
+      213: 21300288
+    second: M422Wh4
+  - first:
+      213: 21300290
+    second: M422Xa0
+  - first:
+      213: 21300292
+    second: M422Xa1
+  - first:
+      213: 21300294
+    second: M422Xa2
+  - first:
+      213: 21300296
+    second: M422Xa3
+  - first:
+      213: 21300298
+    second: M422Xa4
+  externalObjects: {}
+  serializedVersion: 10
   mipmaps:
     mipMapMode: 0
     enableMipMap: 1
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
     convertToNormalMap: 0
     externalNormalMap: 0
-    heightScale: .25
+    heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
   cubemapConvolution: 0
-  cubemapConvolutionSteps: 8
-  cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -1
   maxTextureSize: 4096
   textureSettings:
+    serializedVersion: 2
     filterMode: -1
     aniso: -1
-    mipBias: -1
-    wrapMode: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
-  rGBM: 0
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
-  spritePivot: {x: .5, y: .5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings: []
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: M422Aa0
+    - serializedVersion: 2
+      name: M422Aa0
       rect:
         serializedVersion: 2
         x: 2
@@ -207,9 +532,20 @@ TextureImporter:
         width: 104
         height: 201
       alignment: 9
-      pivot: {x: -.653846145, y: 1.26865673}
+      pivot: {x: -0.65384614, y: 1.2686567}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Aa1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Aa1
       rect:
         serializedVersion: 2
         x: 108
@@ -217,9 +553,20 @@ TextureImporter:
         width: 113
         height: 202
       alignment: 9
-      pivot: {x: -.71681416, y: 1.26732671}
+      pivot: {x: -0.71681416, y: 1.2673267}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Aa2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Aa2
       rect:
         serializedVersion: 2
         x: 223
@@ -227,9 +574,20 @@ TextureImporter:
         width: 79
         height: 202
       alignment: 9
-      pivot: {x: -1.24050629, y: 1.26732671}
+      pivot: {x: -1.2405063, y: 1.2673267}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Aa3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Aa3
       rect:
         serializedVersion: 2
         x: 304
@@ -237,9 +595,20 @@ TextureImporter:
         width: 92
         height: 201
       alignment: 9
-      pivot: {x: -1.01086962, y: 1.26865673}
+      pivot: {x: -1.0108696, y: 1.2686567}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Aa4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Aa4
       rect:
         serializedVersion: 2
         x: 398
@@ -247,9 +616,20 @@ TextureImporter:
         width: 103
         height: 201
       alignment: 9
-      pivot: {x: -.815533996, y: 1.26865673}
+      pivot: {x: -0.815534, y: 1.2686567}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Ab0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Ab0
       rect:
         serializedVersion: 2
         x: 503
@@ -257,9 +637,20 @@ TextureImporter:
         width: 123
         height: 204
       alignment: 9
-      pivot: {x: -.34959349, y: 1.25}
+      pivot: {x: -0.3495935, y: 1.25}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Ab1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Ab1
       rect:
         serializedVersion: 2
         x: 628
@@ -267,9 +658,20 @@ TextureImporter:
         width: 121
         height: 204
       alignment: 9
-      pivot: {x: -.371900827, y: 1.25}
+      pivot: {x: -0.37190083, y: 1.25}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Ab2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Ab2
       rect:
         serializedVersion: 2
         x: 751
@@ -277,9 +679,20 @@ TextureImporter:
         width: 106
         height: 204
       alignment: 9
-      pivot: {x: -.754716992, y: 1.25}
+      pivot: {x: -0.754717, y: 1.25}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Ab3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Ab3
       rect:
         serializedVersion: 2
         x: 859
@@ -287,9 +700,20 @@ TextureImporter:
         width: 93
         height: 204
       alignment: 9
-      pivot: {x: -.989247322, y: 1.25}
+      pivot: {x: -0.9892473, y: 1.25}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Ab4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Ab4
       rect:
         serializedVersion: 2
         x: 954
@@ -297,9 +721,20 @@ TextureImporter:
         width: 123
         height: 204
       alignment: 9
-      pivot: {x: -.731707335, y: 1.25}
+      pivot: {x: -0.73170733, y: 1.25}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Ac0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Ac0
       rect:
         serializedVersion: 2
         x: 1079
@@ -307,9 +742,20 @@ TextureImporter:
         width: 102
         height: 204
       alignment: 9
-      pivot: {x: -.647058845, y: 1.25}
+      pivot: {x: -0.64705884, y: 1.25}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Ac1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Ac1
       rect:
         serializedVersion: 2
         x: 1183
@@ -317,9 +763,20 @@ TextureImporter:
         width: 114
         height: 204
       alignment: 9
-      pivot: {x: -.421052635, y: 1.25}
+      pivot: {x: -0.42105263, y: 1.25}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Ac2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Ac2
       rect:
         serializedVersion: 2
         x: 1299
@@ -327,9 +784,20 @@ TextureImporter:
         width: 102
         height: 204
       alignment: 9
-      pivot: {x: -.637254894, y: 1.25}
+      pivot: {x: -0.6372549, y: 1.25}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Ac3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Ac3
       rect:
         serializedVersion: 2
         x: 1403
@@ -337,9 +805,20 @@ TextureImporter:
         width: 89
         height: 204
       alignment: 9
-      pivot: {x: -.977528095, y: 1.25}
+      pivot: {x: -0.9775281, y: 1.25}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Ac4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Ac4
       rect:
         serializedVersion: 2
         x: 1494
@@ -347,9 +826,20 @@ TextureImporter:
         width: 103
         height: 204
       alignment: 9
-      pivot: {x: -.854368925, y: 1.25}
+      pivot: {x: -0.8543689, y: 1.25}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Ad0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Ad0
       rect:
         serializedVersion: 2
         x: 1599
@@ -357,9 +847,20 @@ TextureImporter:
         width: 122
         height: 212
       alignment: 9
-      pivot: {x: -.508196712, y: 1.20754719}
+      pivot: {x: -0.5081967, y: 1.2075472}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Ad1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Ad1
       rect:
         serializedVersion: 2
         x: 1723
@@ -367,9 +868,20 @@ TextureImporter:
         width: 137
         height: 212
       alignment: 9
-      pivot: {x: -.5182482, y: 1.20754719}
+      pivot: {x: -0.5182482, y: 1.2075472}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Ad2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Ad2
       rect:
         serializedVersion: 2
         x: 1862
@@ -377,9 +889,20 @@ TextureImporter:
         width: 122
         height: 215
       alignment: 9
-      pivot: {x: -.704918027, y: 1.19069767}
+      pivot: {x: -0.704918, y: 1.1906977}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Ad3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Ad3
       rect:
         serializedVersion: 2
         x: 2
@@ -387,9 +910,20 @@ TextureImporter:
         width: 113
         height: 212
       alignment: 9
-      pivot: {x: -.752212405, y: 1.20754719}
+      pivot: {x: -0.7522124, y: 1.2075472}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Ad4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Ad4
       rect:
         serializedVersion: 2
         x: 117
@@ -397,9 +931,20 @@ TextureImporter:
         width: 121
         height: 211
       alignment: 9
-      pivot: {x: -.595041335, y: 1.21327019}
+      pivot: {x: -0.59504133, y: 1.2132702}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Ae0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Ae0
       rect:
         serializedVersion: 2
         x: 240
@@ -407,9 +952,20 @@ TextureImporter:
         width: 127
         height: 183
       alignment: 9
-      pivot: {x: -.433070868, y: 1.39890707}
+      pivot: {x: -0.43307087, y: 1.3989071}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Ae1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Ae1
       rect:
         serializedVersion: 2
         x: 369
@@ -417,9 +973,20 @@ TextureImporter:
         width: 164
         height: 183
       alignment: 9
-      pivot: {x: -.463414639, y: 1.39890707}
+      pivot: {x: -0.46341464, y: 1.3989071}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Ae2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Ae2
       rect:
         serializedVersion: 2
         x: 535
@@ -427,9 +994,20 @@ TextureImporter:
         width: 164
         height: 183
       alignment: 9
-      pivot: {x: -.554878056, y: 1.39890707}
+      pivot: {x: -0.55487806, y: 1.3989071}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Ae3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Ae3
       rect:
         serializedVersion: 2
         x: 701
@@ -437,9 +1015,20 @@ TextureImporter:
         width: 147
         height: 182
       alignment: 9
-      pivot: {x: -.482993186, y: 1.40659344}
+      pivot: {x: -0.4829932, y: 1.4065934}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Ae4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Ae4
       rect:
         serializedVersion: 2
         x: 850
@@ -447,9 +1036,20 @@ TextureImporter:
         width: 127
         height: 182
       alignment: 9
-      pivot: {x: -.582677186, y: 1.40659344}
+      pivot: {x: -0.5826772, y: 1.4065934}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Af0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Af0
       rect:
         serializedVersion: 2
         x: 979
@@ -457,9 +1057,20 @@ TextureImporter:
         width: 103
         height: 169
       alignment: 9
-      pivot: {x: -.699029148, y: 1.51479292}
+      pivot: {x: -0.69902915, y: 1.5147929}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Af1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Af1
       rect:
         serializedVersion: 2
         x: 1084
@@ -467,9 +1078,20 @@ TextureImporter:
         width: 137
         height: 169
       alignment: 9
-      pivot: {x: -.62043798, y: 1.51479292}
+      pivot: {x: -0.620438, y: 1.5147929}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Af2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Af2
       rect:
         serializedVersion: 2
         x: 1223
@@ -477,9 +1099,20 @@ TextureImporter:
         width: 140
         height: 170
       alignment: 9
-      pivot: {x: -.607142866, y: 1.50588238}
+      pivot: {x: -0.60714287, y: 1.5058824}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Af3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Af3
       rect:
         serializedVersion: 2
         x: 1365
@@ -487,9 +1120,20 @@ TextureImporter:
         width: 123
         height: 168
       alignment: 9
-      pivot: {x: -.593495905, y: 1.52380955}
+      pivot: {x: -0.5934959, y: 1.5238096}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Af4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Af4
       rect:
         serializedVersion: 2
         x: 1490
@@ -497,9 +1141,20 @@ TextureImporter:
         width: 103
         height: 168
       alignment: 9
-      pivot: {x: -.786407769, y: 1.52380955}
+      pivot: {x: -0.78640777, y: 1.5238096}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Ag0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Ag0
       rect:
         serializedVersion: 2
         x: 1595
@@ -507,9 +1162,20 @@ TextureImporter:
         width: 126
         height: 187
       alignment: 9
-      pivot: {x: -.476190478, y: 1.36898398}
+      pivot: {x: -0.47619048, y: 1.368984}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Ag1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Ag1
       rect:
         serializedVersion: 2
         x: 1723
@@ -517,9 +1183,20 @@ TextureImporter:
         width: 167
         height: 187
       alignment: 9
-      pivot: {x: -.323353291, y: 1.36898398}
+      pivot: {x: -0.3233533, y: 1.368984}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Ag2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Ag2
       rect:
         serializedVersion: 2
         x: 1892
@@ -527,9 +1204,20 @@ TextureImporter:
         width: 148
         height: 186
       alignment: 9
-      pivot: {x: -.513513505, y: 1.37634408}
+      pivot: {x: -0.5135135, y: 1.3763441}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Ag3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Ag3
       rect:
         serializedVersion: 2
         x: 2
@@ -537,9 +1225,20 @@ TextureImporter:
         width: 110
         height: 186
       alignment: 9
-      pivot: {x: -.590909064, y: 1.37634408}
+      pivot: {x: -0.59090906, y: 1.3763441}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Ag4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Ag4
       rect:
         serializedVersion: 2
         x: 114
@@ -547,9 +1246,20 @@ TextureImporter:
         width: 126
         height: 186
       alignment: 9
-      pivot: {x: -.555555582, y: 1.37634408}
+      pivot: {x: -0.5555556, y: 1.3763441}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Ah0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Ah0
       rect:
         serializedVersion: 2
         x: 242
@@ -557,9 +1267,20 @@ TextureImporter:
         width: 116
         height: 199
       alignment: 9
-      pivot: {x: -.620689631, y: 1.28643215}
+      pivot: {x: -0.62068963, y: 1.2864321}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Ah1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Ah1
       rect:
         serializedVersion: 2
         x: 360
@@ -567,9 +1288,20 @@ TextureImporter:
         width: 138
         height: 199
       alignment: 9
-      pivot: {x: -.456521749, y: 1.28643215}
+      pivot: {x: -0.45652175, y: 1.2864321}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Ah2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Ah2
       rect:
         serializedVersion: 2
         x: 500
@@ -577,9 +1309,20 @@ TextureImporter:
         width: 124
         height: 198
       alignment: 9
-      pivot: {x: -.693548381, y: 1.29292929}
+      pivot: {x: -0.6935484, y: 1.2929293}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Ah3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Ah3
       rect:
         serializedVersion: 2
         x: 626
@@ -587,9 +1330,20 @@ TextureImporter:
         width: 104
         height: 198
       alignment: 9
-      pivot: {x: -.682692289, y: 1.29292929}
+      pivot: {x: -0.6826923, y: 1.2929293}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Ah4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Ah4
       rect:
         serializedVersion: 2
         x: 732
@@ -597,9 +1351,20 @@ TextureImporter:
         width: 117
         height: 198
       alignment: 9
-      pivot: {x: -.581196606, y: 1.29292929}
+      pivot: {x: -0.5811966, y: 1.2929293}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Da0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Da0
       rect:
         serializedVersion: 2
         x: 851
@@ -607,9 +1372,20 @@ TextureImporter:
         width: 182
         height: 118
       alignment: 9
-      pivot: {x: -.219780222, y: 2.16949153}
+      pivot: {x: -0.21978022, y: 2.1694915}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Da1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Da1
       rect:
         serializedVersion: 2
         x: 1035
@@ -617,9 +1393,20 @@ TextureImporter:
         width: 185
         height: 118
       alignment: 9
-      pivot: {x: -.297297299, y: 2.16949153}
+      pivot: {x: -0.2972973, y: 2.1694915}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Da2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Da2
       rect:
         serializedVersion: 2
         x: 1222
@@ -627,9 +1414,20 @@ TextureImporter:
         width: 167
         height: 118
       alignment: 9
-      pivot: {x: -.28742516, y: 2.16949153}
+      pivot: {x: -0.28742516, y: 2.1694915}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Da3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Da3
       rect:
         serializedVersion: 2
         x: 1391
@@ -637,9 +1435,20 @@ TextureImporter:
         width: 192
         height: 118
       alignment: 9
-      pivot: {x: -.161458328, y: 2.16949153}
+      pivot: {x: -0.16145833, y: 2.1694915}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Da4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Da4
       rect:
         serializedVersion: 2
         x: 1585
@@ -647,9 +1456,20 @@ TextureImporter:
         width: 180
         height: 118
       alignment: 9
-      pivot: {x: -.194444448, y: 2.16949153}
+      pivot: {x: -0.19444445, y: 2.1694915}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Db0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Db0
       rect:
         serializedVersion: 2
         x: 1767
@@ -657,9 +1477,20 @@ TextureImporter:
         width: 151
         height: 102
       alignment: 9
-      pivot: {x: -.364238411, y: 2.50980401}
+      pivot: {x: -0.3642384, y: 2.509804}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Db1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Db1
       rect:
         serializedVersion: 2
         x: 2
@@ -667,9 +1498,20 @@ TextureImporter:
         width: 174
         height: 102
       alignment: 9
-      pivot: {x: -.241379306, y: 2.50980401}
+      pivot: {x: -0.2413793, y: 2.509804}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Db2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Db2
       rect:
         serializedVersion: 2
         x: 178
@@ -677,9 +1519,20 @@ TextureImporter:
         width: 183
         height: 102
       alignment: 9
-      pivot: {x: -.213114753, y: 2.50980401}
+      pivot: {x: -0.21311475, y: 2.509804}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Db3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Db3
       rect:
         serializedVersion: 2
         x: 363
@@ -687,9 +1540,20 @@ TextureImporter:
         width: 122
         height: 102
       alignment: 9
-      pivot: {x: -.483606547, y: 2.50980401}
+      pivot: {x: -0.48360655, y: 2.509804}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Db4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Db4
       rect:
         serializedVersion: 2
         x: 487
@@ -697,9 +1561,20 @@ TextureImporter:
         width: 151
         height: 102
       alignment: 9
-      pivot: {x: -.331125826, y: 2.50980401}
+      pivot: {x: -0.33112583, y: 2.509804}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Dc0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Dc0
       rect:
         serializedVersion: 2
         x: 640
@@ -707,9 +1582,20 @@ TextureImporter:
         width: 176
         height: 84
       alignment: 9
-      pivot: {x: -.244318187, y: 3.0476191}
+      pivot: {x: -0.24431819, y: 3.047619}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Dc1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Dc1
       rect:
         serializedVersion: 2
         x: 818
@@ -717,9 +1603,20 @@ TextureImporter:
         width: 201
         height: 84
       alignment: 9
-      pivot: {x: -.154228851, y: 3.0476191}
+      pivot: {x: -0.15422885, y: 3.047619}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Dc2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Dc2
       rect:
         serializedVersion: 2
         x: 1021
@@ -727,9 +1624,20 @@ TextureImporter:
         width: 220
         height: 85
       alignment: 9
-      pivot: {x: -.0227272734, y: 3.01176476}
+      pivot: {x: -0.022727273, y: 3.0117648}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Dc3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Dc3
       rect:
         serializedVersion: 2
         x: 1243
@@ -737,9 +1645,20 @@ TextureImporter:
         width: 186
         height: 85
       alignment: 9
-      pivot: {x: -.129032254, y: 3.01176476}
+      pivot: {x: -0.12903225, y: 3.0117648}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Dc4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Dc4
       rect:
         serializedVersion: 2
         x: 1431
@@ -747,9 +1666,20 @@ TextureImporter:
         width: 175
         height: 85
       alignment: 9
-      pivot: {x: -.21714285, y: 3.01176476}
+      pivot: {x: -0.21714285, y: 3.0117648}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Fa0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Fa0
       rect:
         serializedVersion: 2
         x: 1608
@@ -757,9 +1687,20 @@ TextureImporter:
         width: 92
         height: 200
       alignment: 9
-      pivot: {x: -.956521749, y: 1.27999997}
+      pivot: {x: -0.95652175, y: 1.28}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Fa1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Fa1
       rect:
         serializedVersion: 2
         x: 1702
@@ -767,9 +1708,20 @@ TextureImporter:
         width: 122
         height: 200
       alignment: 9
-      pivot: {x: -.72131145, y: 1.27999997}
+      pivot: {x: -0.72131145, y: 1.28}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Fa2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Fa2
       rect:
         serializedVersion: 2
         x: 1826
@@ -777,9 +1729,20 @@ TextureImporter:
         width: 99
         height: 200
       alignment: 9
-      pivot: {x: -.959595978, y: 1.27999997}
+      pivot: {x: -0.959596, y: 1.28}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Fa3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Fa3
       rect:
         serializedVersion: 2
         x: 1927
@@ -787,9 +1750,20 @@ TextureImporter:
         width: 67
         height: 200
       alignment: 9
-      pivot: {x: -1.50746274, y: 1.27999997}
+      pivot: {x: -1.5074627, y: 1.28}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Fa4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Fa4
       rect:
         serializedVersion: 2
         x: 2
@@ -797,9 +1771,20 @@ TextureImporter:
         width: 91
         height: 199
       alignment: 9
-      pivot: {x: -.846153855, y: 1.281407}
+      pivot: {x: -0.84615386, y: 1.281407}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Fb0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Fb0
       rect:
         serializedVersion: 2
         x: 95
@@ -807,9 +1792,20 @@ TextureImporter:
         width: 77
         height: 198
       alignment: 9
-      pivot: {x: -1.15584421, y: 1.29292929}
+      pivot: {x: -1.1558442, y: 1.2929293}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Fb1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Fb1
       rect:
         serializedVersion: 2
         x: 174
@@ -817,9 +1813,20 @@ TextureImporter:
         width: 103
         height: 198
       alignment: 9
-      pivot: {x: -.864077687, y: 1.29292929}
+      pivot: {x: -0.8640777, y: 1.2929293}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Fb2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Fb2
       rect:
         serializedVersion: 2
         x: 279
@@ -827,9 +1834,20 @@ TextureImporter:
         width: 122
         height: 198
       alignment: 9
-      pivot: {x: -.770491779, y: 1.29292929}
+      pivot: {x: -0.7704918, y: 1.2929293}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Fb3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Fb3
       rect:
         serializedVersion: 2
         x: 403
@@ -837,9 +1855,20 @@ TextureImporter:
         width: 90
         height: 198
       alignment: 9
-      pivot: {x: -1.13333333, y: 1.29292929}
+      pivot: {x: -1.1333333, y: 1.2929293}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Fb4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Fb4
       rect:
         serializedVersion: 2
         x: 495
@@ -847,9 +1876,20 @@ TextureImporter:
         width: 77
         height: 198
       alignment: 9
-      pivot: {x: -1.16883111, y: 1.29292929}
+      pivot: {x: -1.1688311, y: 1.2929293}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Fc0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Fc0
       rect:
         serializedVersion: 2
         x: 574
@@ -857,9 +1897,20 @@ TextureImporter:
         width: 82
         height: 195
       alignment: 9
-      pivot: {x: -1, y: 1.31282055}
+      pivot: {x: -1, y: 1.3128206}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Fc1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a305410000000000800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Fc1
       rect:
         serializedVersion: 2
         x: 658
@@ -867,9 +1918,20 @@ TextureImporter:
         width: 94
         height: 195
       alignment: 9
-      pivot: {x: -.946808517, y: 1.31282055}
+      pivot: {x: -0.9468085, y: 1.3128206}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Fc2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Fc2
       rect:
         serializedVersion: 2
         x: 754
@@ -877,9 +1939,20 @@ TextureImporter:
         width: 88
         height: 194
       alignment: 9
-      pivot: {x: -1.05681813, y: 1.31958759}
+      pivot: {x: -1.0568181, y: 1.3195876}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Fc3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Fc3
       rect:
         serializedVersion: 2
         x: 844
@@ -887,9 +1960,20 @@ TextureImporter:
         width: 78
         height: 194
       alignment: 9
-      pivot: {x: -1.30769229, y: 1.31958759}
+      pivot: {x: -1.3076923, y: 1.3195876}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Fc4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a305410000000000800000000000000
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Fc4
       rect:
         serializedVersion: 2
         x: 924
@@ -897,9 +1981,20 @@ TextureImporter:
         width: 81
         height: 194
       alignment: 9
-      pivot: {x: -1.13580251, y: 1.31958759}
+      pivot: {x: -1.1358025, y: 1.3195876}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Fd0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Fd0
       rect:
         serializedVersion: 2
         x: 1007
@@ -907,9 +2002,20 @@ TextureImporter:
         width: 82
         height: 194
       alignment: 9
-      pivot: {x: -1, y: 1.31958759}
+      pivot: {x: -1, y: 1.3195876}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Fd1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Fd1
       rect:
         serializedVersion: 2
         x: 1091
@@ -917,9 +2023,20 @@ TextureImporter:
         width: 94
         height: 194
       alignment: 9
-      pivot: {x: -.946808517, y: 1.31958759}
+      pivot: {x: -0.9468085, y: 1.3195876}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Fd2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea305410000000000800000000000000
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Fd2
       rect:
         serializedVersion: 2
         x: 1187
@@ -927,9 +2044,20 @@ TextureImporter:
         width: 88
         height: 194
       alignment: 9
-      pivot: {x: -1.05681813, y: 1.31958759}
+      pivot: {x: -1.0568181, y: 1.3195876}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Fd3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b305410000000000800000000000000
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Fd3
       rect:
         serializedVersion: 2
         x: 1277
@@ -937,9 +2065,20 @@ TextureImporter:
         width: 73
         height: 194
       alignment: 9
-      pivot: {x: -1.39726031, y: 1.31958759}
+      pivot: {x: -1.3972603, y: 1.3195876}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Fd4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b305410000000000800000000000000
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Fd4
       rect:
         serializedVersion: 2
         x: 1352
@@ -947,9 +2086,20 @@ TextureImporter:
         width: 82
         height: 194
       alignment: 9
-      pivot: {x: -1.12195122, y: 1.31958759}
+      pivot: {x: -1.1219512, y: 1.3195876}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Na0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b305410000000000800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Na0
       rect:
         serializedVersion: 2
         x: 1436
@@ -957,9 +2107,20 @@ TextureImporter:
         width: 92
         height: 186
       alignment: 9
-      pivot: {x: -.978260875, y: 1.37634408}
+      pivot: {x: -0.9782609, y: 1.3763441}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Na1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b305410000000000800000000000000
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Na1
       rect:
         serializedVersion: 2
         x: 1530
@@ -967,9 +2128,20 @@ TextureImporter:
         width: 97
         height: 186
       alignment: 9
-      pivot: {x: -.938144326, y: 1.37634408}
+      pivot: {x: -0.9381443, y: 1.3763441}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Na2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b305410000000000800000000000000
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Na2
       rect:
         serializedVersion: 2
         x: 1629
@@ -977,9 +2149,20 @@ TextureImporter:
         width: 94
         height: 186
       alignment: 9
-      pivot: {x: -.925531924, y: 1.37634408}
+      pivot: {x: -0.9255319, y: 1.3763441}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Na3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab305410000000000800000000000000
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Na3
       rect:
         serializedVersion: 2
         x: 1725
@@ -987,9 +2170,20 @@ TextureImporter:
         width: 84
         height: 186
       alignment: 9
-      pivot: {x: -.988095224, y: 1.37634408}
+      pivot: {x: -0.9880952, y: 1.3763441}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Na4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb305410000000000800000000000000
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Na4
       rect:
         serializedVersion: 2
         x: 1811
@@ -997,9 +2191,20 @@ TextureImporter:
         width: 92
         height: 186
       alignment: 9
-      pivot: {x: -.804347813, y: 1.37634408}
+      pivot: {x: -0.8043478, y: 1.3763441}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Nb0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb305410000000000800000000000000
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Nb0
       rect:
         serializedVersion: 2
         x: 1905
@@ -1007,9 +2212,20 @@ TextureImporter:
         width: 127
         height: 176
       alignment: 9
-      pivot: {x: -.433070868, y: 1.4545455}
+      pivot: {x: -0.43307087, y: 1.4545455}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Nb1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c305410000000000800000000000000
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Nb1
       rect:
         serializedVersion: 2
         x: 2
@@ -1017,9 +2233,20 @@ TextureImporter:
         width: 120
         height: 177
       alignment: 9
-      pivot: {x: -.524999976, y: 1.44632769}
+      pivot: {x: -0.525, y: 1.4463277}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Nb2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c305410000000000800000000000000
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Nb2
       rect:
         serializedVersion: 2
         x: 124
@@ -1027,9 +2254,20 @@ TextureImporter:
         width: 138
         height: 177
       alignment: 9
-      pivot: {x: -.311594188, y: 1.44632769}
+      pivot: {x: -0.3115942, y: 1.4463277}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Nb3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c305410000000000800000000000000
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Nb3
       rect:
         serializedVersion: 2
         x: 264
@@ -1037,9 +2275,20 @@ TextureImporter:
         width: 173
         height: 177
       alignment: 9
-      pivot: {x: -.167630062, y: 1.44632769}
+      pivot: {x: -0.16763006, y: 1.4463277}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Nb4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c305410000000000800000000000000
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Nb4
       rect:
         serializedVersion: 2
         x: 439
@@ -1047,9 +2296,20 @@ TextureImporter:
         width: 128
         height: 177
       alignment: 9
-      pivot: {x: -.5625, y: 1.44632769}
+      pivot: {x: -0.5625, y: 1.4463277}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Nc0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c305410000000000800000000000000
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Nc0
       rect:
         serializedVersion: 2
         x: 569
@@ -1057,9 +2317,20 @@ TextureImporter:
         width: 131
         height: 189
       alignment: 9
-      pivot: {x: -.381679386, y: 1.35449731}
+      pivot: {x: -0.3816794, y: 1.3544973}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Nc1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac305410000000000800000000000000
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Nc1
       rect:
         serializedVersion: 2
         x: 702
@@ -1067,9 +2338,20 @@ TextureImporter:
         width: 116
         height: 190
       alignment: 9
-      pivot: {x: -.577586234, y: 1.34736848}
+      pivot: {x: -0.57758623, y: 1.3473685}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Nc2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc305410000000000800000000000000
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Nc2
       rect:
         serializedVersion: 2
         x: 820
@@ -1077,9 +2359,20 @@ TextureImporter:
         width: 133
         height: 190
       alignment: 9
-      pivot: {x: -.36090225, y: 1.34736848}
+      pivot: {x: -0.36090225, y: 1.3473685}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Nc3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec305410000000000800000000000000
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Nc3
       rect:
         serializedVersion: 2
         x: 955
@@ -1087,9 +2380,20 @@ TextureImporter:
         width: 145
         height: 190
       alignment: 9
-      pivot: {x: -.241379306, y: 1.34736848}
+      pivot: {x: -0.2413793, y: 1.3473685}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Nc4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d305410000000000800000000000000
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Nc4
       rect:
         serializedVersion: 2
         x: 1102
@@ -1097,9 +2401,20 @@ TextureImporter:
         width: 132
         height: 190
       alignment: 9
-      pivot: {x: -.560606062, y: 1.34736848}
+      pivot: {x: -0.56060606, y: 1.3473685}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Nd0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d305410000000000800000000000000
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Nd0
       rect:
         serializedVersion: 2
         x: 1236
@@ -1107,9 +2422,20 @@ TextureImporter:
         width: 105
         height: 193
       alignment: 9
-      pivot: {x: -.72380954, y: 1.32642484}
+      pivot: {x: -0.72380954, y: 1.3264248}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Nd1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d305410000000000800000000000000
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Nd1
       rect:
         serializedVersion: 2
         x: 1343
@@ -1117,9 +2443,20 @@ TextureImporter:
         width: 115
         height: 193
       alignment: 9
-      pivot: {x: -.591304362, y: 1.32642484}
+      pivot: {x: -0.59130436, y: 1.3264248}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Nd2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d305410000000000800000000000000
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Nd2
       rect:
         serializedVersion: 2
         x: 1460
@@ -1127,9 +2464,20 @@ TextureImporter:
         width: 106
         height: 192
       alignment: 9
-      pivot: {x: -.707547188, y: 1.33333337}
+      pivot: {x: -0.7075472, y: 1.3333334}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Nd3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d305410000000000800000000000000
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Nd3
       rect:
         serializedVersion: 2
         x: 1568
@@ -1137,9 +2485,20 @@ TextureImporter:
         width: 95
         height: 192
       alignment: 9
-      pivot: {x: -.747368395, y: 1.33333337}
+      pivot: {x: -0.7473684, y: 1.3333334}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Nd4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad305410000000000800000000000000
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Nd4
       rect:
         serializedVersion: 2
         x: 1665
@@ -1147,9 +2506,20 @@ TextureImporter:
         width: 105
         height: 192
       alignment: 9
-      pivot: {x: -.714285731, y: 1.33333337}
+      pivot: {x: -0.71428573, y: 1.3333334}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Ne0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd305410000000000800000000000000
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Ne0
       rect:
         serializedVersion: 2
         x: 1772
@@ -1157,9 +2527,20 @@ TextureImporter:
         width: 98
         height: 197
       alignment: 9
-      pivot: {x: -.816326559, y: 1.29949236}
+      pivot: {x: -0.81632656, y: 1.2994924}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Ne1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed305410000000000800000000000000
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Ne1
       rect:
         serializedVersion: 2
         x: 1872
@@ -1167,9 +2548,20 @@ TextureImporter:
         width: 109
         height: 197
       alignment: 9
-      pivot: {x: -.678899109, y: 1.29949236}
+      pivot: {x: -0.6788991, y: 1.2994924}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Ne2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e305410000000000800000000000000
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Ne2
       rect:
         serializedVersion: 2
         x: 2
@@ -1177,9 +2569,20 @@ TextureImporter:
         width: 94
         height: 197
       alignment: 9
-      pivot: {x: -.925531924, y: 1.29949236}
+      pivot: {x: -0.9255319, y: 1.2994924}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Ne3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e305410000000000800000000000000
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Ne3
       rect:
         serializedVersion: 2
         x: 98
@@ -1187,9 +2590,20 @@ TextureImporter:
         width: 85
         height: 196
       alignment: 9
-      pivot: {x: -.964705884, y: 1.30612242}
+      pivot: {x: -0.9647059, y: 1.3061224}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Ne4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e305410000000000800000000000000
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Ne4
       rect:
         serializedVersion: 2
         x: 185
@@ -1197,9 +2611,20 @@ TextureImporter:
         width: 99
         height: 196
       alignment: 9
-      pivot: {x: -.787878811, y: 1.30612242}
+      pivot: {x: -0.7878788, y: 1.3061224}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Sa0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e305410000000000800000000000000
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Sa0
       rect:
         serializedVersion: 2
         x: 286
@@ -1207,9 +2632,20 @@ TextureImporter:
         width: 92
         height: 201
       alignment: 9
-      pivot: {x: -.956521749, y: 1.27363181}
+      pivot: {x: -0.95652175, y: 1.2736318}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Sa1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e305410000000000800000000000000
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Sa1
       rect:
         serializedVersion: 2
         x: 380
@@ -1217,9 +2653,20 @@ TextureImporter:
         width: 95
         height: 201
       alignment: 9
-      pivot: {x: -.926315784, y: 1.27363181}
+      pivot: {x: -0.9263158, y: 1.2736318}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Sa2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae305410000000000800000000000000
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Sa2
       rect:
         serializedVersion: 2
         x: 477
@@ -1227,9 +2674,20 @@ TextureImporter:
         width: 86
         height: 201
       alignment: 9
-      pivot: {x: -1.10465121, y: 1.27363181}
+      pivot: {x: -1.1046512, y: 1.2736318}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Sa3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce305410000000000800000000000000
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Sa3
       rect:
         serializedVersion: 2
         x: 565
@@ -1237,9 +2695,20 @@ TextureImporter:
         width: 71
         height: 201
       alignment: 9
-      pivot: {x: -1.39436615, y: 1.27363181}
+      pivot: {x: -1.3943661, y: 1.2736318}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Sa4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee305410000000000800000000000000
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Sa4
       rect:
         serializedVersion: 2
         x: 638
@@ -1247,9 +2716,20 @@ TextureImporter:
         width: 91
         height: 200
       alignment: 9
-      pivot: {x: -.846153855, y: 1.27499998}
+      pivot: {x: -0.84615386, y: 1.275}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Wa0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f305410000000000800000000000000
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Wa0
       rect:
         serializedVersion: 2
         x: 731
@@ -1257,9 +2737,20 @@ TextureImporter:
         width: 87
         height: 199
       alignment: 9
-      pivot: {x: -1.01149428, y: 1.281407}
+      pivot: {x: -1.0114943, y: 1.281407}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Wa1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f305410000000000800000000000000
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Wa1
       rect:
         serializedVersion: 2
         x: 820
@@ -1267,9 +2758,20 @@ TextureImporter:
         width: 98
         height: 198
       alignment: 9
-      pivot: {x: -.887755096, y: 1.28787875}
+      pivot: {x: -0.8877551, y: 1.2878788}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Wa2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f305410000000000800000000000000
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Wa2
       rect:
         serializedVersion: 2
         x: 920
@@ -1277,9 +2779,20 @@ TextureImporter:
         width: 118
         height: 198
       alignment: 9
-      pivot: {x: -.593220353, y: 1.28787875}
+      pivot: {x: -0.59322035, y: 1.2878788}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Wa3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f305410000000000800000000000000
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Wa3
       rect:
         serializedVersion: 2
         x: 1040
@@ -1287,9 +2800,20 @@ TextureImporter:
         width: 125
         height: 198
       alignment: 9
-      pivot: {x: -.463999987, y: 1.28787875}
+      pivot: {x: -0.464, y: 1.2878788}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Wa4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f305410000000000800000000000000
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Wa4
       rect:
         serializedVersion: 2
         x: 1167
@@ -1297,9 +2821,20 @@ TextureImporter:
         width: 87
         height: 198
       alignment: 9
-      pivot: {x: -.931034505, y: 1.28787875}
+      pivot: {x: -0.9310345, y: 1.2878788}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Wb0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af305410000000000800000000000000
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Wb0
       rect:
         serializedVersion: 2
         x: 1256
@@ -1307,9 +2842,20 @@ TextureImporter:
         width: 89
         height: 202
       alignment: 9
-      pivot: {x: -.977528095, y: 1.26732671}
+      pivot: {x: -0.9775281, y: 1.2673267}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Wb1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf305410000000000800000000000000
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Wb1
       rect:
         serializedVersion: 2
         x: 1347
@@ -1317,9 +2863,20 @@ TextureImporter:
         width: 84
         height: 202
       alignment: 9
-      pivot: {x: -1.08333337, y: 1.26732671}
+      pivot: {x: -1.0833334, y: 1.2673267}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Wb2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef305410000000000800000000000000
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Wb2
       rect:
         serializedVersion: 2
         x: 1433
@@ -1327,9 +2884,20 @@ TextureImporter:
         width: 98
         height: 202
       alignment: 9
-      pivot: {x: -.775510192, y: 1.26732671}
+      pivot: {x: -0.7755102, y: 1.2673267}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Wb3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00405410000000000800000000000000
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Wb3
       rect:
         serializedVersion: 2
         x: 1533
@@ -1337,9 +2905,20 @@ TextureImporter:
         width: 119
         height: 202
       alignment: 9
-      pivot: {x: -.512605071, y: 1.26732671}
+      pivot: {x: -0.5126051, y: 1.2673267}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Wb4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20405410000000000800000000000000
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Wb4
       rect:
         serializedVersion: 2
         x: 1654
@@ -1347,9 +2926,20 @@ TextureImporter:
         width: 89
         height: 202
       alignment: 9
-      pivot: {x: -.898876429, y: 1.26732671}
+      pivot: {x: -0.8988764, y: 1.2673267}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Wc0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40405410000000000800000000000000
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Wc0
       rect:
         serializedVersion: 2
         x: 1745
@@ -1357,9 +2947,20 @@ TextureImporter:
         width: 89
         height: 203
       alignment: 9
-      pivot: {x: -.966292143, y: 1.25615764}
+      pivot: {x: -0.96629214, y: 1.2561576}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Wc1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60405410000000000800000000000000
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Wc1
       rect:
         serializedVersion: 2
         x: 1836
@@ -1367,9 +2968,20 @@ TextureImporter:
         width: 72
         height: 203
       alignment: 9
-      pivot: {x: -1.25, y: 1.25615764}
+      pivot: {x: -1.25, y: 1.2561576}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Wc2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80405410000000000800000000000000
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Wc2
       rect:
         serializedVersion: 2
         x: 1910
@@ -1377,9 +2989,20 @@ TextureImporter:
         width: 82
         height: 203
       alignment: 9
-      pivot: {x: -1.03658533, y: 1.25615764}
+      pivot: {x: -1.0365853, y: 1.2561576}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Wc3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0405410000000000800000000000000
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Wc3
       rect:
         serializedVersion: 2
         x: 2
@@ -1387,9 +3010,20 @@ TextureImporter:
         width: 105
         height: 203
       alignment: 9
-      pivot: {x: -.666666687, y: 1.25615764}
+      pivot: {x: -0.6666667, y: 1.2561576}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Wc4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0405410000000000800000000000000
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Wc4
       rect:
         serializedVersion: 2
         x: 109
@@ -1397,9 +3031,20 @@ TextureImporter:
         width: 89
         height: 203
       alignment: 9
-      pivot: {x: -.910112381, y: 1.25615764}
+      pivot: {x: -0.9101124, y: 1.2561576}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Wd0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0405410000000000800000000000000
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Wd0
       rect:
         serializedVersion: 2
         x: 200
@@ -1407,9 +3052,20 @@ TextureImporter:
         width: 85
         height: 202
       alignment: 9
-      pivot: {x: -.988235295, y: 1.26732671}
+      pivot: {x: -0.9882353, y: 1.2673267}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Wd1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01405410000000000800000000000000
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Wd1
       rect:
         serializedVersion: 2
         x: 287
@@ -1417,9 +3073,20 @@ TextureImporter:
         width: 88
         height: 202
       alignment: 9
-      pivot: {x: -.931818187, y: 1.26732671}
+      pivot: {x: -0.9318182, y: 1.2673267}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Wd2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21405410000000000800000000000000
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Wd2
       rect:
         serializedVersion: 2
         x: 377
@@ -1427,9 +3094,20 @@ TextureImporter:
         width: 78
         height: 202
       alignment: 9
-      pivot: {x: -1.15384614, y: 1.26732671}
+      pivot: {x: -1.1538461, y: 1.2673267}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Wd3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41405410000000000800000000000000
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Wd3
       rect:
         serializedVersion: 2
         x: 457
@@ -1437,9 +3115,20 @@ TextureImporter:
         width: 91
         height: 202
       alignment: 9
-      pivot: {x: -.868131876, y: 1.26732671}
+      pivot: {x: -0.8681319, y: 1.2673267}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Wd4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61405410000000000800000000000000
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Wd4
       rect:
         serializedVersion: 2
         x: 550
@@ -1447,9 +3136,20 @@ TextureImporter:
         width: 85
         height: 202
       alignment: 9
-      pivot: {x: -1.02352941, y: 1.26732671}
+      pivot: {x: -1.0235294, y: 1.2673267}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422We0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81405410000000000800000000000000
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422We0
       rect:
         serializedVersion: 2
         x: 637
@@ -1457,9 +3157,20 @@ TextureImporter:
         width: 87
         height: 200
       alignment: 9
-      pivot: {x: -.919540226, y: 1.27999997}
+      pivot: {x: -0.9195402, y: 1.28}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422We1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1405410000000000800000000000000
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422We1
       rect:
         serializedVersion: 2
         x: 726
@@ -1467,9 +3178,20 @@ TextureImporter:
         width: 107
         height: 199
       alignment: 9
-      pivot: {x: -.710280359, y: 1.28643215}
+      pivot: {x: -0.71028036, y: 1.2864321}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422We2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1405410000000000800000000000000
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422We2
       rect:
         serializedVersion: 2
         x: 835
@@ -1477,9 +3199,20 @@ TextureImporter:
         width: 103
         height: 198
       alignment: 9
-      pivot: {x: -.854368925, y: 1.28787875}
+      pivot: {x: -0.8543689, y: 1.2878788}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422We3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1405410000000000800000000000000
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422We3
       rect:
         serializedVersion: 2
         x: 940
@@ -1487,9 +3220,20 @@ TextureImporter:
         width: 95
         height: 198
       alignment: 9
-      pivot: {x: -.957894742, y: 1.28787875}
+      pivot: {x: -0.95789474, y: 1.2878788}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422We4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02405410000000000800000000000000
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422We4
       rect:
         serializedVersion: 2
         x: 1037
@@ -1497,9 +3241,20 @@ TextureImporter:
         width: 88
         height: 198
       alignment: 9
-      pivot: {x: -1.01136363, y: 1.28787875}
+      pivot: {x: -1.0113636, y: 1.2878788}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Wf0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22405410000000000800000000000000
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Wf0
       rect:
         serializedVersion: 2
         x: 1127
@@ -1507,9 +3262,20 @@ TextureImporter:
         width: 96
         height: 203
       alignment: 9
-      pivot: {x: -.78125, y: 1.26108372}
+      pivot: {x: -0.78125, y: 1.2610837}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Wf1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42405410000000000800000000000000
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Wf1
       rect:
         serializedVersion: 2
         x: 1225
@@ -1517,9 +3283,20 @@ TextureImporter:
         width: 119
         height: 203
       alignment: 9
-      pivot: {x: -.529411793, y: 1.26108372}
+      pivot: {x: -0.5294118, y: 1.2610837}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Wf2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62405410000000000800000000000000
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Wf2
       rect:
         serializedVersion: 2
         x: 1346
@@ -1527,9 +3304,20 @@ TextureImporter:
         width: 104
         height: 203
       alignment: 9
-      pivot: {x: -.759615362, y: 1.26108372}
+      pivot: {x: -0.75961536, y: 1.2610837}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Wf3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82405410000000000800000000000000
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Wf3
       rect:
         serializedVersion: 2
         x: 1452
@@ -1537,9 +3325,20 @@ TextureImporter:
         width: 82
         height: 202
       alignment: 9
-      pivot: {x: -1.14634144, y: 1.26237619}
+      pivot: {x: -1.1463414, y: 1.2623762}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Wf4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2405410000000000800000000000000
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Wf4
       rect:
         serializedVersion: 2
         x: 1536
@@ -1547,9 +3346,20 @@ TextureImporter:
         width: 97
         height: 202
       alignment: 9
-      pivot: {x: -.876288652, y: 1.26237619}
+      pivot: {x: -0.87628865, y: 1.2623762}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Wg0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2405410000000000800000000000000
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Wg0
       rect:
         serializedVersion: 2
         x: 1635
@@ -1557,9 +3367,20 @@ TextureImporter:
         width: 97
         height: 204
       alignment: 9
-      pivot: {x: -.783505142, y: 1.25}
+      pivot: {x: -0.78350514, y: 1.25}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Wg1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2405410000000000800000000000000
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Wg1
       rect:
         serializedVersion: 2
         x: 1734
@@ -1567,9 +3388,20 @@ TextureImporter:
         width: 111
         height: 205
       alignment: 9
-      pivot: {x: -.603603601, y: 1.24878049}
+      pivot: {x: -0.6036036, y: 1.2487805}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Wg2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03405410000000000800000000000000
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Wg2
       rect:
         serializedVersion: 2
         x: 1847
@@ -1577,9 +3409,20 @@ TextureImporter:
         width: 89
         height: 204
       alignment: 9
-      pivot: {x: -.95505619, y: 1.25}
+      pivot: {x: -0.9550562, y: 1.25}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Wg3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23405410000000000800000000000000
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Wg3
       rect:
         serializedVersion: 2
         x: 1938
@@ -1589,7 +3432,18 @@ TextureImporter:
       alignment: 9
       pivot: {x: -1.5, y: 1.25}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Wg4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43405410000000000800000000000000
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Wg4
       rect:
         serializedVersion: 2
         x: 2
@@ -1597,9 +3451,20 @@ TextureImporter:
         width: 98
         height: 204
       alignment: 9
-      pivot: {x: -.846938789, y: 1.25}
+      pivot: {x: -0.8469388, y: 1.25}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Wh0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63405410000000000800000000000000
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Wh0
       rect:
         serializedVersion: 2
         x: 102
@@ -1607,9 +3472,20 @@ TextureImporter:
         width: 88
         height: 202
       alignment: 9
-      pivot: {x: -.943181813, y: 1.26732671}
+      pivot: {x: -0.9431818, y: 1.2673267}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Wh1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83405410000000000800000000000000
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Wh1
       rect:
         serializedVersion: 2
         x: 192
@@ -1617,9 +3493,20 @@ TextureImporter:
         width: 105
         height: 202
       alignment: 9
-      pivot: {x: -.685714304, y: 1.26732671}
+      pivot: {x: -0.6857143, y: 1.2673267}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Wh2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3405410000000000800000000000000
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Wh2
       rect:
         serializedVersion: 2
         x: 299
@@ -1627,9 +3514,20 @@ TextureImporter:
         width: 91
         height: 201
       alignment: 9
-      pivot: {x: -.945054948, y: 1.27363181}
+      pivot: {x: -0.94505495, y: 1.2736318}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Wh3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3405410000000000800000000000000
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Wh3
       rect:
         serializedVersion: 2
         x: 392
@@ -1637,9 +3535,20 @@ TextureImporter:
         width: 89
         height: 201
       alignment: 9
-      pivot: {x: -.898876429, y: 1.27363181}
+      pivot: {x: -0.8988764, y: 1.2736318}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Wh4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3405410000000000800000000000000
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Wh4
       rect:
         serializedVersion: 2
         x: 483
@@ -1647,9 +3556,20 @@ TextureImporter:
         width: 89
         height: 201
       alignment: 9
-      pivot: {x: -.943820238, y: 1.27363181}
+      pivot: {x: -0.94382024, y: 1.2736318}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Xa0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04405410000000000800000000000000
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Xa0
       rect:
         serializedVersion: 2
         x: 574
@@ -1657,9 +3577,20 @@ TextureImporter:
         width: 186
         height: 37
       alignment: 9
-      pivot: {x: -.155913979, y: 6.91891909}
+      pivot: {x: -0.15591398, y: 6.918919}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Xa1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24405410000000000800000000000000
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Xa1
       rect:
         serializedVersion: 2
         x: 762
@@ -1667,9 +3598,20 @@ TextureImporter:
         width: 206
         height: 37
       alignment: 9
-      pivot: {x: -.140776694, y: 6.91891909}
+      pivot: {x: -0.1407767, y: 6.918919}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Xa2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44405410000000000800000000000000
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Xa2
       rect:
         serializedVersion: 2
         x: 970
@@ -1677,9 +3619,20 @@ TextureImporter:
         width: 202
         height: 37
       alignment: 9
-      pivot: {x: -.168316826, y: 6.91891909}
+      pivot: {x: -0.16831683, y: 6.918919}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Xa3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64405410000000000800000000000000
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Xa3
       rect:
         serializedVersion: 2
         x: 1174
@@ -1687,9 +3640,20 @@ TextureImporter:
         width: 211
         height: 37
       alignment: 9
-      pivot: {x: -.061611373, y: 6.91891909}
+      pivot: {x: -0.061611373, y: 6.918919}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M422Xa4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84405410000000000800000000000000
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M422Xa4
       rect:
         serializedVersion: 2
         x: 1387
@@ -1697,9 +3661,31 @@ TextureImporter:
         width: 184
         height: 37
       alignment: 9
-      pivot: {x: -.228260875, y: 6.91891909}
+      pivot: {x: -0.22826087, y: 6.918919}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4405410000000000800000000000000
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

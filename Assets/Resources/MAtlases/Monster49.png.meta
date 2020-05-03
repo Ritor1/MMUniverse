@@ -1,180 +1,455 @@
 fileFormatVersion: 2
 guid: c037f5536a392f149ae2e04e3f720aa9
-timeCreated: 1442629760
-licenseType: Pro
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: M390Aa0
-    21300002: M390Aa1
-    21300004: M390Aa2
-    21300006: M390Aa3
-    21300008: M390Aa4
-    21300010: M390Ab0
-    21300012: M390Ab1
-    21300014: M390Ab2
-    21300016: M390Ab3
-    21300018: M390Ab4
-    21300020: M390Ac0
-    21300022: M390Ac1
-    21300024: M390Ac2
-    21300026: M390Ac3
-    21300028: M390Ac4
-    21300030: M390Ad0
-    21300032: M390Ad1
-    21300034: M390Ad2
-    21300036: M390Ad3
-    21300038: M390Ad4
-    21300040: M390Ae0
-    21300042: M390Ae1
-    21300044: M390Ae2
-    21300046: M390Ae3
-    21300048: M390Ae4
-    21300050: M390Af0
-    21300052: M390Af1
-    21300054: M390Af2
-    21300056: M390Af3
-    21300058: M390Af4
-    21300060: M390Ag0
-    21300062: M390Ag1
-    21300064: M390Ag2
-    21300066: M390Ag3
-    21300068: M390Ag4
-    21300070: M390Da0
-    21300072: M390Da1
-    21300074: M390Da2
-    21300076: M390Da3
-    21300078: M390Da4
-    21300080: M390Db0
-    21300082: M390Db1
-    21300084: M390Db2
-    21300086: M390Db3
-    21300088: M390Db4
-    21300090: M390Na0
-    21300092: M390Na1
-    21300094: M390Na2
-    21300096: M390Na3
-    21300098: M390Na4
-    21300100: M390Nb0
-    21300102: M390Nb1
-    21300104: M390Nb2
-    21300106: M390Nb3
-    21300108: M390Nb4
-    21300110: M390Nc0
-    21300112: M390Nc1
-    21300114: M390Nc2
-    21300116: M390Nc3
-    21300118: M390Nc4
-    21300120: M390Nd0
-    21300122: M390Nd1
-    21300124: M390Nd2
-    21300126: M390Nd3
-    21300128: M390Nd4
-    21300130: M390Ne0
-    21300132: M390Ne1
-    21300134: M390Ne2
-    21300136: M390Ne3
-    21300138: M390Ne4
-    21300140: M390Nf0
-    21300142: M390Nf1
-    21300144: M390Nf2
-    21300146: M390Nf3
-    21300148: M390Nf4
-    21300150: M390Ng0
-    21300152: M390Ng1
-    21300154: M390Ng2
-    21300156: M390Ng3
-    21300158: M390Ng4
-    21300160: M390Sa0
-    21300162: M390Sa1
-    21300164: M390Sa2
-    21300166: M390Sa3
-    21300168: M390Sa4
-    21300170: M390Wa0
-    21300172: M390Wa1
-    21300174: M390Wa2
-    21300176: M390Wa3
-    21300178: M390Wa4
-    21300180: M390Wb0
-    21300182: M390Wb1
-    21300184: M390Wb2
-    21300186: M390Wb3
-    21300188: M390Wb4
-    21300190: M390Wc0
-    21300192: M390Wc1
-    21300194: M390Wc2
-    21300196: M390Wc3
-    21300198: M390Wc4
-    21300200: M390Wd0
-    21300202: M390Wd1
-    21300204: M390Wd2
-    21300206: M390Wd3
-    21300208: M390Wd4
-    21300210: M390We0
-    21300212: M390We1
-    21300214: M390We2
-    21300216: M390We3
-    21300218: M390We4
-    21300220: M390Wf0
-    21300222: M390Wf1
-    21300224: M390Wf2
-    21300226: M390Wf3
-    21300228: M390Wf4
-    21300230: M390Wg0
-    21300232: M390Wg1
-    21300234: M390Wg2
-    21300236: M390Wg3
-    21300238: M390Wg4
-    21300240: M390Xa0
-    21300242: M390Xa1
-    21300244: M390Xa2
-    21300246: M390Xa3
-    21300248: M390Xa4
-  serializedVersion: 2
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: M390Aa0
+  - first:
+      213: 21300002
+    second: M390Aa1
+  - first:
+      213: 21300004
+    second: M390Aa2
+  - first:
+      213: 21300006
+    second: M390Aa3
+  - first:
+      213: 21300008
+    second: M390Aa4
+  - first:
+      213: 21300010
+    second: M390Ab0
+  - first:
+      213: 21300012
+    second: M390Ab1
+  - first:
+      213: 21300014
+    second: M390Ab2
+  - first:
+      213: 21300016
+    second: M390Ab3
+  - first:
+      213: 21300018
+    second: M390Ab4
+  - first:
+      213: 21300020
+    second: M390Ac0
+  - first:
+      213: 21300022
+    second: M390Ac1
+  - first:
+      213: 21300024
+    second: M390Ac2
+  - first:
+      213: 21300026
+    second: M390Ac3
+  - first:
+      213: 21300028
+    second: M390Ac4
+  - first:
+      213: 21300030
+    second: M390Ad0
+  - first:
+      213: 21300032
+    second: M390Ad1
+  - first:
+      213: 21300034
+    second: M390Ad2
+  - first:
+      213: 21300036
+    second: M390Ad3
+  - first:
+      213: 21300038
+    second: M390Ad4
+  - first:
+      213: 21300040
+    second: M390Ae0
+  - first:
+      213: 21300042
+    second: M390Ae1
+  - first:
+      213: 21300044
+    second: M390Ae2
+  - first:
+      213: 21300046
+    second: M390Ae3
+  - first:
+      213: 21300048
+    second: M390Ae4
+  - first:
+      213: 21300050
+    second: M390Af0
+  - first:
+      213: 21300052
+    second: M390Af1
+  - first:
+      213: 21300054
+    second: M390Af2
+  - first:
+      213: 21300056
+    second: M390Af3
+  - first:
+      213: 21300058
+    second: M390Af4
+  - first:
+      213: 21300060
+    second: M390Ag0
+  - first:
+      213: 21300062
+    second: M390Ag1
+  - first:
+      213: 21300064
+    second: M390Ag2
+  - first:
+      213: 21300066
+    second: M390Ag3
+  - first:
+      213: 21300068
+    second: M390Ag4
+  - first:
+      213: 21300070
+    second: M390Da0
+  - first:
+      213: 21300072
+    second: M390Da1
+  - first:
+      213: 21300074
+    second: M390Da2
+  - first:
+      213: 21300076
+    second: M390Da3
+  - first:
+      213: 21300078
+    second: M390Da4
+  - first:
+      213: 21300080
+    second: M390Db0
+  - first:
+      213: 21300082
+    second: M390Db1
+  - first:
+      213: 21300084
+    second: M390Db2
+  - first:
+      213: 21300086
+    second: M390Db3
+  - first:
+      213: 21300088
+    second: M390Db4
+  - first:
+      213: 21300090
+    second: M390Na0
+  - first:
+      213: 21300092
+    second: M390Na1
+  - first:
+      213: 21300094
+    second: M390Na2
+  - first:
+      213: 21300096
+    second: M390Na3
+  - first:
+      213: 21300098
+    second: M390Na4
+  - first:
+      213: 21300100
+    second: M390Nb0
+  - first:
+      213: 21300102
+    second: M390Nb1
+  - first:
+      213: 21300104
+    second: M390Nb2
+  - first:
+      213: 21300106
+    second: M390Nb3
+  - first:
+      213: 21300108
+    second: M390Nb4
+  - first:
+      213: 21300110
+    second: M390Nc0
+  - first:
+      213: 21300112
+    second: M390Nc1
+  - first:
+      213: 21300114
+    second: M390Nc2
+  - first:
+      213: 21300116
+    second: M390Nc3
+  - first:
+      213: 21300118
+    second: M390Nc4
+  - first:
+      213: 21300120
+    second: M390Nd0
+  - first:
+      213: 21300122
+    second: M390Nd1
+  - first:
+      213: 21300124
+    second: M390Nd2
+  - first:
+      213: 21300126
+    second: M390Nd3
+  - first:
+      213: 21300128
+    second: M390Nd4
+  - first:
+      213: 21300130
+    second: M390Ne0
+  - first:
+      213: 21300132
+    second: M390Ne1
+  - first:
+      213: 21300134
+    second: M390Ne2
+  - first:
+      213: 21300136
+    second: M390Ne3
+  - first:
+      213: 21300138
+    second: M390Ne4
+  - first:
+      213: 21300140
+    second: M390Nf0
+  - first:
+      213: 21300142
+    second: M390Nf1
+  - first:
+      213: 21300144
+    second: M390Nf2
+  - first:
+      213: 21300146
+    second: M390Nf3
+  - first:
+      213: 21300148
+    second: M390Nf4
+  - first:
+      213: 21300150
+    second: M390Ng0
+  - first:
+      213: 21300152
+    second: M390Ng1
+  - first:
+      213: 21300154
+    second: M390Ng2
+  - first:
+      213: 21300156
+    second: M390Ng3
+  - first:
+      213: 21300158
+    second: M390Ng4
+  - first:
+      213: 21300160
+    second: M390Sa0
+  - first:
+      213: 21300162
+    second: M390Sa1
+  - first:
+      213: 21300164
+    second: M390Sa2
+  - first:
+      213: 21300166
+    second: M390Sa3
+  - first:
+      213: 21300168
+    second: M390Sa4
+  - first:
+      213: 21300170
+    second: M390Wa0
+  - first:
+      213: 21300172
+    second: M390Wa1
+  - first:
+      213: 21300174
+    second: M390Wa2
+  - first:
+      213: 21300176
+    second: M390Wa3
+  - first:
+      213: 21300178
+    second: M390Wa4
+  - first:
+      213: 21300180
+    second: M390Wb0
+  - first:
+      213: 21300182
+    second: M390Wb1
+  - first:
+      213: 21300184
+    second: M390Wb2
+  - first:
+      213: 21300186
+    second: M390Wb3
+  - first:
+      213: 21300188
+    second: M390Wb4
+  - first:
+      213: 21300190
+    second: M390Wc0
+  - first:
+      213: 21300192
+    second: M390Wc1
+  - first:
+      213: 21300194
+    second: M390Wc2
+  - first:
+      213: 21300196
+    second: M390Wc3
+  - first:
+      213: 21300198
+    second: M390Wc4
+  - first:
+      213: 21300200
+    second: M390Wd0
+  - first:
+      213: 21300202
+    second: M390Wd1
+  - first:
+      213: 21300204
+    second: M390Wd2
+  - first:
+      213: 21300206
+    second: M390Wd3
+  - first:
+      213: 21300208
+    second: M390Wd4
+  - first:
+      213: 21300210
+    second: M390We0
+  - first:
+      213: 21300212
+    second: M390We1
+  - first:
+      213: 21300214
+    second: M390We2
+  - first:
+      213: 21300216
+    second: M390We3
+  - first:
+      213: 21300218
+    second: M390We4
+  - first:
+      213: 21300220
+    second: M390Wf0
+  - first:
+      213: 21300222
+    second: M390Wf1
+  - first:
+      213: 21300224
+    second: M390Wf2
+  - first:
+      213: 21300226
+    second: M390Wf3
+  - first:
+      213: 21300228
+    second: M390Wf4
+  - first:
+      213: 21300230
+    second: M390Wg0
+  - first:
+      213: 21300232
+    second: M390Wg1
+  - first:
+      213: 21300234
+    second: M390Wg2
+  - first:
+      213: 21300236
+    second: M390Wg3
+  - first:
+      213: 21300238
+    second: M390Wg4
+  - first:
+      213: 21300240
+    second: M390Xa0
+  - first:
+      213: 21300242
+    second: M390Xa1
+  - first:
+      213: 21300244
+    second: M390Xa2
+  - first:
+      213: 21300246
+    second: M390Xa3
+  - first:
+      213: 21300248
+    second: M390Xa4
+  externalObjects: {}
+  serializedVersion: 10
   mipmaps:
     mipMapMode: 0
     enableMipMap: 1
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
     convertToNormalMap: 0
     externalNormalMap: 0
-    heightScale: .25
+    heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
   cubemapConvolution: 0
-  cubemapConvolutionSteps: 8
-  cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -1
   maxTextureSize: 4096
   textureSettings:
+    serializedVersion: 2
     filterMode: -1
     aniso: -1
-    mipBias: -1
-    wrapMode: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
-  rGBM: 0
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
-  spritePivot: {x: .5, y: .5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings: []
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: M390Aa0
+    - serializedVersion: 2
+      name: M390Aa0
       rect:
         serializedVersion: 2
         x: 2
@@ -182,9 +457,20 @@ TextureImporter:
         width: 199
         height: 117
       alignment: 9
-      pivot: {x: -.140703514, y: 1.87179482}
+      pivot: {x: -0.14070351, y: 1.8717948}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Aa1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Aa1
       rect:
         serializedVersion: 2
         x: 203
@@ -192,9 +478,20 @@ TextureImporter:
         width: 161
         height: 118
       alignment: 9
-      pivot: {x: -.198757768, y: 1.85593224}
+      pivot: {x: -0.19875777, y: 1.8559322}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Aa2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Aa2
       rect:
         serializedVersion: 2
         x: 366
@@ -202,9 +499,20 @@ TextureImporter:
         width: 110
         height: 118
       alignment: 9
-      pivot: {x: -.472727269, y: 1.85593224}
+      pivot: {x: -0.47272727, y: 1.8559322}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Aa3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Aa3
       rect:
         serializedVersion: 2
         x: 478
@@ -212,9 +520,20 @@ TextureImporter:
         width: 162
         height: 118
       alignment: 9
-      pivot: {x: -.203703701, y: 1.85593224}
+      pivot: {x: -0.2037037, y: 1.8559322}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Aa4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Aa4
       rect:
         serializedVersion: 2
         x: 642
@@ -222,9 +541,20 @@ TextureImporter:
         width: 200
         height: 117
       alignment: 9
-      pivot: {x: -.140000001, y: 1.87179482}
+      pivot: {x: -0.14, y: 1.8717948}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Ab0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Ab0
       rect:
         serializedVersion: 2
         x: 844
@@ -232,9 +562,20 @@ TextureImporter:
         width: 201
         height: 130
       alignment: 9
-      pivot: {x: -.139303476, y: 1.66153848}
+      pivot: {x: -0.13930348, y: 1.6615385}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Ab1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Ab1
       rect:
         serializedVersion: 2
         x: 1047
@@ -242,9 +583,20 @@ TextureImporter:
         width: 149
         height: 129
       alignment: 9
-      pivot: {x: -.187919468, y: 1.67441857}
+      pivot: {x: -0.18791947, y: 1.6744186}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Ab2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Ab2
       rect:
         serializedVersion: 2
         x: 1198
@@ -252,9 +604,20 @@ TextureImporter:
         width: 86
         height: 130
       alignment: 9
-      pivot: {x: -.918604672, y: 1.66923082}
+      pivot: {x: -0.9186047, y: 1.6692308}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Ab3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Ab3
       rect:
         serializedVersion: 2
         x: 1286
@@ -262,9 +625,20 @@ TextureImporter:
         width: 146
         height: 130
       alignment: 9
-      pivot: {x: -.212328762, y: 1.66923082}
+      pivot: {x: -0.21232876, y: 1.6692308}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Ab4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Ab4
       rect:
         serializedVersion: 2
         x: 1434
@@ -272,9 +646,20 @@ TextureImporter:
         width: 202
         height: 131
       alignment: 9
-      pivot: {x: -.128712878, y: 1.65648854}
+      pivot: {x: -0.12871288, y: 1.6564885}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Ac0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Ac0
       rect:
         serializedVersion: 2
         x: 1638
@@ -282,9 +667,20 @@ TextureImporter:
         width: 203
         height: 101
       alignment: 9
-      pivot: {x: -.133004919, y: 2.24752474}
+      pivot: {x: -0.13300492, y: 2.2475247}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Ac1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Ac1
       rect:
         serializedVersion: 2
         x: 1843
@@ -292,9 +688,20 @@ TextureImporter:
         width: 155
         height: 100
       alignment: 9
-      pivot: {x: -.193548381, y: 2.26999998}
+      pivot: {x: -0.19354838, y: 2.27}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Ac2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Ac2
       rect:
         serializedVersion: 2
         x: 2
@@ -302,9 +709,20 @@ TextureImporter:
         width: 98
         height: 100
       alignment: 9
-      pivot: {x: -.765306115, y: 2.26999998}
+      pivot: {x: -0.7653061, y: 2.27}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Ac3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Ac3
       rect:
         serializedVersion: 2
         x: 102
@@ -312,9 +730,20 @@ TextureImporter:
         width: 153
         height: 101
       alignment: 9
-      pivot: {x: -.209150329, y: 2.25742579}
+      pivot: {x: -0.20915033, y: 2.2574258}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Ac4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Ac4
       rect:
         serializedVersion: 2
         x: 257
@@ -322,9 +751,20 @@ TextureImporter:
         width: 204
         height: 103
       alignment: 9
-      pivot: {x: -.127450988, y: 2.22330093}
+      pivot: {x: -0.12745099, y: 2.223301}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Ad0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Ad0
       rect:
         serializedVersion: 2
         x: 463
@@ -332,9 +772,20 @@ TextureImporter:
         width: 203
         height: 70
       alignment: 9
-      pivot: {x: -.133004919, y: 3.35714293}
+      pivot: {x: -0.13300492, y: 3.357143}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Ad1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Ad1
       rect:
         serializedVersion: 2
         x: 668
@@ -342,9 +793,20 @@ TextureImporter:
         width: 161
         height: 70
       alignment: 9
-      pivot: {x: -.366459638, y: 3.35714293}
+      pivot: {x: -0.36645964, y: 3.357143}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Ad2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Ad2
       rect:
         serializedVersion: 2
         x: 831
@@ -352,9 +814,20 @@ TextureImporter:
         width: 112
         height: 70
       alignment: 9
-      pivot: {x: -.723214269, y: 3.35714293}
+      pivot: {x: -0.72321427, y: 3.357143}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Ad3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Ad3
       rect:
         serializedVersion: 2
         x: 945
@@ -362,9 +835,20 @@ TextureImporter:
         width: 167
         height: 71
       alignment: 9
-      pivot: {x: -.347305387, y: 3.32394361}
+      pivot: {x: -0.3473054, y: 3.3239436}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Ad4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Ad4
       rect:
         serializedVersion: 2
         x: 1114
@@ -372,9 +856,20 @@ TextureImporter:
         width: 201
         height: 71
       alignment: 9
-      pivot: {x: -.134328365, y: 3.32394361}
+      pivot: {x: -0.13432837, y: 3.3239436}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Ae0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Ae0
       rect:
         serializedVersion: 2
         x: 1317
@@ -382,9 +877,20 @@ TextureImporter:
         width: 177
         height: 67
       alignment: 9
-      pivot: {x: -.220338985, y: 3.79104471}
+      pivot: {x: -0.22033899, y: 3.7910447}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Ae1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Ae1
       rect:
         serializedVersion: 2
         x: 1496
@@ -392,9 +898,20 @@ TextureImporter:
         width: 148
         height: 67
       alignment: 9
-      pivot: {x: -.540540516, y: 3.79104471}
+      pivot: {x: -0.5405405, y: 3.7910447}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Ae2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Ae2
       rect:
         serializedVersion: 2
         x: 1646
@@ -402,9 +919,20 @@ TextureImporter:
         width: 116
         height: 67
       alignment: 9
-      pivot: {x: -.724137902, y: 3.79104471}
+      pivot: {x: -0.7241379, y: 3.7910447}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Ae3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Ae3
       rect:
         serializedVersion: 2
         x: 1764
@@ -412,9 +940,20 @@ TextureImporter:
         width: 148
         height: 66
       alignment: 9
-      pivot: {x: -.547297299, y: 3.83333325}
+      pivot: {x: -0.5472973, y: 3.8333333}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Ae4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Ae4
       rect:
         serializedVersion: 2
         x: 2
@@ -422,9 +961,20 @@ TextureImporter:
         width: 174
         height: 66
       alignment: 9
-      pivot: {x: -.241379306, y: 3.83333325}
+      pivot: {x: -0.2413793, y: 3.8333333}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Af0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Af0
       rect:
         serializedVersion: 2
         x: 178
@@ -432,9 +982,20 @@ TextureImporter:
         width: 202
         height: 80
       alignment: 9
-      pivot: {x: -.128712878, y: 3.07500005}
+      pivot: {x: -0.12871288, y: 3.075}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Af1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Af1
       rect:
         serializedVersion: 2
         x: 382
@@ -442,9 +1003,20 @@ TextureImporter:
         width: 160
         height: 80
       alignment: 9
-      pivot: {x: -.362500012, y: 3.07500005}
+      pivot: {x: -0.3625, y: 3.075}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Af2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Af2
       rect:
         serializedVersion: 2
         x: 544
@@ -452,9 +1024,20 @@ TextureImporter:
         width: 119
         height: 80
       alignment: 9
-      pivot: {x: -.60504204, y: 3.07500005}
+      pivot: {x: -0.60504204, y: 3.075}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Af3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Af3
       rect:
         serializedVersion: 2
         x: 665
@@ -462,9 +1045,20 @@ TextureImporter:
         width: 163
         height: 80
       alignment: 9
-      pivot: {x: -.355828226, y: 3.07500005}
+      pivot: {x: -0.35582823, y: 3.075}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Af4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Af4
       rect:
         serializedVersion: 2
         x: 830
@@ -472,9 +1066,20 @@ TextureImporter:
         width: 200
         height: 80
       alignment: 9
-      pivot: {x: -.140000001, y: 3.07500005}
+      pivot: {x: -0.14, y: 3.075}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Ag0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Ag0
       rect:
         serializedVersion: 2
         x: 1032
@@ -482,9 +1087,20 @@ TextureImporter:
         width: 203
         height: 103
       alignment: 9
-      pivot: {x: -.133004919, y: 2.27184463}
+      pivot: {x: -0.13300492, y: 2.2718446}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Ag1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Ag1
       rect:
         serializedVersion: 2
         x: 1237
@@ -492,9 +1108,20 @@ TextureImporter:
         width: 164
         height: 103
       alignment: 9
-      pivot: {x: -.292682916, y: 2.27184463}
+      pivot: {x: -0.29268292, y: 2.2718446}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Ag2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Ag2
       rect:
         serializedVersion: 2
         x: 1403
@@ -502,9 +1129,20 @@ TextureImporter:
         width: 124
         height: 104
       alignment: 9
-      pivot: {x: -.475806445, y: 2.25961542}
+      pivot: {x: -0.47580644, y: 2.2596154}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Ag3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Ag3
       rect:
         serializedVersion: 2
         x: 1529
@@ -512,9 +1150,20 @@ TextureImporter:
         width: 154
         height: 104
       alignment: 9
-      pivot: {x: -.337662339, y: 2.25961542}
+      pivot: {x: -0.33766234, y: 2.2596154}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Ag4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Ag4
       rect:
         serializedVersion: 2
         x: 1685
@@ -522,9 +1171,20 @@ TextureImporter:
         width: 202
         height: 104
       alignment: 9
-      pivot: {x: -.128712878, y: 2.25961542}
+      pivot: {x: -0.12871288, y: 2.2596154}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Da0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Da0
       rect:
         serializedVersion: 2
         x: 1889
@@ -532,9 +1192,20 @@ TextureImporter:
         width: 140
         height: 138
       alignment: 9
-      pivot: {x: -.371428579, y: 1.84782612}
+      pivot: {x: -0.37142858, y: 1.8478261}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Da1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Da1
       rect:
         serializedVersion: 2
         x: 2
@@ -542,9 +1213,20 @@ TextureImporter:
         width: 103
         height: 138
       alignment: 9
-      pivot: {x: -.621359229, y: 1.84782612}
+      pivot: {x: -0.6213592, y: 1.8478261}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Da2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Da2
       rect:
         serializedVersion: 2
         x: 107
@@ -552,9 +1234,20 @@ TextureImporter:
         width: 86
         height: 138
       alignment: 9
-      pivot: {x: -.767441869, y: 1.84782612}
+      pivot: {x: -0.76744187, y: 1.8478261}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Da3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Da3
       rect:
         serializedVersion: 2
         x: 195
@@ -562,9 +1255,20 @@ TextureImporter:
         width: 125
         height: 138
       alignment: 9
-      pivot: {x: -.512000024, y: 1.84782612}
+      pivot: {x: -0.512, y: 1.8478261}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Da4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Da4
       rect:
         serializedVersion: 2
         x: 322
@@ -572,9 +1276,20 @@ TextureImporter:
         width: 141
         height: 138
       alignment: 9
-      pivot: {x: -.446808517, y: 1.84782612}
+      pivot: {x: -0.44680852, y: 1.8478261}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Db0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Db0
       rect:
         serializedVersion: 2
         x: 465
@@ -582,9 +1297,20 @@ TextureImporter:
         width: 148
         height: 66
       alignment: 9
-      pivot: {x: -.304054052, y: 3.87878799}
+      pivot: {x: -0.30405405, y: 3.878788}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Db1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Db1
       rect:
         serializedVersion: 2
         x: 615
@@ -592,9 +1318,20 @@ TextureImporter:
         width: 125
         height: 65
       alignment: 9
-      pivot: {x: -.479999989, y: 3.93846154}
+      pivot: {x: -0.48, y: 3.9384615}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Db2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Db2
       rect:
         serializedVersion: 2
         x: 742
@@ -602,9 +1339,20 @@ TextureImporter:
         width: 114
         height: 65
       alignment: 9
-      pivot: {x: -.491228074, y: 3.93846154}
+      pivot: {x: -0.49122807, y: 3.9384615}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Db3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Db3
       rect:
         serializedVersion: 2
         x: 858
@@ -612,9 +1360,20 @@ TextureImporter:
         width: 146
         height: 65
       alignment: 9
-      pivot: {x: -.33561644, y: 3.93846154}
+      pivot: {x: -0.33561644, y: 3.9384615}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Db4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Db4
       rect:
         serializedVersion: 2
         x: 1006
@@ -622,9 +1381,20 @@ TextureImporter:
         width: 148
         height: 65
       alignment: 9
-      pivot: {x: -.42567569, y: 3.93846154}
+      pivot: {x: -0.4256757, y: 3.9384615}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Na0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Na0
       rect:
         serializedVersion: 2
         x: 1156
@@ -632,9 +1402,20 @@ TextureImporter:
         width: 201
         height: 123
       alignment: 9
-      pivot: {x: -.134328365, y: 1.81300819}
+      pivot: {x: -0.13432837, y: 1.8130082}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Na1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Na1
       rect:
         serializedVersion: 2
         x: 1359
@@ -642,9 +1423,20 @@ TextureImporter:
         width: 159
         height: 122
       alignment: 9
-      pivot: {x: -.194968551, y: 1.82786882}
+      pivot: {x: -0.19496855, y: 1.8278688}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Na2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Na2
       rect:
         serializedVersion: 2
         x: 1520
@@ -652,9 +1444,20 @@ TextureImporter:
         width: 111
         height: 122
       alignment: 9
-      pivot: {x: -.360360354, y: 1.82786882}
+      pivot: {x: -0.36036035, y: 1.8278688}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Na3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Na3
       rect:
         serializedVersion: 2
         x: 1633
@@ -662,9 +1465,20 @@ TextureImporter:
         width: 167
         height: 122
       alignment: 9
-      pivot: {x: -.167664677, y: 1.82786882}
+      pivot: {x: -0.16766468, y: 1.8278688}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Na4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Na4
       rect:
         serializedVersion: 2
         x: 1802
@@ -672,9 +1486,20 @@ TextureImporter:
         width: 203
         height: 124
       alignment: 9
-      pivot: {x: -.133004919, y: 1.80645156}
+      pivot: {x: -0.13300492, y: 1.8064516}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Nb0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Nb0
       rect:
         serializedVersion: 2
         x: 2
@@ -682,9 +1507,20 @@ TextureImporter:
         width: 201
         height: 127
       alignment: 9
-      pivot: {x: -.134328365, y: 1.75590551}
+      pivot: {x: -0.13432837, y: 1.7559055}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Nb1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Nb1
       rect:
         serializedVersion: 2
         x: 205
@@ -692,9 +1528,20 @@ TextureImporter:
         width: 160
         height: 127
       alignment: 9
-      pivot: {x: -.231250003, y: 1.75590551}
+      pivot: {x: -0.23125, y: 1.7559055}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Nb2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Nb2
       rect:
         serializedVersion: 2
         x: 367
@@ -702,9 +1549,20 @@ TextureImporter:
         width: 94
         height: 127
       alignment: 9
-      pivot: {x: -.478723407, y: 1.76377952}
+      pivot: {x: -0.4787234, y: 1.7637795}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Nb3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Nb3
       rect:
         serializedVersion: 2
         x: 463
@@ -712,9 +1570,20 @@ TextureImporter:
         width: 157
         height: 128
       alignment: 9
-      pivot: {x: -.203821659, y: 1.7578125}
+      pivot: {x: -0.20382166, y: 1.7578125}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Nb4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Nb4
       rect:
         serializedVersion: 2
         x: 622
@@ -722,9 +1591,20 @@ TextureImporter:
         width: 202
         height: 129
       alignment: 9
-      pivot: {x: -.138613865, y: 1.74418604}
+      pivot: {x: -0.13861386, y: 1.744186}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Nc0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Nc0
       rect:
         serializedVersion: 2
         x: 826
@@ -732,9 +1612,20 @@ TextureImporter:
         width: 168
         height: 129
       alignment: 9
-      pivot: {x: -.273809522, y: 1.68217051}
+      pivot: {x: -0.27380952, y: 1.6821705}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Nc1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Nc1
       rect:
         serializedVersion: 2
         x: 996
@@ -742,9 +1633,20 @@ TextureImporter:
         width: 152
         height: 129
       alignment: 9
-      pivot: {x: -.25, y: 1.68992245}
+      pivot: {x: -0.25, y: 1.6899225}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Nc2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Nc2
       rect:
         serializedVersion: 2
         x: 1150
@@ -752,9 +1654,20 @@ TextureImporter:
         width: 92
         height: 129
       alignment: 9
-      pivot: {x: -.532608688, y: 1.68992245}
+      pivot: {x: -0.5326087, y: 1.6899225}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Nc3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Nc3
       rect:
         serializedVersion: 2
         x: 1244
@@ -762,9 +1675,20 @@ TextureImporter:
         width: 114
         height: 130
       alignment: 9
-      pivot: {x: -.377192974, y: 1.68461537}
+      pivot: {x: -0.37719297, y: 1.6846154}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Nc4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Nc4
       rect:
         serializedVersion: 2
         x: 1360
@@ -772,9 +1696,20 @@ TextureImporter:
         width: 170
         height: 130
       alignment: 9
-      pivot: {x: -.247058824, y: 1.67692304}
+      pivot: {x: -0.24705882, y: 1.676923}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Nd0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Nd0
       rect:
         serializedVersion: 2
         x: 1532
@@ -782,9 +1717,20 @@ TextureImporter:
         width: 138
         height: 124
       alignment: 9
-      pivot: {x: -.420289844, y: 1.89516127}
+      pivot: {x: -0.42028984, y: 1.8951613}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Nd1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Nd1
       rect:
         serializedVersion: 2
         x: 1672
@@ -792,9 +1738,20 @@ TextureImporter:
         width: 133
         height: 125
       alignment: 9
-      pivot: {x: -.353383452, y: 1.88800001}
+      pivot: {x: -0.35338345, y: 1.888}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Nd2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Nd2
       rect:
         serializedVersion: 2
         x: 1807
@@ -802,9 +1759,20 @@ TextureImporter:
         width: 118
         height: 125
       alignment: 9
-      pivot: {x: -.398305088, y: 1.88800001}
+      pivot: {x: -0.3983051, y: 1.888}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Nd3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Nd3
       rect:
         serializedVersion: 2
         x: 1927
@@ -812,9 +1780,20 @@ TextureImporter:
         width: 111
         height: 126
       alignment: 9
-      pivot: {x: -.432432443, y: 1.88095236}
+      pivot: {x: -0.43243244, y: 1.8809524}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Nd4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Nd4
       rect:
         serializedVersion: 2
         x: 2
@@ -822,9 +1801,20 @@ TextureImporter:
         width: 140
         height: 126
       alignment: 9
-      pivot: {x: -.421428561, y: 1.88095236}
+      pivot: {x: -0.42142856, y: 1.8809524}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Ne0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Ne0
       rect:
         serializedVersion: 2
         x: 144
@@ -832,9 +1822,20 @@ TextureImporter:
         width: 155
         height: 116
       alignment: 9
-      pivot: {x: -.316129029, y: 2.18965507}
+      pivot: {x: -0.31612903, y: 2.189655}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Ne1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a305410000000000800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Ne1
       rect:
         serializedVersion: 2
         x: 301
@@ -842,9 +1843,20 @@ TextureImporter:
         width: 160
         height: 116
       alignment: 9
-      pivot: {x: -.300000012, y: 2.18965507}
+      pivot: {x: -0.3, y: 2.189655}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Ne2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Ne2
       rect:
         serializedVersion: 2
         x: 463
@@ -852,9 +1864,20 @@ TextureImporter:
         width: 133
         height: 117
       alignment: 9
-      pivot: {x: -.383458644, y: 2.17948723}
+      pivot: {x: -0.38345864, y: 2.1794872}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Ne3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Ne3
       rect:
         serializedVersion: 2
         x: 598
@@ -862,9 +1885,20 @@ TextureImporter:
         width: 115
         height: 117
       alignment: 9
-      pivot: {x: -.4173913, y: 2.17948723}
+      pivot: {x: -0.4173913, y: 2.1794872}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Ne4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a305410000000000800000000000000
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Ne4
       rect:
         serializedVersion: 2
         x: 715
@@ -872,9 +1906,20 @@ TextureImporter:
         width: 155
         height: 117
       alignment: 9
-      pivot: {x: -.341935486, y: 2.17948723}
+      pivot: {x: -0.3419355, y: 2.1794872}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Nf0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Nf0
       rect:
         serializedVersion: 2
         x: 872
@@ -882,9 +1927,20 @@ TextureImporter:
         width: 190
         height: 75
       alignment: 9
-      pivot: {x: -.163157895, y: 3.20000005}
+      pivot: {x: -0.1631579, y: 3.2}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Nf1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Nf1
       rect:
         serializedVersion: 2
         x: 1064
@@ -892,9 +1948,20 @@ TextureImporter:
         width: 183
         height: 76
       alignment: 9
-      pivot: {x: -.158469945, y: 3.17105269}
+      pivot: {x: -0.15846995, y: 3.1710527}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Nf2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea305410000000000800000000000000
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Nf2
       rect:
         serializedVersion: 2
         x: 1249
@@ -902,9 +1969,20 @@ TextureImporter:
         width: 103
         height: 77
       alignment: 9
-      pivot: {x: -.611650467, y: 3.14285707}
+      pivot: {x: -0.61165047, y: 3.142857}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Nf3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b305410000000000800000000000000
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Nf3
       rect:
         serializedVersion: 2
         x: 1354
@@ -912,9 +1990,20 @@ TextureImporter:
         width: 127
         height: 77
       alignment: 9
-      pivot: {x: -.448818892, y: 3.14285707}
+      pivot: {x: -0.4488189, y: 3.142857}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Nf4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b305410000000000800000000000000
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Nf4
       rect:
         serializedVersion: 2
         x: 1483
@@ -922,9 +2011,20 @@ TextureImporter:
         width: 192
         height: 77
       alignment: 9
-      pivot: {x: -.182291672, y: 3.14285707}
+      pivot: {x: -0.18229167, y: 3.142857}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Ng0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b305410000000000800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Ng0
       rect:
         serializedVersion: 2
         x: 1677
@@ -932,9 +2032,20 @@ TextureImporter:
         width: 200
         height: 108
       alignment: 9
-      pivot: {x: -.140000001, y: 2.20370364}
+      pivot: {x: -0.14, y: 2.2037036}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Ng1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b305410000000000800000000000000
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Ng1
       rect:
         serializedVersion: 2
         x: 2
@@ -942,9 +2053,20 @@ TextureImporter:
         width: 180
         height: 108
       alignment: 9
-      pivot: {x: -.25, y: 2.20370364}
+      pivot: {x: -0.25, y: 2.2037036}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Ng2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b305410000000000800000000000000
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Ng2
       rect:
         serializedVersion: 2
         x: 184
@@ -952,9 +2074,20 @@ TextureImporter:
         width: 126
         height: 108
       alignment: 9
-      pivot: {x: -.420634925, y: 2.20370364}
+      pivot: {x: -0.42063493, y: 2.2037036}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Ng3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab305410000000000800000000000000
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Ng3
       rect:
         serializedVersion: 2
         x: 312
@@ -962,9 +2095,20 @@ TextureImporter:
         width: 150
         height: 108
       alignment: 9
-      pivot: {x: -.373333335, y: 2.20370364}
+      pivot: {x: -0.37333333, y: 2.2037036}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Ng4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb305410000000000800000000000000
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Ng4
       rect:
         serializedVersion: 2
         x: 464
@@ -972,9 +2116,20 @@ TextureImporter:
         width: 199
         height: 108
       alignment: 9
-      pivot: {x: -.145728648, y: 2.20370364}
+      pivot: {x: -0.14572865, y: 2.2037036}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Sa0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb305410000000000800000000000000
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Sa0
       rect:
         serializedVersion: 2
         x: 665
@@ -982,9 +2137,20 @@ TextureImporter:
         width: 163
         height: 115
       alignment: 9
-      pivot: {x: -.288343549, y: 1.86956525}
+      pivot: {x: -0.28834355, y: 1.8695652}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Sa1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c305410000000000800000000000000
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Sa1
       rect:
         serializedVersion: 2
         x: 830
@@ -992,9 +2158,20 @@ TextureImporter:
         width: 150
         height: 117
       alignment: 9
-      pivot: {x: -.340000004, y: 1.83760679}
+      pivot: {x: -0.34, y: 1.8376068}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Sa2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c305410000000000800000000000000
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Sa2
       rect:
         serializedVersion: 2
         x: 982
@@ -1002,9 +2179,20 @@ TextureImporter:
         width: 128
         height: 117
       alignment: 9
-      pivot: {x: -.34375, y: 1.83760679}
+      pivot: {x: -0.34375, y: 1.8376068}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Sa3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c305410000000000800000000000000
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Sa3
       rect:
         serializedVersion: 2
         x: 1112
@@ -1012,9 +2200,20 @@ TextureImporter:
         width: 150
         height: 117
       alignment: 9
-      pivot: {x: -.340000004, y: 1.83760679}
+      pivot: {x: -0.34, y: 1.8376068}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Sa4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c305410000000000800000000000000
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Sa4
       rect:
         serializedVersion: 2
         x: 1264
@@ -1022,9 +2221,20 @@ TextureImporter:
         width: 163
         height: 115
       alignment: 9
-      pivot: {x: -.282208592, y: 1.86956525}
+      pivot: {x: -0.2822086, y: 1.8695652}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Wa0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c305410000000000800000000000000
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Wa0
       rect:
         serializedVersion: 2
         x: 1429
@@ -1032,9 +2242,20 @@ TextureImporter:
         width: 197
         height: 87
       alignment: 9
-      pivot: {x: -.147208124, y: 2.40229893}
+      pivot: {x: -0.14720812, y: 2.402299}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Wa1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac305410000000000800000000000000
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Wa1
       rect:
         serializedVersion: 2
         x: 1628
@@ -1042,9 +2263,20 @@ TextureImporter:
         width: 170
         height: 88
       alignment: 9
-      pivot: {x: -.276470602, y: 2.375}
+      pivot: {x: -0.2764706, y: 2.375}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Wa2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc305410000000000800000000000000
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Wa2
       rect:
         serializedVersion: 2
         x: 1800
@@ -1052,9 +2284,20 @@ TextureImporter:
         width: 128
         height: 88
       alignment: 9
-      pivot: {x: -.34375, y: 2.375}
+      pivot: {x: -0.34375, y: 2.375}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Wa3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec305410000000000800000000000000
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Wa3
       rect:
         serializedVersion: 2
         x: 2
@@ -1062,9 +2305,20 @@ TextureImporter:
         width: 171
         height: 88
       alignment: 9
-      pivot: {x: -.280701756, y: 2.38636374}
+      pivot: {x: -0.28070176, y: 2.3863637}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Wa4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d305410000000000800000000000000
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Wa4
       rect:
         serializedVersion: 2
         x: 175
@@ -1072,9 +2326,20 @@ TextureImporter:
         width: 195
         height: 88
       alignment: 9
-      pivot: {x: -.158974364, y: 2.38636374}
+      pivot: {x: -0.15897436, y: 2.3863637}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Wb0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d305410000000000800000000000000
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Wb0
       rect:
         serializedVersion: 2
         x: 372
@@ -1082,9 +2347,20 @@ TextureImporter:
         width: 201
         height: 50
       alignment: 9
-      pivot: {x: -.139303476, y: 4.34000015}
+      pivot: {x: -0.13930348, y: 4.34}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Wb1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d305410000000000800000000000000
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Wb1
       rect:
         serializedVersion: 2
         x: 575
@@ -1092,9 +2368,20 @@ TextureImporter:
         width: 172
         height: 51
       alignment: 9
-      pivot: {x: -.319767445, y: 4.27450991}
+      pivot: {x: -0.31976745, y: 4.27451}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Wb2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d305410000000000800000000000000
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Wb2
       rect:
         serializedVersion: 2
         x: 749
@@ -1102,9 +2389,20 @@ TextureImporter:
         width: 134
         height: 51
       alignment: 9
-      pivot: {x: -.335820884, y: 4.27450991}
+      pivot: {x: -0.33582088, y: 4.27451}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Wb3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d305410000000000800000000000000
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Wb3
       rect:
         serializedVersion: 2
         x: 885
@@ -1112,9 +2410,20 @@ TextureImporter:
         width: 172
         height: 50
       alignment: 9
-      pivot: {x: -.319767445, y: 4.34000015}
+      pivot: {x: -0.31976745, y: 4.34}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Wb4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad305410000000000800000000000000
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Wb4
       rect:
         serializedVersion: 2
         x: 1059
@@ -1122,9 +2431,20 @@ TextureImporter:
         width: 199
         height: 49
       alignment: 9
-      pivot: {x: -.140703514, y: 4.40816307}
+      pivot: {x: -0.14070351, y: 4.408163}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Wc0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd305410000000000800000000000000
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Wc0
       rect:
         serializedVersion: 2
         x: 1260
@@ -1132,9 +2452,20 @@ TextureImporter:
         width: 131
         height: 82
       alignment: 9
-      pivot: {x: -.480916023, y: 3}
+      pivot: {x: -0.48091602, y: 3}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Wc1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed305410000000000800000000000000
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Wc1
       rect:
         serializedVersion: 2
         x: 1393
@@ -1142,9 +2473,20 @@ TextureImporter:
         width: 147
         height: 83
       alignment: 9
-      pivot: {x: -.37414965, y: 2.97590351}
+      pivot: {x: -0.37414965, y: 2.9759035}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Wc2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e305410000000000800000000000000
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Wc2
       rect:
         serializedVersion: 2
         x: 1542
@@ -1152,9 +2494,20 @@ TextureImporter:
         width: 132
         height: 82
       alignment: 9
-      pivot: {x: -.340909094, y: 3}
+      pivot: {x: -0.3409091, y: 3}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Wc3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e305410000000000800000000000000
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Wc3
       rect:
         serializedVersion: 2
         x: 1676
@@ -1162,9 +2515,20 @@ TextureImporter:
         width: 146
         height: 82
       alignment: 9
-      pivot: {x: -.376712322, y: 3}
+      pivot: {x: -0.37671232, y: 3}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Wc4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e305410000000000800000000000000
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Wc4
       rect:
         serializedVersion: 2
         x: 1824
@@ -1172,9 +2536,20 @@ TextureImporter:
         width: 131
         height: 82
       alignment: 9
-      pivot: {x: -.473282456, y: 3}
+      pivot: {x: -0.47328246, y: 3}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Wd0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e305410000000000800000000000000
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Wd0
       rect:
         serializedVersion: 2
         x: 2
@@ -1182,9 +2557,20 @@ TextureImporter:
         width: 162
         height: 73
       alignment: 9
-      pivot: {x: -.302469134, y: 3.26027393}
+      pivot: {x: -0.30246913, y: 3.260274}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Wd1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e305410000000000800000000000000
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Wd1
       rect:
         serializedVersion: 2
         x: 166
@@ -1192,9 +2578,20 @@ TextureImporter:
         width: 147
         height: 73
       alignment: 9
-      pivot: {x: -.380952388, y: 3.26027393}
+      pivot: {x: -0.3809524, y: 3.260274}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Wd2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae305410000000000800000000000000
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Wd2
       rect:
         serializedVersion: 2
         x: 315
@@ -1202,9 +2599,20 @@ TextureImporter:
         width: 126
         height: 73
       alignment: 9
-      pivot: {x: -.357142866, y: 3.26027393}
+      pivot: {x: -0.35714287, y: 3.260274}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Wd3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce305410000000000800000000000000
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Wd3
       rect:
         serializedVersion: 2
         x: 443
@@ -1212,9 +2620,20 @@ TextureImporter:
         width: 146
         height: 73
       alignment: 9
-      pivot: {x: -.376712322, y: 3.26027393}
+      pivot: {x: -0.37671232, y: 3.260274}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Wd4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee305410000000000800000000000000
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Wd4
       rect:
         serializedVersion: 2
         x: 591
@@ -1222,9 +2641,20 @@ TextureImporter:
         width: 162
         height: 72
       alignment: 9
-      pivot: {x: -.277777791, y: 3.29166675}
+      pivot: {x: -0.2777778, y: 3.2916667}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390We0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f305410000000000800000000000000
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390We0
       rect:
         serializedVersion: 2
         x: 755
@@ -1232,9 +2662,20 @@ TextureImporter:
         width: 204
         height: 50
       alignment: 9
-      pivot: {x: -.127450988, y: 4.03999996}
+      pivot: {x: -0.12745099, y: 4.04}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390We1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f305410000000000800000000000000
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390We1
       rect:
         serializedVersion: 2
         x: 961
@@ -1242,9 +2683,20 @@ TextureImporter:
         width: 168
         height: 50
       alignment: 9
-      pivot: {x: -.238095239, y: 4.03999996}
+      pivot: {x: -0.23809524, y: 4.04}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390We2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f305410000000000800000000000000
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390We2
       rect:
         serializedVersion: 2
         x: 1131
@@ -1252,9 +2704,20 @@ TextureImporter:
         width: 127
         height: 51
       alignment: 9
-      pivot: {x: -.346456707, y: 3.98039222}
+      pivot: {x: -0.3464567, y: 3.9803922}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390We3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f305410000000000800000000000000
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390We3
       rect:
         serializedVersion: 2
         x: 1260
@@ -1262,9 +2725,20 @@ TextureImporter:
         width: 165
         height: 51
       alignment: 9
-      pivot: {x: -.25454545, y: 3.98039222}
+      pivot: {x: -0.25454545, y: 3.9803922}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390We4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f305410000000000800000000000000
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390We4
       rect:
         serializedVersion: 2
         x: 1427
@@ -1272,9 +2746,20 @@ TextureImporter:
         width: 204
         height: 51
       alignment: 9
-      pivot: {x: -.127450988, y: 3.98039222}
+      pivot: {x: -0.12745099, y: 3.9803922}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Wf0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af305410000000000800000000000000
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Wf0
       rect:
         serializedVersion: 2
         x: 1633
@@ -1282,9 +2767,20 @@ TextureImporter:
         width: 201
         height: 90
       alignment: 9
-      pivot: {x: -.139303476, y: 2.29999995}
+      pivot: {x: -0.13930348, y: 2.3}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Wf1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf305410000000000800000000000000
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Wf1
       rect:
         serializedVersion: 2
         x: 1836
@@ -1292,9 +2788,20 @@ TextureImporter:
         width: 156
         height: 91
       alignment: 9
-      pivot: {x: -.307692319, y: 2.2747252}
+      pivot: {x: -0.30769232, y: 2.2747252}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Wf2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef305410000000000800000000000000
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Wf2
       rect:
         serializedVersion: 2
         x: 2
@@ -1302,9 +2809,20 @@ TextureImporter:
         width: 128
         height: 92
       alignment: 9
-      pivot: {x: -.34375, y: 2.2608695}
+      pivot: {x: -0.34375, y: 2.2608695}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Wf3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00405410000000000800000000000000
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Wf3
       rect:
         serializedVersion: 2
         x: 132
@@ -1312,9 +2830,20 @@ TextureImporter:
         width: 162
         height: 92
       alignment: 9
-      pivot: {x: -.277777791, y: 2.2608695}
+      pivot: {x: -0.2777778, y: 2.2608695}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Wf4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20405410000000000800000000000000
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Wf4
       rect:
         serializedVersion: 2
         x: 296
@@ -1322,9 +2851,20 @@ TextureImporter:
         width: 201
         height: 91
       alignment: 9
-      pivot: {x: -.134328365, y: 2.28571439}
+      pivot: {x: -0.13432837, y: 2.2857144}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Wg0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40405410000000000800000000000000
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Wg0
       rect:
         serializedVersion: 2
         x: 499
@@ -1332,9 +2872,20 @@ TextureImporter:
         width: 138
         height: 126
       alignment: 9
-      pivot: {x: -.427536219, y: 1.67460322}
+      pivot: {x: -0.42753622, y: 1.6746032}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Wg1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60405410000000000800000000000000
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Wg1
       rect:
         serializedVersion: 2
         x: 639
@@ -1342,9 +2893,20 @@ TextureImporter:
         width: 138
         height: 127
       alignment: 9
-      pivot: {x: -.398550719, y: 1.66929138}
+      pivot: {x: -0.39855072, y: 1.6692914}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Wg2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80405410000000000800000000000000
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Wg2
       rect:
         serializedVersion: 2
         x: 779
@@ -1352,9 +2914,20 @@ TextureImporter:
         width: 128
         height: 127
       alignment: 9
-      pivot: {x: -.34375, y: 1.66929138}
+      pivot: {x: -0.34375, y: 1.6692914}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Wg3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0405410000000000800000000000000
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Wg3
       rect:
         serializedVersion: 2
         x: 909
@@ -1362,9 +2935,20 @@ TextureImporter:
         width: 139
         height: 128
       alignment: 9
-      pivot: {x: -.388489217, y: 1.6640625}
+      pivot: {x: -0.38848922, y: 1.6640625}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Wg4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0405410000000000800000000000000
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Wg4
       rect:
         serializedVersion: 2
         x: 1050
@@ -1372,9 +2956,20 @@ TextureImporter:
         width: 138
         height: 128
       alignment: 9
-      pivot: {x: -.427536219, y: 1.6640625}
+      pivot: {x: -0.42753622, y: 1.6640625}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Xa0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0405410000000000800000000000000
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Xa0
       rect:
         serializedVersion: 2
         x: 1190
@@ -1382,9 +2977,20 @@ TextureImporter:
         width: 147
         height: 58
       alignment: 9
-      pivot: {x: -.319727898, y: 4.41379309}
+      pivot: {x: -0.3197279, y: 4.413793}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Xa1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01405410000000000800000000000000
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Xa1
       rect:
         serializedVersion: 2
         x: 1339
@@ -1392,9 +2998,20 @@ TextureImporter:
         width: 124
         height: 58
       alignment: 9
-      pivot: {x: -.491935492, y: 4.41379309}
+      pivot: {x: -0.4919355, y: 4.413793}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Xa2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21405410000000000800000000000000
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Xa2
       rect:
         serializedVersion: 2
         x: 1465
@@ -1402,9 +3019,20 @@ TextureImporter:
         width: 110
         height: 58
       alignment: 9
-      pivot: {x: -.545454562, y: 4.41379309}
+      pivot: {x: -0.54545456, y: 4.413793}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Xa3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41405410000000000800000000000000
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Xa3
       rect:
         serializedVersion: 2
         x: 1577
@@ -1412,9 +3040,20 @@ TextureImporter:
         width: 144
         height: 58
       alignment: 9
-      pivot: {x: -.340277791, y: 4.41379309}
+      pivot: {x: -0.3402778, y: 4.413793}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M390Xa4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61405410000000000800000000000000
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M390Xa4
       rect:
         serializedVersion: 2
         x: 1723
@@ -1422,9 +3061,31 @@ TextureImporter:
         width: 147
         height: 58
       alignment: 9
-      pivot: {x: -.421768695, y: 4.41379309}
+      pivot: {x: -0.4217687, y: 4.413793}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81405410000000000800000000000000
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

@@ -1,88 +1,179 @@
 fileFormatVersion: 2
 guid: 8d8578b29329b5a4db27b842b480461f
-timeCreated: 1442629372
-licenseType: Pro
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: m479Ab0
-    21300002: m479Ac0
-    21300004: m479Ad0
-    21300006: m479Ae0
-    21300008: m479Af0
-    21300010: m479Ag0
-    21300012: m479Ah0
-    21300014: m479Ai0
-    21300016: m479Aj0
-    21300018: m479Ak0
-    21300020: m479Al0
-    21300022: m479Am0
-    21300024: m479An0
-    21300026: m479Ao0
-    21300028: m479Ap0
-    21300030: m479Aq0
-    21300032: m479Ar0
-    21300034: m479As0
-    21300036: m479Da0
-    21300038: m479Db0
-    21300040: m479Dc0
-    21300042: m479Dd0
-    21300044: m479De0
-    21300046: m479Df0
-    21300048: m479Na0
-    21300050: m479Nb0
-    21300052: m479Nc0
-    21300054: m479Nd0
-    21300056: m479Ne0
-    21300058: m479Nf0
-    21300060: m479Ng0
-    21300062: m479Sa0
-    21300064: m479Xa0
-  serializedVersion: 2
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: m479Ab0
+  - first:
+      213: 21300002
+    second: m479Ac0
+  - first:
+      213: 21300004
+    second: m479Ad0
+  - first:
+      213: 21300006
+    second: m479Ae0
+  - first:
+      213: 21300008
+    second: m479Af0
+  - first:
+      213: 21300010
+    second: m479Ag0
+  - first:
+      213: 21300012
+    second: m479Ah0
+  - first:
+      213: 21300014
+    second: m479Ai0
+  - first:
+      213: 21300016
+    second: m479Aj0
+  - first:
+      213: 21300018
+    second: m479Ak0
+  - first:
+      213: 21300020
+    second: m479Al0
+  - first:
+      213: 21300022
+    second: m479Am0
+  - first:
+      213: 21300024
+    second: m479An0
+  - first:
+      213: 21300026
+    second: m479Ao0
+  - first:
+      213: 21300028
+    second: m479Ap0
+  - first:
+      213: 21300030
+    second: m479Aq0
+  - first:
+      213: 21300032
+    second: m479Ar0
+  - first:
+      213: 21300034
+    second: m479As0
+  - first:
+      213: 21300036
+    second: m479Da0
+  - first:
+      213: 21300038
+    second: m479Db0
+  - first:
+      213: 21300040
+    second: m479Dc0
+  - first:
+      213: 21300042
+    second: m479Dd0
+  - first:
+      213: 21300044
+    second: m479De0
+  - first:
+      213: 21300046
+    second: m479Df0
+  - first:
+      213: 21300048
+    second: m479Na0
+  - first:
+      213: 21300050
+    second: m479Nb0
+  - first:
+      213: 21300052
+    second: m479Nc0
+  - first:
+      213: 21300054
+    second: m479Nd0
+  - first:
+      213: 21300056
+    second: m479Ne0
+  - first:
+      213: 21300058
+    second: m479Nf0
+  - first:
+      213: 21300060
+    second: m479Ng0
+  - first:
+      213: 21300062
+    second: m479Sa0
+  - first:
+      213: 21300064
+    second: m479Xa0
+  externalObjects: {}
+  serializedVersion: 10
   mipmaps:
     mipMapMode: 0
     enableMipMap: 1
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
     convertToNormalMap: 0
     externalNormalMap: 0
-    heightScale: .25
+    heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
   cubemapConvolution: 0
-  cubemapConvolutionSteps: 8
-  cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -1
   maxTextureSize: 4096
   textureSettings:
+    serializedVersion: 2
     filterMode: -1
     aniso: -1
-    mipBias: -1
-    wrapMode: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
-  rGBM: 0
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
-  spritePivot: {x: .5, y: .5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings: []
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: m479Ab0
+    - serializedVersion: 2
+      name: m479Ab0
       rect:
         serializedVersion: 2
         x: 2
@@ -90,9 +181,20 @@ TextureImporter:
         width: 181
         height: 231
       alignment: 9
-      pivot: {x: -.287292808, y: 1.10822511}
+      pivot: {x: -0.2872928, y: 1.1082251}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m479Ac0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m479Ac0
       rect:
         serializedVersion: 2
         x: 185
@@ -100,9 +202,20 @@ TextureImporter:
         width: 181
         height: 231
       alignment: 9
-      pivot: {x: -.287292808, y: 1.10822511}
+      pivot: {x: -0.2872928, y: 1.1082251}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m479Ad0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m479Ad0
       rect:
         serializedVersion: 2
         x: 368
@@ -110,9 +223,20 @@ TextureImporter:
         width: 181
         height: 231
       alignment: 9
-      pivot: {x: -.287292808, y: 1.10822511}
+      pivot: {x: -0.2872928, y: 1.1082251}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m479Ae0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m479Ae0
       rect:
         serializedVersion: 2
         x: 551
@@ -120,9 +244,20 @@ TextureImporter:
         width: 181
         height: 231
       alignment: 9
-      pivot: {x: -.287292808, y: 1.10822511}
+      pivot: {x: -0.2872928, y: 1.1082251}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m479Af0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m479Af0
       rect:
         serializedVersion: 2
         x: 734
@@ -130,9 +265,20 @@ TextureImporter:
         width: 181
         height: 231
       alignment: 9
-      pivot: {x: -.287292808, y: 1.10822511}
+      pivot: {x: -0.2872928, y: 1.1082251}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m479Ag0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m479Ag0
       rect:
         serializedVersion: 2
         x: 2
@@ -140,9 +286,20 @@ TextureImporter:
         width: 165
         height: 228
       alignment: 9
-      pivot: {x: -.333333343, y: 1.12280703}
+      pivot: {x: -0.33333334, y: 1.122807}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m479Ah0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m479Ah0
       rect:
         serializedVersion: 2
         x: 169
@@ -150,9 +307,20 @@ TextureImporter:
         width: 153
         height: 226
       alignment: 9
-      pivot: {x: -.359477133, y: 1.13274336}
+      pivot: {x: -0.35947713, y: 1.1327434}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m479Ai0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m479Ai0
       rect:
         serializedVersion: 2
         x: 324
@@ -160,9 +328,20 @@ TextureImporter:
         width: 148
         height: 221
       alignment: 9
-      pivot: {x: -.371621609, y: 1.15837109}
+      pivot: {x: -0.3716216, y: 1.1583711}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m479Aj0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m479Aj0
       rect:
         serializedVersion: 2
         x: 474
@@ -170,9 +349,20 @@ TextureImporter:
         width: 164
         height: 213
       alignment: 9
-      pivot: {x: -.335365862, y: 1.20187795}
+      pivot: {x: -0.33536586, y: 1.201878}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m479Ak0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m479Ak0
       rect:
         serializedVersion: 2
         x: 640
@@ -180,9 +370,20 @@ TextureImporter:
         width: 181
         height: 223
       alignment: 9
-      pivot: {x: -.3038674, y: 1.14798212}
+      pivot: {x: -0.3038674, y: 1.1479821}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m479Al0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m479Al0
       rect:
         serializedVersion: 2
         x: 823
@@ -190,9 +391,20 @@ TextureImporter:
         width: 179
         height: 225
       alignment: 9
-      pivot: {x: -.30726257, y: 1.13777781}
+      pivot: {x: -0.30726257, y: 1.1377778}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m479Am0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m479Am0
       rect:
         serializedVersion: 2
         x: 2
@@ -200,9 +412,20 @@ TextureImporter:
         width: 182
         height: 225
       alignment: 9
-      pivot: {x: -.302197814, y: 1.13777781}
+      pivot: {x: -0.3021978, y: 1.1377778}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m479An0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m479An0
       rect:
         serializedVersion: 2
         x: 186
@@ -210,9 +433,20 @@ TextureImporter:
         width: 184
         height: 224
       alignment: 9
-      pivot: {x: -.298913032, y: 1.14285719}
+      pivot: {x: -0.29891303, y: 1.1428572}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m479Ao0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m479Ao0
       rect:
         serializedVersion: 2
         x: 372
@@ -220,9 +454,20 @@ TextureImporter:
         width: 184
         height: 222
       alignment: 9
-      pivot: {x: -.298913032, y: 1.15315318}
+      pivot: {x: -0.29891303, y: 1.1531532}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m479Ap0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m479Ap0
       rect:
         serializedVersion: 2
         x: 558
@@ -230,9 +475,20 @@ TextureImporter:
         width: 181
         height: 225
       alignment: 9
-      pivot: {x: -.3038674, y: 1.13777781}
+      pivot: {x: -0.3038674, y: 1.1377778}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m479Aq0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m479Aq0
       rect:
         serializedVersion: 2
         x: 741
@@ -240,9 +496,20 @@ TextureImporter:
         width: 178
         height: 231
       alignment: 9
-      pivot: {x: -.30898875, y: 1.10822511}
+      pivot: {x: -0.30898875, y: 1.1082251}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m479Ar0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m479Ar0
       rect:
         serializedVersion: 2
         x: 2
@@ -250,9 +517,20 @@ TextureImporter:
         width: 179
         height: 231
       alignment: 9
-      pivot: {x: -.296089381, y: 1.10822511}
+      pivot: {x: -0.29608938, y: 1.1082251}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m479As0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m479As0
       rect:
         serializedVersion: 2
         x: 183
@@ -260,9 +538,20 @@ TextureImporter:
         width: 180
         height: 231
       alignment: 9
-      pivot: {x: -.288888901, y: 1.10822511}
+      pivot: {x: -0.2888889, y: 1.1082251}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m479Da0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m479Da0
       rect:
         serializedVersion: 2
         x: 365
@@ -270,9 +559,20 @@ TextureImporter:
         width: 180
         height: 231
       alignment: 9
-      pivot: {x: -.288888901, y: 1.10822511}
+      pivot: {x: -0.2888889, y: 1.1082251}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m479Db0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m479Db0
       rect:
         serializedVersion: 2
         x: 547
@@ -280,9 +580,20 @@ TextureImporter:
         width: 184
         height: 204
       alignment: 9
-      pivot: {x: -.25, y: 1.25490201}
+      pivot: {x: -0.25, y: 1.254902}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m479Dc0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m479Dc0
       rect:
         serializedVersion: 2
         x: 733
@@ -290,9 +601,20 @@ TextureImporter:
         width: 181
         height: 176
       alignment: 9
-      pivot: {x: -.259668499, y: 1.4545455}
+      pivot: {x: -0.2596685, y: 1.4545455}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m479Dd0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m479Dd0
       rect:
         serializedVersion: 2
         x: 2
@@ -300,9 +622,20 @@ TextureImporter:
         width: 238
         height: 234
       alignment: 9
-      pivot: {x: -.0630252138, y: 1.09401715}
+      pivot: {x: -0.063025214, y: 1.0940171}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m479De0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m479De0
       rect:
         serializedVersion: 2
         x: 242
@@ -310,9 +643,20 @@ TextureImporter:
         width: 253
         height: 230
       alignment: 9
-      pivot: {x: -.0118577071, y: 1.11304343}
+      pivot: {x: -0.011857707, y: 1.1130434}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m479Df0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m479Df0
       rect:
         serializedVersion: 2
         x: 497
@@ -320,9 +664,20 @@ TextureImporter:
         width: 256
         height: 152
       alignment: 9
-      pivot: {x: 0, y: 1.68421054}
+      pivot: {x: 0, y: 1.6842105}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m479Na0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m479Na0
       rect:
         serializedVersion: 2
         x: 755
@@ -330,9 +685,20 @@ TextureImporter:
         width: 156
         height: 199
       alignment: 9
-      pivot: {x: -.339743584, y: 1.28643215}
+      pivot: {x: -0.33974358, y: 1.2864321}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m479Nb0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m479Nb0
       rect:
         serializedVersion: 2
         x: 2
@@ -340,9 +706,20 @@ TextureImporter:
         width: 149
         height: 190
       alignment: 9
-      pivot: {x: -.328859061, y: 1.34736848}
+      pivot: {x: -0.32885906, y: 1.3473685}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m479Nc0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m479Nc0
       rect:
         serializedVersion: 2
         x: 153
@@ -350,9 +727,20 @@ TextureImporter:
         width: 147
         height: 191
       alignment: 9
-      pivot: {x: -.346938789, y: 1.34031415}
+      pivot: {x: -0.3469388, y: 1.3403141}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m479Nd0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m479Nd0
       rect:
         serializedVersion: 2
         x: 302
@@ -360,9 +748,20 @@ TextureImporter:
         width: 154
         height: 195
       alignment: 9
-      pivot: {x: -.344155848, y: 1.31282055}
+      pivot: {x: -0.34415585, y: 1.3128206}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m479Ne0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m479Ne0
       rect:
         serializedVersion: 2
         x: 458
@@ -370,9 +769,20 @@ TextureImporter:
         width: 173
         height: 214
       alignment: 9
-      pivot: {x: -.317919075, y: 1.19626164}
+      pivot: {x: -0.31791908, y: 1.1962616}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m479Nf0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m479Nf0
       rect:
         serializedVersion: 2
         x: 633
@@ -380,9 +790,20 @@ TextureImporter:
         width: 195
         height: 225
       alignment: 9
-      pivot: {x: -.282051295, y: 1.13777781}
+      pivot: {x: -0.2820513, y: 1.1377778}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m479Ng0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m479Ng0
       rect:
         serializedVersion: 2
         x: 830
@@ -390,9 +811,20 @@ TextureImporter:
         width: 191
         height: 223
       alignment: 9
-      pivot: {x: -.287958115, y: 1.14798212}
+      pivot: {x: -0.28795812, y: 1.1479821}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m479Sa0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m479Sa0
       rect:
         serializedVersion: 2
         x: 2
@@ -400,9 +832,20 @@ TextureImporter:
         width: 181
         height: 231
       alignment: 9
-      pivot: {x: -.287292808, y: 1.10822511}
+      pivot: {x: -0.2872928, y: 1.1082251}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: m479Xa0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m479Xa0
       rect:
         serializedVersion: 2
         x: 185
@@ -410,9 +853,31 @@ TextureImporter:
         width: 143
         height: 93
       alignment: 9
-      pivot: {x: -.384615391, y: 2.75268817}
+      pivot: {x: -0.3846154, y: 2.7526882}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

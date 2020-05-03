@@ -1,143 +1,344 @@
 fileFormatVersion: 2
 guid: 45bb467c06f94fe458b3b47f52d02ac3
-timeCreated: 1442628832
-licenseType: Pro
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: M372Da0
-    21300002: M372Db0
-    21300004: M372Dc0
-    21300006: M372Dd0
-    21300008: M372Fa0
-    21300010: M372Fb0
-    21300012: M372Fc0
-    21300014: M372Na0
-    21300016: M372Na1
-    21300018: M372Na2
-    21300020: M372Na3
-    21300022: M372Na4
-    21300024: M372Nb0
-    21300026: M372Nb1
-    21300028: M372Nb2
-    21300030: M372Nb3
-    21300032: M372Nb4
-    21300034: M372Nc0
-    21300036: M372Nc1
-    21300038: M372Nc2
-    21300040: M372Nc3
-    21300042: M372Nc4
-    21300044: M372Nd0
-    21300046: M372Nd1
-    21300048: M372Nd2
-    21300050: M372Nd3
-    21300052: M372Nd4
-    21300054: M372Ne0
-    21300056: M372Ne1
-    21300058: M372Ne2
-    21300060: M372Ne3
-    21300062: M372Ne4
-    21300064: M372Nf0
-    21300066: M372Nf1
-    21300068: M372Nf2
-    21300070: M372Nf3
-    21300072: M372Nf4
-    21300074: M372Ng0
-    21300076: M372Ng1
-    21300078: M372Ng2
-    21300080: M372Ng3
-    21300082: M372Ng4
-    21300084: M372Sa0
-    21300086: M372Sa1
-    21300088: M372Sa2
-    21300090: M372Sa3
-    21300092: M372Sa4
-    21300094: M372Wa0
-    21300096: M372Wa1
-    21300098: M372Wa2
-    21300100: M372Wa3
-    21300102: M372Wa4
-    21300104: M372Wb0
-    21300106: M372Wb1
-    21300108: M372Wb2
-    21300110: M372Wb3
-    21300112: M372Wb4
-    21300114: M372Wc0
-    21300116: M372Wc1
-    21300118: M372Wc2
-    21300120: M372Wc3
-    21300122: M372Wc4
-    21300124: M372Wd0
-    21300126: M372Wd1
-    21300128: M372Wd2
-    21300130: M372Wd3
-    21300132: M372Wd4
-    21300134: M372We0
-    21300136: M372We1
-    21300138: M372We2
-    21300140: M372We3
-    21300142: M372We4
-    21300144: M372Wf0
-    21300146: M372Wf1
-    21300148: M372Wf2
-    21300150: M372Wf3
-    21300152: M372Wf4
-    21300154: M372Wg0
-    21300156: M372Wg1
-    21300158: M372Wg2
-    21300160: M372Wg3
-    21300162: M372Wg4
-    21300164: M372Wh0
-    21300166: M372Wh1
-    21300168: M372Wh2
-    21300170: M372Wh3
-    21300172: M372Wh4
-    21300174: M372Xa0
-  serializedVersion: 2
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: M372Da0
+  - first:
+      213: 21300002
+    second: M372Db0
+  - first:
+      213: 21300004
+    second: M372Dc0
+  - first:
+      213: 21300006
+    second: M372Dd0
+  - first:
+      213: 21300008
+    second: M372Fa0
+  - first:
+      213: 21300010
+    second: M372Fb0
+  - first:
+      213: 21300012
+    second: M372Fc0
+  - first:
+      213: 21300014
+    second: M372Na0
+  - first:
+      213: 21300016
+    second: M372Na1
+  - first:
+      213: 21300018
+    second: M372Na2
+  - first:
+      213: 21300020
+    second: M372Na3
+  - first:
+      213: 21300022
+    second: M372Na4
+  - first:
+      213: 21300024
+    second: M372Nb0
+  - first:
+      213: 21300026
+    second: M372Nb1
+  - first:
+      213: 21300028
+    second: M372Nb2
+  - first:
+      213: 21300030
+    second: M372Nb3
+  - first:
+      213: 21300032
+    second: M372Nb4
+  - first:
+      213: 21300034
+    second: M372Nc0
+  - first:
+      213: 21300036
+    second: M372Nc1
+  - first:
+      213: 21300038
+    second: M372Nc2
+  - first:
+      213: 21300040
+    second: M372Nc3
+  - first:
+      213: 21300042
+    second: M372Nc4
+  - first:
+      213: 21300044
+    second: M372Nd0
+  - first:
+      213: 21300046
+    second: M372Nd1
+  - first:
+      213: 21300048
+    second: M372Nd2
+  - first:
+      213: 21300050
+    second: M372Nd3
+  - first:
+      213: 21300052
+    second: M372Nd4
+  - first:
+      213: 21300054
+    second: M372Ne0
+  - first:
+      213: 21300056
+    second: M372Ne1
+  - first:
+      213: 21300058
+    second: M372Ne2
+  - first:
+      213: 21300060
+    second: M372Ne3
+  - first:
+      213: 21300062
+    second: M372Ne4
+  - first:
+      213: 21300064
+    second: M372Nf0
+  - first:
+      213: 21300066
+    second: M372Nf1
+  - first:
+      213: 21300068
+    second: M372Nf2
+  - first:
+      213: 21300070
+    second: M372Nf3
+  - first:
+      213: 21300072
+    second: M372Nf4
+  - first:
+      213: 21300074
+    second: M372Ng0
+  - first:
+      213: 21300076
+    second: M372Ng1
+  - first:
+      213: 21300078
+    second: M372Ng2
+  - first:
+      213: 21300080
+    second: M372Ng3
+  - first:
+      213: 21300082
+    second: M372Ng4
+  - first:
+      213: 21300084
+    second: M372Sa0
+  - first:
+      213: 21300086
+    second: M372Sa1
+  - first:
+      213: 21300088
+    second: M372Sa2
+  - first:
+      213: 21300090
+    second: M372Sa3
+  - first:
+      213: 21300092
+    second: M372Sa4
+  - first:
+      213: 21300094
+    second: M372Wa0
+  - first:
+      213: 21300096
+    second: M372Wa1
+  - first:
+      213: 21300098
+    second: M372Wa2
+  - first:
+      213: 21300100
+    second: M372Wa3
+  - first:
+      213: 21300102
+    second: M372Wa4
+  - first:
+      213: 21300104
+    second: M372Wb0
+  - first:
+      213: 21300106
+    second: M372Wb1
+  - first:
+      213: 21300108
+    second: M372Wb2
+  - first:
+      213: 21300110
+    second: M372Wb3
+  - first:
+      213: 21300112
+    second: M372Wb4
+  - first:
+      213: 21300114
+    second: M372Wc0
+  - first:
+      213: 21300116
+    second: M372Wc1
+  - first:
+      213: 21300118
+    second: M372Wc2
+  - first:
+      213: 21300120
+    second: M372Wc3
+  - first:
+      213: 21300122
+    second: M372Wc4
+  - first:
+      213: 21300124
+    second: M372Wd0
+  - first:
+      213: 21300126
+    second: M372Wd1
+  - first:
+      213: 21300128
+    second: M372Wd2
+  - first:
+      213: 21300130
+    second: M372Wd3
+  - first:
+      213: 21300132
+    second: M372Wd4
+  - first:
+      213: 21300134
+    second: M372We0
+  - first:
+      213: 21300136
+    second: M372We1
+  - first:
+      213: 21300138
+    second: M372We2
+  - first:
+      213: 21300140
+    second: M372We3
+  - first:
+      213: 21300142
+    second: M372We4
+  - first:
+      213: 21300144
+    second: M372Wf0
+  - first:
+      213: 21300146
+    second: M372Wf1
+  - first:
+      213: 21300148
+    second: M372Wf2
+  - first:
+      213: 21300150
+    second: M372Wf3
+  - first:
+      213: 21300152
+    second: M372Wf4
+  - first:
+      213: 21300154
+    second: M372Wg0
+  - first:
+      213: 21300156
+    second: M372Wg1
+  - first:
+      213: 21300158
+    second: M372Wg2
+  - first:
+      213: 21300160
+    second: M372Wg3
+  - first:
+      213: 21300162
+    second: M372Wg4
+  - first:
+      213: 21300164
+    second: M372Wh0
+  - first:
+      213: 21300166
+    second: M372Wh1
+  - first:
+      213: 21300168
+    second: M372Wh2
+  - first:
+      213: 21300170
+    second: M372Wh3
+  - first:
+      213: 21300172
+    second: M372Wh4
+  - first:
+      213: 21300174
+    second: M372Xa0
+  externalObjects: {}
+  serializedVersion: 10
   mipmaps:
     mipMapMode: 0
     enableMipMap: 1
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
     convertToNormalMap: 0
     externalNormalMap: 0
-    heightScale: .25
+    heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
   cubemapConvolution: 0
-  cubemapConvolutionSteps: 8
-  cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -1
   maxTextureSize: 4096
   textureSettings:
+    serializedVersion: 2
     filterMode: -1
     aniso: -1
-    mipBias: -1
-    wrapMode: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
-  rGBM: 0
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
-  spritePivot: {x: .5, y: .5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings: []
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: M372Da0
+    - serializedVersion: 2
+      name: M372Da0
       rect:
         serializedVersion: 2
         x: 2
@@ -145,9 +346,20 @@ TextureImporter:
         width: 215
         height: 211
       alignment: 9
-      pivot: {x: -.0139534883, y: 1.20853078}
+      pivot: {x: -0.013953488, y: 1.2085308}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Db0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Db0
       rect:
         serializedVersion: 2
         x: 219
@@ -155,9 +367,20 @@ TextureImporter:
         width: 178
         height: 139
       alignment: 9
-      pivot: {x: -.162921354, y: 1.58992803}
+      pivot: {x: -0.16292135, y: 1.589928}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Dc0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Dc0
       rect:
         serializedVersion: 2
         x: 399
@@ -165,9 +388,20 @@ TextureImporter:
         width: 174
         height: 100
       alignment: 9
-      pivot: {x: -.212643683, y: 2.3499999}
+      pivot: {x: -0.21264368, y: 2.35}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Dd0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Dd0
       rect:
         serializedVersion: 2
         x: 575
@@ -175,9 +409,20 @@ TextureImporter:
         width: 144
         height: 56
       alignment: 9
-      pivot: {x: -.416666657, y: 4.55357122}
+      pivot: {x: -0.41666666, y: 4.553571}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Fa0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Fa0
       rect:
         serializedVersion: 2
         x: 721
@@ -185,9 +430,20 @@ TextureImporter:
         width: 83
         height: 213
       alignment: 9
-      pivot: {x: -1.03614461, y: 1.20187795}
+      pivot: {x: -1.0361446, y: 1.201878}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Fb0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Fb0
       rect:
         serializedVersion: 2
         x: 806
@@ -195,9 +451,20 @@ TextureImporter:
         width: 89
         height: 212
       alignment: 9
-      pivot: {x: -.977528095, y: 1.20754719}
+      pivot: {x: -0.9775281, y: 1.2075472}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Fc0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Fc0
       rect:
         serializedVersion: 2
         x: 897
@@ -205,9 +472,20 @@ TextureImporter:
         width: 82
         height: 212
       alignment: 9
-      pivot: {x: -1.08536589, y: 1.20754719}
+      pivot: {x: -1.0853659, y: 1.2075472}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Na0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Na0
       rect:
         serializedVersion: 2
         x: 981
@@ -215,9 +493,20 @@ TextureImporter:
         width: 86
         height: 195
       alignment: 9
-      pivot: {x: -1.03488374, y: 1.31282055}
+      pivot: {x: -1.0348837, y: 1.3128206}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Na1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Na1
       rect:
         serializedVersion: 2
         x: 1069
@@ -225,9 +514,20 @@ TextureImporter:
         width: 82
         height: 195
       alignment: 9
-      pivot: {x: -1.13414633, y: 1.31282055}
+      pivot: {x: -1.1341463, y: 1.3128206}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Na2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Na2
       rect:
         serializedVersion: 2
         x: 1153
@@ -235,9 +535,20 @@ TextureImporter:
         width: 90
         height: 195
       alignment: 9
-      pivot: {x: -1, y: 1.31282055}
+      pivot: {x: -1, y: 1.3128206}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Na3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Na3
       rect:
         serializedVersion: 2
         x: 1245
@@ -245,9 +556,20 @@ TextureImporter:
         width: 90
         height: 195
       alignment: 9
-      pivot: {x: -.944444418, y: 1.31282055}
+      pivot: {x: -0.9444444, y: 1.3128206}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Na4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Na4
       rect:
         serializedVersion: 2
         x: 1337
@@ -255,9 +577,20 @@ TextureImporter:
         width: 85
         height: 195
       alignment: 9
-      pivot: {x: -.952941179, y: 1.31282055}
+      pivot: {x: -0.9529412, y: 1.3128206}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Nb0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Nb0
       rect:
         serializedVersion: 2
         x: 1424
@@ -265,9 +598,20 @@ TextureImporter:
         width: 139
         height: 207
       alignment: 9
-      pivot: {x: -.424460441, y: 1.23671496}
+      pivot: {x: -0.42446044, y: 1.236715}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Nb1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Nb1
       rect:
         serializedVersion: 2
         x: 1565
@@ -275,9 +619,20 @@ TextureImporter:
         width: 128
         height: 207
       alignment: 9
-      pivot: {x: -.546875, y: 1.23671496}
+      pivot: {x: -0.546875, y: 1.236715}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Nb2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Nb2
       rect:
         serializedVersion: 2
         x: 1695
@@ -285,9 +640,20 @@ TextureImporter:
         width: 86
         height: 208
       alignment: 9
-      pivot: {x: -1.04651165, y: 1.23076928}
+      pivot: {x: -1.0465117, y: 1.2307693}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Nb3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Nb3
       rect:
         serializedVersion: 2
         x: 1783
@@ -295,9 +661,20 @@ TextureImporter:
         width: 110
         height: 208
       alignment: 9
-      pivot: {x: -.772727251, y: 1.23076928}
+      pivot: {x: -0.77272725, y: 1.2307693}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Nb4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Nb4
       rect:
         serializedVersion: 2
         x: 1895
@@ -305,9 +682,20 @@ TextureImporter:
         width: 138
         height: 208
       alignment: 9
-      pivot: {x: -.420289844, y: 1.23076928}
+      pivot: {x: -0.42028984, y: 1.2307693}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Nc0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Nc0
       rect:
         serializedVersion: 2
         x: 2
@@ -315,9 +703,20 @@ TextureImporter:
         width: 184
         height: 222
       alignment: 9
-      pivot: {x: -.163043484, y: 1.15315318}
+      pivot: {x: -0.16304348, y: 1.1531532}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Nc1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Nc1
       rect:
         serializedVersion: 2
         x: 188
@@ -325,9 +724,20 @@ TextureImporter:
         width: 143
         height: 222
       alignment: 9
-      pivot: {x: -.37062937, y: 1.15315318}
+      pivot: {x: -0.37062937, y: 1.1531532}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Nc2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Nc2
       rect:
         serializedVersion: 2
         x: 333
@@ -335,9 +745,20 @@ TextureImporter:
         width: 134
         height: 221
       alignment: 9
-      pivot: {x: -.447761208, y: 1.15837109}
+      pivot: {x: -0.4477612, y: 1.1583711}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Nc3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Nc3
       rect:
         serializedVersion: 2
         x: 469
@@ -345,9 +766,20 @@ TextureImporter:
         width: 141
         height: 222
       alignment: 9
-      pivot: {x: -.453900695, y: 1.15315318}
+      pivot: {x: -0.4539007, y: 1.1531532}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Nc4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Nc4
       rect:
         serializedVersion: 2
         x: 612
@@ -355,9 +787,20 @@ TextureImporter:
         width: 184
         height: 222
       alignment: 9
-      pivot: {x: -.228260875, y: 1.15315318}
+      pivot: {x: -0.22826087, y: 1.1531532}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Nd0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Nd0
       rect:
         serializedVersion: 2
         x: 798
@@ -365,9 +808,20 @@ TextureImporter:
         width: 193
         height: 187
       alignment: 9
-      pivot: {x: -.165803105, y: 1.36898398}
+      pivot: {x: -0.1658031, y: 1.368984}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Nd1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Nd1
       rect:
         serializedVersion: 2
         x: 993
@@ -375,9 +829,20 @@ TextureImporter:
         width: 156
         height: 187
       alignment: 9
-      pivot: {x: -.224358976, y: 1.36898398}
+      pivot: {x: -0.22435898, y: 1.368984}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Nd2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Nd2
       rect:
         serializedVersion: 2
         x: 1151
@@ -385,9 +850,20 @@ TextureImporter:
         width: 99
         height: 187
       alignment: 9
-      pivot: {x: -.73737371, y: 1.36898398}
+      pivot: {x: -0.7373737, y: 1.368984}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Nd3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Nd3
       rect:
         serializedVersion: 2
         x: 1252
@@ -395,9 +871,20 @@ TextureImporter:
         width: 132
         height: 188
       alignment: 9
-      pivot: {x: -.409090906, y: 1.36170208}
+      pivot: {x: -0.4090909, y: 1.3617021}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Nd4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Nd4
       rect:
         serializedVersion: 2
         x: 1386
@@ -405,9 +892,20 @@ TextureImporter:
         width: 193
         height: 188
       alignment: 9
-      pivot: {x: -.160621762, y: 1.36170208}
+      pivot: {x: -0.16062176, y: 1.3617021}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Ne0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Ne0
       rect:
         serializedVersion: 2
         x: 1581
@@ -415,9 +913,20 @@ TextureImporter:
         width: 142
         height: 205
       alignment: 9
-      pivot: {x: -.42957747, y: 1.24878049}
+      pivot: {x: -0.42957747, y: 1.2487805}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Ne1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Ne1
       rect:
         serializedVersion: 2
         x: 1725
@@ -425,9 +934,20 @@ TextureImporter:
         width: 141
         height: 206
       alignment: 9
-      pivot: {x: -.354609936, y: 1.24271846}
+      pivot: {x: -0.35460994, y: 1.2427185}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Ne2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Ne2
       rect:
         serializedVersion: 2
         x: 1868
@@ -435,9 +955,20 @@ TextureImporter:
         width: 100
         height: 206
       alignment: 9
-      pivot: {x: -.670000017, y: 1.24271846}
+      pivot: {x: -0.67, y: 1.2427185}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Ne3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Ne3
       rect:
         serializedVersion: 2
         x: 2
@@ -445,9 +976,20 @@ TextureImporter:
         width: 92
         height: 206
       alignment: 9
-      pivot: {x: -.760869563, y: 1.24271846}
+      pivot: {x: -0.76086956, y: 1.2427185}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Ne4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Ne4
       rect:
         serializedVersion: 2
         x: 96
@@ -455,9 +997,20 @@ TextureImporter:
         width: 142
         height: 206
       alignment: 9
-      pivot: {x: -.373239428, y: 1.24271846}
+      pivot: {x: -0.37323943, y: 1.2427185}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Nf0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Nf0
       rect:
         serializedVersion: 2
         x: 240
@@ -465,9 +1018,20 @@ TextureImporter:
         width: 112
         height: 209
       alignment: 9
-      pivot: {x: -.660714269, y: 1.22488034}
+      pivot: {x: -0.66071427, y: 1.2248803}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Nf1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Nf1
       rect:
         serializedVersion: 2
         x: 354
@@ -475,9 +1039,20 @@ TextureImporter:
         width: 98
         height: 209
       alignment: 9
-      pivot: {x: -.795918345, y: 1.22488034}
+      pivot: {x: -0.79591835, y: 1.2248803}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Nf2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Nf2
       rect:
         serializedVersion: 2
         x: 454
@@ -485,9 +1060,20 @@ TextureImporter:
         width: 65
         height: 209
       alignment: 9
-      pivot: {x: -1.43076921, y: 1.22488034}
+      pivot: {x: -1.4307692, y: 1.2248803}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Nf3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Nf3
       rect:
         serializedVersion: 2
         x: 521
@@ -495,9 +1081,20 @@ TextureImporter:
         width: 70
         height: 209
       alignment: 9
-      pivot: {x: -1.27142859, y: 1.22488034}
+      pivot: {x: -1.2714286, y: 1.2248803}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Nf4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Nf4
       rect:
         serializedVersion: 2
         x: 593
@@ -505,9 +1102,20 @@ TextureImporter:
         width: 112
         height: 209
       alignment: 9
-      pivot: {x: -.625, y: 1.22488034}
+      pivot: {x: -0.625, y: 1.2248803}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Ng0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Ng0
       rect:
         serializedVersion: 2
         x: 707
@@ -515,9 +1123,20 @@ TextureImporter:
         width: 98
         height: 210
       alignment: 9
-      pivot: {x: -.795918345, y: 1.21904767}
+      pivot: {x: -0.79591835, y: 1.2190477}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Ng1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Ng1
       rect:
         serializedVersion: 2
         x: 807
@@ -525,9 +1144,20 @@ TextureImporter:
         width: 83
         height: 210
       alignment: 9
-      pivot: {x: -.951807201, y: 1.21904767}
+      pivot: {x: -0.9518072, y: 1.2190477}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Ng2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Ng2
       rect:
         serializedVersion: 2
         x: 892
@@ -535,9 +1165,20 @@ TextureImporter:
         width: 69
         height: 210
       alignment: 9
-      pivot: {x: -1.31884062, y: 1.21904767}
+      pivot: {x: -1.3188406, y: 1.2190477}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Ng3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Ng3
       rect:
         serializedVersion: 2
         x: 963
@@ -545,9 +1186,20 @@ TextureImporter:
         width: 81
         height: 210
       alignment: 9
-      pivot: {x: -1.02469134, y: 1.21904767}
+      pivot: {x: -1.0246913, y: 1.2190477}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Ng4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Ng4
       rect:
         serializedVersion: 2
         x: 1046
@@ -555,9 +1207,20 @@ TextureImporter:
         width: 98
         height: 210
       alignment: 9
-      pivot: {x: -.816326559, y: 1.21904767}
+      pivot: {x: -0.81632656, y: 1.2190477}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Sa0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Sa0
       rect:
         serializedVersion: 2
         x: 1146
@@ -565,9 +1228,20 @@ TextureImporter:
         width: 78
         height: 213
       alignment: 9
-      pivot: {x: -1.12820518, y: 1.20187795}
+      pivot: {x: -1.1282052, y: 1.201878}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Sa1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Sa1
       rect:
         serializedVersion: 2
         x: 1226
@@ -575,9 +1249,20 @@ TextureImporter:
         width: 72
         height: 213
       alignment: 9
-      pivot: {x: -1.25, y: 1.20187795}
+      pivot: {x: -1.25, y: 1.201878}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Sa2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Sa2
       rect:
         serializedVersion: 2
         x: 1300
@@ -585,9 +1270,20 @@ TextureImporter:
         width: 66
         height: 213
       alignment: 9
-      pivot: {x: -1.40909088, y: 1.20187795}
+      pivot: {x: -1.4090909, y: 1.201878}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Sa3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Sa3
       rect:
         serializedVersion: 2
         x: 1368
@@ -595,9 +1291,20 @@ TextureImporter:
         width: 68
         height: 213
       alignment: 9
-      pivot: {x: -1.33823526, y: 1.20187795}
+      pivot: {x: -1.3382353, y: 1.201878}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Sa4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Sa4
       rect:
         serializedVersion: 2
         x: 1438
@@ -605,9 +1312,20 @@ TextureImporter:
         width: 78
         height: 213
       alignment: 9
-      pivot: {x: -1.15384614, y: 1.20187795}
+      pivot: {x: -1.1538461, y: 1.201878}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Wa0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Wa0
       rect:
         serializedVersion: 2
         x: 1518
@@ -615,9 +1333,20 @@ TextureImporter:
         width: 90
         height: 214
       alignment: 9
-      pivot: {x: -.933333337, y: 1.19626164}
+      pivot: {x: -0.93333334, y: 1.1962616}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Wa1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Wa1
       rect:
         serializedVersion: 2
         x: 1610
@@ -625,9 +1354,20 @@ TextureImporter:
         width: 81
         height: 214
       alignment: 9
-      pivot: {x: -1.07407403, y: 1.19626164}
+      pivot: {x: -1.074074, y: 1.1962616}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Wa2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Wa2
       rect:
         serializedVersion: 2
         x: 1693
@@ -635,9 +1375,20 @@ TextureImporter:
         width: 69
         height: 214
       alignment: 9
-      pivot: {x: -1.30434787, y: 1.19626164}
+      pivot: {x: -1.3043479, y: 1.1962616}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Wa3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Wa3
       rect:
         serializedVersion: 2
         x: 1764
@@ -645,9 +1396,20 @@ TextureImporter:
         width: 78
         height: 214
       alignment: 9
-      pivot: {x: -1.12820518, y: 1.19626164}
+      pivot: {x: -1.1282052, y: 1.1962616}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Wa4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Wa4
       rect:
         serializedVersion: 2
         x: 1844
@@ -655,9 +1417,20 @@ TextureImporter:
         width: 90
         height: 214
       alignment: 9
-      pivot: {x: -.911111116, y: 1.19626164}
+      pivot: {x: -0.9111111, y: 1.1962616}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Wb0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Wb0
       rect:
         serializedVersion: 2
         x: 1936
@@ -665,9 +1438,20 @@ TextureImporter:
         width: 90
         height: 212
       alignment: 9
-      pivot: {x: -.944444418, y: 1.20754719}
+      pivot: {x: -0.9444444, y: 1.2075472}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Wb1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Wb1
       rect:
         serializedVersion: 2
         x: 2
@@ -675,9 +1459,20 @@ TextureImporter:
         width: 84
         height: 212
       alignment: 9
-      pivot: {x: -1.03571427, y: 1.20754719}
+      pivot: {x: -1.0357143, y: 1.2075472}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Wb2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Wb2
       rect:
         serializedVersion: 2
         x: 88
@@ -685,9 +1480,20 @@ TextureImporter:
         width: 87
         height: 212
       alignment: 9
-      pivot: {x: -1, y: 1.20754719}
+      pivot: {x: -1, y: 1.2075472}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Wb3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Wb3
       rect:
         serializedVersion: 2
         x: 177
@@ -695,9 +1501,20 @@ TextureImporter:
         width: 86
         height: 212
       alignment: 9
-      pivot: {x: -.976744175, y: 1.20754719}
+      pivot: {x: -0.9767442, y: 1.2075472}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Wb4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Wb4
       rect:
         serializedVersion: 2
         x: 265
@@ -705,9 +1522,20 @@ TextureImporter:
         width: 90
         height: 212
       alignment: 9
-      pivot: {x: -.888888896, y: 1.20754719}
+      pivot: {x: -0.8888889, y: 1.2075472}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Wc0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Wc0
       rect:
         serializedVersion: 2
         x: 357
@@ -715,9 +1543,20 @@ TextureImporter:
         width: 89
         height: 211
       alignment: 9
-      pivot: {x: -.977528095, y: 1.21327019}
+      pivot: {x: -0.9775281, y: 1.2132702}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Wc1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Wc1
       rect:
         serializedVersion: 2
         x: 448
@@ -725,9 +1564,20 @@ TextureImporter:
         width: 95
         height: 211
       alignment: 9
-      pivot: {x: -.852631569, y: 1.21327019}
+      pivot: {x: -0.85263157, y: 1.2132702}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Wc2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Wc2
       rect:
         serializedVersion: 2
         x: 545
@@ -735,9 +1585,20 @@ TextureImporter:
         width: 107
         height: 211
       alignment: 9
-      pivot: {x: -.700934589, y: 1.21327019}
+      pivot: {x: -0.7009346, y: 1.2132702}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Wc3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Wc3
       rect:
         serializedVersion: 2
         x: 654
@@ -745,9 +1606,20 @@ TextureImporter:
         width: 101
         height: 211
       alignment: 9
-      pivot: {x: -.742574275, y: 1.21327019}
+      pivot: {x: -0.7425743, y: 1.2132702}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Wc4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Wc4
       rect:
         serializedVersion: 2
         x: 757
@@ -755,9 +1627,20 @@ TextureImporter:
         width: 89
         height: 211
       alignment: 9
-      pivot: {x: -.898876429, y: 1.21327019}
+      pivot: {x: -0.8988764, y: 1.2132702}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Wd0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Wd0
       rect:
         serializedVersion: 2
         x: 848
@@ -765,9 +1648,20 @@ TextureImporter:
         width: 86
         height: 212
       alignment: 9
-      pivot: {x: -1.02325583, y: 1.20754719}
+      pivot: {x: -1.0232558, y: 1.2075472}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Wd1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Wd1
       rect:
         serializedVersion: 2
         x: 936
@@ -775,9 +1669,20 @@ TextureImporter:
         width: 79
         height: 212
       alignment: 9
-      pivot: {x: -1.03797472, y: 1.20754719}
+      pivot: {x: -1.0379747, y: 1.2075472}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Wd2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Wd2
       rect:
         serializedVersion: 2
         x: 1017
@@ -785,9 +1690,20 @@ TextureImporter:
         width: 84
         height: 212
       alignment: 9
-      pivot: {x: -.940476179, y: 1.20754719}
+      pivot: {x: -0.9404762, y: 1.2075472}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Wd3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Wd3
       rect:
         serializedVersion: 2
         x: 1103
@@ -795,9 +1711,20 @@ TextureImporter:
         width: 95
         height: 212
       alignment: 9
-      pivot: {x: -.747368395, y: 1.20754719}
+      pivot: {x: -0.7473684, y: 1.2075472}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Wd4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a305410000000000800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Wd4
       rect:
         serializedVersion: 2
         x: 1200
@@ -805,9 +1732,20 @@ TextureImporter:
         width: 85
         height: 212
       alignment: 9
-      pivot: {x: -.964705884, y: 1.20754719}
+      pivot: {x: -0.9647059, y: 1.2075472}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372We0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372We0
       rect:
         serializedVersion: 2
         x: 1287
@@ -815,9 +1753,20 @@ TextureImporter:
         width: 85
         height: 214
       alignment: 9
-      pivot: {x: -1.02352941, y: 1.19626164}
+      pivot: {x: -1.0235294, y: 1.1962616}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372We1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372We1
       rect:
         serializedVersion: 2
         x: 1374
@@ -825,9 +1774,20 @@ TextureImporter:
         width: 82
         height: 214
       alignment: 9
-      pivot: {x: -1, y: 1.19626164}
+      pivot: {x: -1, y: 1.1962616}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372We2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a305410000000000800000000000000
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372We2
       rect:
         serializedVersion: 2
         x: 1458
@@ -835,9 +1795,20 @@ TextureImporter:
         width: 73
         height: 214
       alignment: 9
-      pivot: {x: -1.17808223, y: 1.19626164}
+      pivot: {x: -1.1780822, y: 1.1962616}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372We3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372We3
       rect:
         serializedVersion: 2
         x: 1533
@@ -845,9 +1816,20 @@ TextureImporter:
         width: 70
         height: 214
       alignment: 9
-      pivot: {x: -1.2571429, y: 1.19626164}
+      pivot: {x: -1.2571429, y: 1.1962616}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372We4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372We4
       rect:
         serializedVersion: 2
         x: 1605
@@ -855,9 +1837,20 @@ TextureImporter:
         width: 85
         height: 214
       alignment: 9
-      pivot: {x: -.988235295, y: 1.19626164}
+      pivot: {x: -0.9882353, y: 1.1962616}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Wf0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea305410000000000800000000000000
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Wf0
       rect:
         serializedVersion: 2
         x: 1692
@@ -865,9 +1858,20 @@ TextureImporter:
         width: 87
         height: 213
       alignment: 9
-      pivot: {x: -.977011502, y: 1.20187795}
+      pivot: {x: -0.9770115, y: 1.201878}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Wf1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b305410000000000800000000000000
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Wf1
       rect:
         serializedVersion: 2
         x: 1781
@@ -875,9 +1879,20 @@ TextureImporter:
         width: 98
         height: 213
       alignment: 9
-      pivot: {x: -.785714269, y: 1.20187795}
+      pivot: {x: -0.78571427, y: 1.201878}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Wf2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b305410000000000800000000000000
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Wf2
       rect:
         serializedVersion: 2
         x: 1881
@@ -885,9 +1900,20 @@ TextureImporter:
         width: 83
         height: 213
       alignment: 9
-      pivot: {x: -1.06024098, y: 1.20187795}
+      pivot: {x: -1.060241, y: 1.201878}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Wf3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b305410000000000800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Wf3
       rect:
         serializedVersion: 2
         x: 1966
@@ -895,9 +1921,20 @@ TextureImporter:
         width: 80
         height: 213
       alignment: 9
-      pivot: {x: -1.125, y: 1.20187795}
+      pivot: {x: -1.125, y: 1.201878}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Wf4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b305410000000000800000000000000
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Wf4
       rect:
         serializedVersion: 2
         x: 2
@@ -905,9 +1942,20 @@ TextureImporter:
         width: 87
         height: 213
       alignment: 9
-      pivot: {x: -.965517223, y: 1.20187795}
+      pivot: {x: -0.9655172, y: 1.201878}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Wg0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b305410000000000800000000000000
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Wg0
       rect:
         serializedVersion: 2
         x: 91
@@ -915,9 +1963,20 @@ TextureImporter:
         width: 85
         height: 211
       alignment: 9
-      pivot: {x: -1, y: 1.21327019}
+      pivot: {x: -1, y: 1.2132702}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Wg1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab305410000000000800000000000000
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Wg1
       rect:
         serializedVersion: 2
         x: 178
@@ -925,9 +1984,20 @@ TextureImporter:
         width: 118
         height: 211
       alignment: 9
-      pivot: {x: -.516949177, y: 1.21327019}
+      pivot: {x: -0.5169492, y: 1.2132702}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Wg2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb305410000000000800000000000000
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Wg2
       rect:
         serializedVersion: 2
         x: 298
@@ -935,9 +2005,20 @@ TextureImporter:
         width: 107
         height: 211
       alignment: 9
-      pivot: {x: -.66355139, y: 1.21327019}
+      pivot: {x: -0.6635514, y: 1.2132702}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Wg3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb305410000000000800000000000000
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Wg3
       rect:
         serializedVersion: 2
         x: 407
@@ -945,9 +2026,20 @@ TextureImporter:
         width: 90
         height: 210
       alignment: 9
-      pivot: {x: -.911111116, y: 1.21904767}
+      pivot: {x: -0.9111111, y: 1.2190477}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Wg4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c305410000000000800000000000000
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Wg4
       rect:
         serializedVersion: 2
         x: 499
@@ -955,9 +2047,20 @@ TextureImporter:
         width: 85
         height: 210
       alignment: 9
-      pivot: {x: -1.01176476, y: 1.21904767}
+      pivot: {x: -1.0117648, y: 1.2190477}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Wh0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c305410000000000800000000000000
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Wh0
       rect:
         serializedVersion: 2
         x: 586
@@ -965,9 +2068,20 @@ TextureImporter:
         width: 89
         height: 213
       alignment: 9
-      pivot: {x: -.932584286, y: 1.20187795}
+      pivot: {x: -0.9325843, y: 1.201878}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Wh1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c305410000000000800000000000000
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Wh1
       rect:
         serializedVersion: 2
         x: 677
@@ -975,9 +2089,20 @@ TextureImporter:
         width: 94
         height: 213
       alignment: 9
-      pivot: {x: -.840425551, y: 1.20187795}
+      pivot: {x: -0.84042555, y: 1.201878}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Wh2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c305410000000000800000000000000
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Wh2
       rect:
         serializedVersion: 2
         x: 773
@@ -985,9 +2110,20 @@ TextureImporter:
         width: 77
         height: 213
       alignment: 9
-      pivot: {x: -1.03896105, y: 1.20187795}
+      pivot: {x: -1.038961, y: 1.201878}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Wh3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c305410000000000800000000000000
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Wh3
       rect:
         serializedVersion: 2
         x: 852
@@ -995,9 +2131,20 @@ TextureImporter:
         width: 73
         height: 213
       alignment: 9
-      pivot: {x: -1.15068495, y: 1.20187795}
+      pivot: {x: -1.150685, y: 1.201878}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Wh4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac305410000000000800000000000000
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Wh4
       rect:
         serializedVersion: 2
         x: 927
@@ -1005,9 +2152,20 @@ TextureImporter:
         width: 89
         height: 213
       alignment: 9
-      pivot: {x: -.943820238, y: 1.20187795}
+      pivot: {x: -0.94382024, y: 1.201878}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M372Xa0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc305410000000000800000000000000
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M372Xa0
       rect:
         serializedVersion: 2
         x: 1018
@@ -1015,9 +2173,31 @@ TextureImporter:
         width: 142
         height: 38
       alignment: 9
-      pivot: {x: -.422535211, y: 6.73684216}
+      pivot: {x: -0.4225352, y: 6.736842}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec305410000000000800000000000000
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

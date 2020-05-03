@@ -1,175 +1,440 @@
 fileFormatVersion: 2
 guid: 92fb20ae63db5864fb159bafe254a944
-timeCreated: 1442629438
-licenseType: Pro
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: M214Aa0
-    21300002: M214Aa1
-    21300004: M214Aa2
-    21300006: M214Aa3
-    21300008: M214Aa4
-    21300010: M214Ab0
-    21300012: M214Ab1
-    21300014: M214Ab2
-    21300016: M214Ab3
-    21300018: M214Ab4
-    21300020: M214Ac0
-    21300022: M214Ac1
-    21300024: M214Ac2
-    21300026: M214Ac3
-    21300028: M214Ac4
-    21300030: M214Ad0
-    21300032: M214Ad1
-    21300034: M214Ad2
-    21300036: M214Ad3
-    21300038: M214Ad4
-    21300040: M214Ae0
-    21300042: M214Ae1
-    21300044: M214Ae2
-    21300046: M214Ae3
-    21300048: M214Ae4
-    21300050: M214Af0
-    21300052: M214Af1
-    21300054: M214Af2
-    21300056: M214Af3
-    21300058: M214Af4
-    21300060: M214Ag0
-    21300062: M214Ag1
-    21300064: M214Ag2
-    21300066: M214Ag3
-    21300068: M214Ag4
-    21300070: M214Ah0
-    21300072: M214Ah1
-    21300074: M214Ah2
-    21300076: M214Ah3
-    21300078: M214Ah4
-    21300080: M214Da0
-    21300082: M214Db0
-    21300084: M214Dc0
-    21300086: M214Dd0
-    21300088: M214Fa0
-    21300090: M214Fb0
-    21300092: M214Fc0
-    21300094: M214Fd0
-    21300096: M214Fe0
-    21300098: M214Na0
-    21300100: M214Na1
-    21300102: M214Na2
-    21300104: M214Na3
-    21300106: M214Na4
-    21300108: M214Nb0
-    21300110: M214Nb1
-    21300112: M214Nb2
-    21300114: M214Nb3
-    21300116: M214Nb4
-    21300118: M214Nc0
-    21300120: M214Nc1
-    21300122: M214Nc2
-    21300124: M214Nc3
-    21300126: M214Nc4
-    21300128: M214Nd0
-    21300130: M214Nd1
-    21300132: M214Nd2
-    21300134: M214Nd3
-    21300136: M214Nd4
-    21300138: M214Ne0
-    21300140: M214Ne1
-    21300142: M214Ne2
-    21300144: M214Ne3
-    21300146: M214Ne4
-    21300148: M214Sa0
-    21300150: M214Sa1
-    21300152: M214Sa2
-    21300154: M214Sa3
-    21300156: M214Sa4
-    21300158: M214Wa0
-    21300160: M214Wa1
-    21300162: M214Wa2
-    21300164: M214Wa3
-    21300166: M214Wa4
-    21300168: M214Wb0
-    21300170: M214Wb1
-    21300172: M214Wb2
-    21300174: M214Wb3
-    21300176: M214Wb4
-    21300178: M214Wc0
-    21300180: M214Wc1
-    21300182: M214Wc2
-    21300184: M214Wc3
-    21300186: M214Wc4
-    21300188: M214Wd0
-    21300190: M214Wd1
-    21300192: M214Wd2
-    21300194: M214Wd3
-    21300196: M214Wd4
-    21300198: M214We0
-    21300200: M214We1
-    21300202: M214We2
-    21300204: M214We3
-    21300206: M214We4
-    21300208: M214Wf0
-    21300210: M214Wf1
-    21300212: M214Wf2
-    21300214: M214Wf3
-    21300216: M214Wf4
-    21300218: M214Wg0
-    21300220: M214Wg1
-    21300222: M214Wg2
-    21300224: M214Wg3
-    21300226: M214Wg4
-    21300228: M214Wh0
-    21300230: M214Wh1
-    21300232: M214Wh2
-    21300234: M214Wh3
-    21300236: M214Wh4
-    21300238: M214Xa0
-  serializedVersion: 2
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: M214Aa0
+  - first:
+      213: 21300002
+    second: M214Aa1
+  - first:
+      213: 21300004
+    second: M214Aa2
+  - first:
+      213: 21300006
+    second: M214Aa3
+  - first:
+      213: 21300008
+    second: M214Aa4
+  - first:
+      213: 21300010
+    second: M214Ab0
+  - first:
+      213: 21300012
+    second: M214Ab1
+  - first:
+      213: 21300014
+    second: M214Ab2
+  - first:
+      213: 21300016
+    second: M214Ab3
+  - first:
+      213: 21300018
+    second: M214Ab4
+  - first:
+      213: 21300020
+    second: M214Ac0
+  - first:
+      213: 21300022
+    second: M214Ac1
+  - first:
+      213: 21300024
+    second: M214Ac2
+  - first:
+      213: 21300026
+    second: M214Ac3
+  - first:
+      213: 21300028
+    second: M214Ac4
+  - first:
+      213: 21300030
+    second: M214Ad0
+  - first:
+      213: 21300032
+    second: M214Ad1
+  - first:
+      213: 21300034
+    second: M214Ad2
+  - first:
+      213: 21300036
+    second: M214Ad3
+  - first:
+      213: 21300038
+    second: M214Ad4
+  - first:
+      213: 21300040
+    second: M214Ae0
+  - first:
+      213: 21300042
+    second: M214Ae1
+  - first:
+      213: 21300044
+    second: M214Ae2
+  - first:
+      213: 21300046
+    second: M214Ae3
+  - first:
+      213: 21300048
+    second: M214Ae4
+  - first:
+      213: 21300050
+    second: M214Af0
+  - first:
+      213: 21300052
+    second: M214Af1
+  - first:
+      213: 21300054
+    second: M214Af2
+  - first:
+      213: 21300056
+    second: M214Af3
+  - first:
+      213: 21300058
+    second: M214Af4
+  - first:
+      213: 21300060
+    second: M214Ag0
+  - first:
+      213: 21300062
+    second: M214Ag1
+  - first:
+      213: 21300064
+    second: M214Ag2
+  - first:
+      213: 21300066
+    second: M214Ag3
+  - first:
+      213: 21300068
+    second: M214Ag4
+  - first:
+      213: 21300070
+    second: M214Ah0
+  - first:
+      213: 21300072
+    second: M214Ah1
+  - first:
+      213: 21300074
+    second: M214Ah2
+  - first:
+      213: 21300076
+    second: M214Ah3
+  - first:
+      213: 21300078
+    second: M214Ah4
+  - first:
+      213: 21300080
+    second: M214Da0
+  - first:
+      213: 21300082
+    second: M214Db0
+  - first:
+      213: 21300084
+    second: M214Dc0
+  - first:
+      213: 21300086
+    second: M214Dd0
+  - first:
+      213: 21300088
+    second: M214Fa0
+  - first:
+      213: 21300090
+    second: M214Fb0
+  - first:
+      213: 21300092
+    second: M214Fc0
+  - first:
+      213: 21300094
+    second: M214Fd0
+  - first:
+      213: 21300096
+    second: M214Fe0
+  - first:
+      213: 21300098
+    second: M214Na0
+  - first:
+      213: 21300100
+    second: M214Na1
+  - first:
+      213: 21300102
+    second: M214Na2
+  - first:
+      213: 21300104
+    second: M214Na3
+  - first:
+      213: 21300106
+    second: M214Na4
+  - first:
+      213: 21300108
+    second: M214Nb0
+  - first:
+      213: 21300110
+    second: M214Nb1
+  - first:
+      213: 21300112
+    second: M214Nb2
+  - first:
+      213: 21300114
+    second: M214Nb3
+  - first:
+      213: 21300116
+    second: M214Nb4
+  - first:
+      213: 21300118
+    second: M214Nc0
+  - first:
+      213: 21300120
+    second: M214Nc1
+  - first:
+      213: 21300122
+    second: M214Nc2
+  - first:
+      213: 21300124
+    second: M214Nc3
+  - first:
+      213: 21300126
+    second: M214Nc4
+  - first:
+      213: 21300128
+    second: M214Nd0
+  - first:
+      213: 21300130
+    second: M214Nd1
+  - first:
+      213: 21300132
+    second: M214Nd2
+  - first:
+      213: 21300134
+    second: M214Nd3
+  - first:
+      213: 21300136
+    second: M214Nd4
+  - first:
+      213: 21300138
+    second: M214Ne0
+  - first:
+      213: 21300140
+    second: M214Ne1
+  - first:
+      213: 21300142
+    second: M214Ne2
+  - first:
+      213: 21300144
+    second: M214Ne3
+  - first:
+      213: 21300146
+    second: M214Ne4
+  - first:
+      213: 21300148
+    second: M214Sa0
+  - first:
+      213: 21300150
+    second: M214Sa1
+  - first:
+      213: 21300152
+    second: M214Sa2
+  - first:
+      213: 21300154
+    second: M214Sa3
+  - first:
+      213: 21300156
+    second: M214Sa4
+  - first:
+      213: 21300158
+    second: M214Wa0
+  - first:
+      213: 21300160
+    second: M214Wa1
+  - first:
+      213: 21300162
+    second: M214Wa2
+  - first:
+      213: 21300164
+    second: M214Wa3
+  - first:
+      213: 21300166
+    second: M214Wa4
+  - first:
+      213: 21300168
+    second: M214Wb0
+  - first:
+      213: 21300170
+    second: M214Wb1
+  - first:
+      213: 21300172
+    second: M214Wb2
+  - first:
+      213: 21300174
+    second: M214Wb3
+  - first:
+      213: 21300176
+    second: M214Wb4
+  - first:
+      213: 21300178
+    second: M214Wc0
+  - first:
+      213: 21300180
+    second: M214Wc1
+  - first:
+      213: 21300182
+    second: M214Wc2
+  - first:
+      213: 21300184
+    second: M214Wc3
+  - first:
+      213: 21300186
+    second: M214Wc4
+  - first:
+      213: 21300188
+    second: M214Wd0
+  - first:
+      213: 21300190
+    second: M214Wd1
+  - first:
+      213: 21300192
+    second: M214Wd2
+  - first:
+      213: 21300194
+    second: M214Wd3
+  - first:
+      213: 21300196
+    second: M214Wd4
+  - first:
+      213: 21300198
+    second: M214We0
+  - first:
+      213: 21300200
+    second: M214We1
+  - first:
+      213: 21300202
+    second: M214We2
+  - first:
+      213: 21300204
+    second: M214We3
+  - first:
+      213: 21300206
+    second: M214We4
+  - first:
+      213: 21300208
+    second: M214Wf0
+  - first:
+      213: 21300210
+    second: M214Wf1
+  - first:
+      213: 21300212
+    second: M214Wf2
+  - first:
+      213: 21300214
+    second: M214Wf3
+  - first:
+      213: 21300216
+    second: M214Wf4
+  - first:
+      213: 21300218
+    second: M214Wg0
+  - first:
+      213: 21300220
+    second: M214Wg1
+  - first:
+      213: 21300222
+    second: M214Wg2
+  - first:
+      213: 21300224
+    second: M214Wg3
+  - first:
+      213: 21300226
+    second: M214Wg4
+  - first:
+      213: 21300228
+    second: M214Wh0
+  - first:
+      213: 21300230
+    second: M214Wh1
+  - first:
+      213: 21300232
+    second: M214Wh2
+  - first:
+      213: 21300234
+    second: M214Wh3
+  - first:
+      213: 21300236
+    second: M214Wh4
+  - first:
+      213: 21300238
+    second: M214Xa0
+  externalObjects: {}
+  serializedVersion: 10
   mipmaps:
     mipMapMode: 0
     enableMipMap: 1
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
     convertToNormalMap: 0
     externalNormalMap: 0
-    heightScale: .25
+    heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
   cubemapConvolution: 0
-  cubemapConvolutionSteps: 8
-  cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -1
   maxTextureSize: 4096
   textureSettings:
+    serializedVersion: 2
     filterMode: -1
     aniso: -1
-    mipBias: -1
-    wrapMode: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
-  rGBM: 0
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
-  spritePivot: {x: .5, y: .5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings: []
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: M214Aa0
+    - serializedVersion: 2
+      name: M214Aa0
       rect:
         serializedVersion: 2
         x: 2
@@ -177,9 +442,20 @@ TextureImporter:
         width: 119
         height: 206
       alignment: 9
-      pivot: {x: -.478991598, y: 1.24271846}
+      pivot: {x: -0.4789916, y: 1.2427185}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Aa1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Aa1
       rect:
         serializedVersion: 2
         x: 123
@@ -187,9 +463,20 @@ TextureImporter:
         width: 97
         height: 206
       alignment: 9
-      pivot: {x: -.8041237, y: 1.24271846}
+      pivot: {x: -0.8041237, y: 1.2427185}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Aa2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Aa2
       rect:
         serializedVersion: 2
         x: 222
@@ -197,9 +484,20 @@ TextureImporter:
         width: 113
         height: 206
       alignment: 9
-      pivot: {x: -.85840708, y: 1.24271846}
+      pivot: {x: -0.8584071, y: 1.2427185}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Aa3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Aa3
       rect:
         serializedVersion: 2
         x: 337
@@ -207,9 +505,20 @@ TextureImporter:
         width: 105
         height: 206
       alignment: 9
-      pivot: {x: -.961904764, y: 1.24271846}
+      pivot: {x: -0.96190476, y: 1.2427185}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Aa4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Aa4
       rect:
         serializedVersion: 2
         x: 444
@@ -217,9 +526,20 @@ TextureImporter:
         width: 119
         height: 206
       alignment: 9
-      pivot: {x: -.672268927, y: 1.24271846}
+      pivot: {x: -0.6722689, y: 1.2427185}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Ab0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Ab0
       rect:
         serializedVersion: 2
         x: 565
@@ -227,9 +547,20 @@ TextureImporter:
         width: 71
         height: 206
       alignment: 9
-      pivot: {x: -1.22535217, y: 1.24271846}
+      pivot: {x: -1.2253522, y: 1.2427185}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Ab1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Ab1
       rect:
         serializedVersion: 2
         x: 638
@@ -237,9 +568,20 @@ TextureImporter:
         width: 100
         height: 206
       alignment: 9
-      pivot: {x: -.800000012, y: 1.24271846}
+      pivot: {x: -0.8, y: 1.2427185}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Ab2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Ab2
       rect:
         serializedVersion: 2
         x: 740
@@ -247,9 +589,20 @@ TextureImporter:
         width: 100
         height: 206
       alignment: 9
-      pivot: {x: -.910000026, y: 1.24271846}
+      pivot: {x: -0.91, y: 1.2427185}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Ab3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Ab3
       rect:
         serializedVersion: 2
         x: 842
@@ -257,9 +610,20 @@ TextureImporter:
         width: 98
         height: 206
       alignment: 9
-      pivot: {x: -1.04081631, y: 1.24271846}
+      pivot: {x: -1.0408163, y: 1.2427185}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Ab4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Ab4
       rect:
         serializedVersion: 2
         x: 942
@@ -267,9 +631,20 @@ TextureImporter:
         width: 71
         height: 207
       alignment: 9
-      pivot: {x: -1.38028169, y: 1.23671496}
+      pivot: {x: -1.3802817, y: 1.236715}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Ac0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Ac0
       rect:
         serializedVersion: 2
         x: 1015
@@ -277,9 +652,20 @@ TextureImporter:
         width: 108
         height: 246
       alignment: 9
-      pivot: {x: -.611111104, y: 1.04065037}
+      pivot: {x: -0.6111111, y: 1.0406504}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Ac1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Ac1
       rect:
         serializedVersion: 2
         x: 1125
@@ -287,9 +673,20 @@ TextureImporter:
         width: 93
         height: 246
       alignment: 9
-      pivot: {x: -1.02150536, y: 1.04065037}
+      pivot: {x: -1.0215054, y: 1.0406504}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Ac2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Ac2
       rect:
         serializedVersion: 2
         x: 1220
@@ -297,9 +694,20 @@ TextureImporter:
         width: 89
         height: 246
       alignment: 9
-      pivot: {x: -1.17977524, y: 1.04065037}
+      pivot: {x: -1.1797752, y: 1.0406504}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Ac3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Ac3
       rect:
         serializedVersion: 2
         x: 1311
@@ -307,9 +715,20 @@ TextureImporter:
         width: 103
         height: 246
       alignment: 9
-      pivot: {x: -.990291238, y: 1.04065037}
+      pivot: {x: -0.99029124, y: 1.0406504}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Ac4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Ac4
       rect:
         serializedVersion: 2
         x: 1416
@@ -317,9 +736,20 @@ TextureImporter:
         width: 106
         height: 245
       alignment: 9
-      pivot: {x: -.783018887, y: 1.04489791}
+      pivot: {x: -0.7830189, y: 1.0448979}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Ad0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Ad0
       rect:
         serializedVersion: 2
         x: 1524
@@ -327,9 +757,20 @@ TextureImporter:
         width: 105
         height: 200
       alignment: 9
-      pivot: {x: -.809523821, y: 1.27999997}
+      pivot: {x: -0.8095238, y: 1.28}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Ad1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Ad1
       rect:
         serializedVersion: 2
         x: 1631
@@ -337,9 +778,20 @@ TextureImporter:
         width: 144
         height: 200
       alignment: 9
-      pivot: {x: -.708333313, y: 1.27999997}
+      pivot: {x: -0.7083333, y: 1.28}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Ad2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Ad2
       rect:
         serializedVersion: 2
         x: 1777
@@ -347,9 +799,20 @@ TextureImporter:
         width: 136
         height: 200
       alignment: 9
-      pivot: {x: -.764705896, y: 1.27999997}
+      pivot: {x: -0.7647059, y: 1.28}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Ad3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Ad3
       rect:
         serializedVersion: 2
         x: 1915
@@ -357,9 +820,20 @@ TextureImporter:
         width: 96
         height: 200
       alignment: 9
-      pivot: {x: -1.05208337, y: 1.27999997}
+      pivot: {x: -1.0520834, y: 1.28}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Ad4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Ad4
       rect:
         serializedVersion: 2
         x: 2
@@ -367,9 +841,20 @@ TextureImporter:
         width: 105
         height: 200
       alignment: 9
-      pivot: {x: -.628571451, y: 1.27999997}
+      pivot: {x: -0.62857145, y: 1.28}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Ae0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Ae0
       rect:
         serializedVersion: 2
         x: 109
@@ -377,9 +862,20 @@ TextureImporter:
         width: 79
         height: 220
       alignment: 9
-      pivot: {x: -1.06329119, y: 1.16363633}
+      pivot: {x: -1.0632912, y: 1.1636363}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Ae1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Ae1
       rect:
         serializedVersion: 2
         x: 190
@@ -387,9 +883,20 @@ TextureImporter:
         width: 122
         height: 220
       alignment: 9
-      pivot: {x: -.77868855, y: 1.16363633}
+      pivot: {x: -0.77868855, y: 1.1636363}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Ae2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Ae2
       rect:
         serializedVersion: 2
         x: 314
@@ -397,9 +904,20 @@ TextureImporter:
         width: 136
         height: 219
       alignment: 9
-      pivot: {x: -.772058845, y: 1.16894972}
+      pivot: {x: -0.77205884, y: 1.1689497}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Ae3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Ae3
       rect:
         serializedVersion: 2
         x: 452
@@ -407,9 +925,20 @@ TextureImporter:
         width: 98
         height: 219
       alignment: 9
-      pivot: {x: -1.03061223, y: 1.16894972}
+      pivot: {x: -1.0306122, y: 1.1689497}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Ae4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Ae4
       rect:
         serializedVersion: 2
         x: 552
@@ -417,9 +946,20 @@ TextureImporter:
         width: 78
         height: 218
       alignment: 9
-      pivot: {x: -1.19230771, y: 1.17431188}
+      pivot: {x: -1.1923077, y: 1.1743119}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Af0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Af0
       rect:
         serializedVersion: 2
         x: 632
@@ -427,9 +967,20 @@ TextureImporter:
         width: 70
         height: 252
       alignment: 9
-      pivot: {x: -1.22857141, y: 1.01587307}
+      pivot: {x: -1.2285714, y: 1.0158731}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Af1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Af1
       rect:
         serializedVersion: 2
         x: 704
@@ -437,9 +988,20 @@ TextureImporter:
         width: 107
         height: 252
       alignment: 9
-      pivot: {x: -.785046756, y: 1.01587307}
+      pivot: {x: -0.78504676, y: 1.0158731}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Af2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Af2
       rect:
         serializedVersion: 2
         x: 813
@@ -447,9 +1009,20 @@ TextureImporter:
         width: 129
         height: 251
       alignment: 9
-      pivot: {x: -.705426335, y: 1.01992035}
+      pivot: {x: -0.70542634, y: 1.0199203}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Af3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Af3
       rect:
         serializedVersion: 2
         x: 944
@@ -457,9 +1030,20 @@ TextureImporter:
         width: 96
         height: 250
       alignment: 9
-      pivot: {x: -1.04166663, y: 1.02400005}
+      pivot: {x: -1.0416666, y: 1.024}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Af4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Af4
       rect:
         serializedVersion: 2
         x: 1042
@@ -467,9 +1051,20 @@ TextureImporter:
         width: 70
         height: 250
       alignment: 9
-      pivot: {x: -1.42857146, y: 1.02400005}
+      pivot: {x: -1.4285715, y: 1.024}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Ag0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Ag0
       rect:
         serializedVersion: 2
         x: 1114
@@ -477,9 +1072,20 @@ TextureImporter:
         width: 136
         height: 233
       alignment: 9
-      pivot: {x: -.294117659, y: 1.09871244}
+      pivot: {x: -0.29411766, y: 1.0987124}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Ag1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Ag1
       rect:
         serializedVersion: 2
         x: 1252
@@ -487,9 +1093,20 @@ TextureImporter:
         width: 178
         height: 233
       alignment: 9
-      pivot: {x: -.297752798, y: 1.09871244}
+      pivot: {x: -0.2977528, y: 1.0987124}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Ag2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Ag2
       rect:
         serializedVersion: 2
         x: 1432
@@ -497,9 +1114,20 @@ TextureImporter:
         width: 143
         height: 233
       alignment: 9
-      pivot: {x: -.5804196, y: 1.09871244}
+      pivot: {x: -0.5804196, y: 1.0987124}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Ag3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Ag3
       rect:
         serializedVersion: 2
         x: 1577
@@ -507,9 +1135,20 @@ TextureImporter:
         width: 80
         height: 232
       alignment: 9
-      pivot: {x: -1.23749995, y: 1.10344827}
+      pivot: {x: -1.2375, y: 1.1034483}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Ag4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Ag4
       rect:
         serializedVersion: 2
         x: 1659
@@ -517,9 +1156,20 @@ TextureImporter:
         width: 134
         height: 232
       alignment: 9
-      pivot: {x: -.611940324, y: 1.10344827}
+      pivot: {x: -0.6119403, y: 1.1034483}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Ah0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Ah0
       rect:
         serializedVersion: 2
         x: 1795
@@ -527,9 +1177,20 @@ TextureImporter:
         width: 142
         height: 207
       alignment: 9
-      pivot: {x: -.366197169, y: 1.23671496}
+      pivot: {x: -0.36619717, y: 1.236715}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Ah1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Ah1
       rect:
         serializedVersion: 2
         x: 2
@@ -537,9 +1198,20 @@ TextureImporter:
         width: 129
         height: 206
       alignment: 9
-      pivot: {x: -.58914727, y: 1.24271846}
+      pivot: {x: -0.58914727, y: 1.2427185}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Ah2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Ah2
       rect:
         serializedVersion: 2
         x: 133
@@ -547,9 +1219,20 @@ TextureImporter:
         width: 97
         height: 206
       alignment: 9
-      pivot: {x: -.989690721, y: 1.24271846}
+      pivot: {x: -0.9896907, y: 1.2427185}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Ah3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Ah3
       rect:
         serializedVersion: 2
         x: 232
@@ -557,9 +1240,20 @@ TextureImporter:
         width: 86
         height: 206
       alignment: 9
-      pivot: {x: -1.17441857, y: 1.24271846}
+      pivot: {x: -1.1744186, y: 1.2427185}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Ah4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Ah4
       rect:
         serializedVersion: 2
         x: 320
@@ -567,9 +1261,20 @@ TextureImporter:
         width: 141
         height: 205
       alignment: 9
-      pivot: {x: -.446808517, y: 1.24878049}
+      pivot: {x: -0.44680852, y: 1.2487805}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Da0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Da0
       rect:
         serializedVersion: 2
         x: 463
@@ -577,9 +1282,20 @@ TextureImporter:
         width: 137
         height: 98
       alignment: 9
-      pivot: {x: -.686131358, y: 2.44897962}
+      pivot: {x: -0.68613136, y: 2.4489796}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Db0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Db0
       rect:
         serializedVersion: 2
         x: 602
@@ -587,9 +1303,20 @@ TextureImporter:
         width: 125
         height: 106
       alignment: 9
-      pivot: {x: -.720000029, y: 2.41509438}
+      pivot: {x: -0.72, y: 2.4150944}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Dc0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Dc0
       rect:
         serializedVersion: 2
         x: 729
@@ -597,9 +1324,20 @@ TextureImporter:
         width: 181
         height: 89
       alignment: 9
-      pivot: {x: -.342541426, y: 2.87640452}
+      pivot: {x: -0.34254143, y: 2.8764045}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Dd0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Dd0
       rect:
         serializedVersion: 2
         x: 912
@@ -607,9 +1345,20 @@ TextureImporter:
         width: 204
         height: 55
       alignment: 9
-      pivot: {x: -.254901975, y: 4.65454531}
+      pivot: {x: -0.25490198, y: 4.6545453}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Fa0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Fa0
       rect:
         serializedVersion: 2
         x: 1118
@@ -617,9 +1366,20 @@ TextureImporter:
         width: 105
         height: 206
       alignment: 9
-      pivot: {x: -.857142866, y: 1.24271846}
+      pivot: {x: -0.85714287, y: 1.2427185}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Fb0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Fb0
       rect:
         serializedVersion: 2
         x: 1225
@@ -627,9 +1387,20 @@ TextureImporter:
         width: 108
         height: 204
       alignment: 9
-      pivot: {x: -.861111104, y: 1.25490201}
+      pivot: {x: -0.8611111, y: 1.254902}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Fc0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Fc0
       rect:
         serializedVersion: 2
         x: 1335
@@ -637,9 +1408,20 @@ TextureImporter:
         width: 105
         height: 204
       alignment: 9
-      pivot: {x: -.895238101, y: 1.25490201}
+      pivot: {x: -0.8952381, y: 1.254902}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Fd0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Fd0
       rect:
         serializedVersion: 2
         x: 1442
@@ -647,9 +1429,20 @@ TextureImporter:
         width: 96
         height: 205
       alignment: 9
-      pivot: {x: -.947916687, y: 1.24878049}
+      pivot: {x: -0.9479167, y: 1.2487805}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Fe0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Fe0
       rect:
         serializedVersion: 2
         x: 1540
@@ -657,9 +1450,20 @@ TextureImporter:
         width: 96
         height: 206
       alignment: 9
-      pivot: {x: -.9375, y: 1.24271846}
+      pivot: {x: -0.9375, y: 1.2427185}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Na0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Na0
       rect:
         serializedVersion: 2
         x: 1638
@@ -667,9 +1471,20 @@ TextureImporter:
         width: 160
         height: 209
       alignment: 9
-      pivot: {x: -.356249988, y: 1.22488034}
+      pivot: {x: -0.35625, y: 1.2248803}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Na1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Na1
       rect:
         serializedVersion: 2
         x: 1800
@@ -677,9 +1492,20 @@ TextureImporter:
         width: 144
         height: 208
       alignment: 9
-      pivot: {x: -.493055552, y: 1.23076928}
+      pivot: {x: -0.49305555, y: 1.2307693}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Na2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Na2
       rect:
         serializedVersion: 2
         x: 2
@@ -687,9 +1513,20 @@ TextureImporter:
         width: 113
         height: 208
       alignment: 9
-      pivot: {x: -.610619485, y: 1.23076928}
+      pivot: {x: -0.6106195, y: 1.2307693}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Na3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Na3
       rect:
         serializedVersion: 2
         x: 117
@@ -697,9 +1534,20 @@ TextureImporter:
         width: 93
         height: 207
       alignment: 9
-      pivot: {x: -.956989229, y: 1.23671496}
+      pivot: {x: -0.9569892, y: 1.236715}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Na4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Na4
       rect:
         serializedVersion: 2
         x: 212
@@ -707,9 +1555,20 @@ TextureImporter:
         width: 159
         height: 207
       alignment: 9
-      pivot: {x: -.251572341, y: 1.23671496}
+      pivot: {x: -0.25157234, y: 1.236715}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Nb0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Nb0
       rect:
         serializedVersion: 2
         x: 373
@@ -717,9 +1576,20 @@ TextureImporter:
         width: 175
         height: 223
       alignment: 9
-      pivot: {x: -.371428579, y: 1.14798212}
+      pivot: {x: -0.37142858, y: 1.1479821}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Nb1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Nb1
       rect:
         serializedVersion: 2
         x: 550
@@ -727,9 +1597,20 @@ TextureImporter:
         width: 183
         height: 223
       alignment: 9
-      pivot: {x: -.295081973, y: 1.14798212}
+      pivot: {x: -0.29508197, y: 1.1479821}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Nb2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Nb2
       rect:
         serializedVersion: 2
         x: 735
@@ -737,9 +1618,20 @@ TextureImporter:
         width: 123
         height: 223
       alignment: 9
-      pivot: {x: -.390243888, y: 1.14798212}
+      pivot: {x: -0.3902439, y: 1.1479821}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Nb3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Nb3
       rect:
         serializedVersion: 2
         x: 860
@@ -747,9 +1639,20 @@ TextureImporter:
         width: 92
         height: 224
       alignment: 9
-      pivot: {x: -.673913062, y: 1.14285719}
+      pivot: {x: -0.67391306, y: 1.1428572}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Nb4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Nb4
       rect:
         serializedVersion: 2
         x: 954
@@ -757,9 +1660,20 @@ TextureImporter:
         width: 174
         height: 224
       alignment: 9
-      pivot: {x: -.0977011472, y: 1.14285719}
+      pivot: {x: -0.09770115, y: 1.1428572}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Nc0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Nc0
       rect:
         serializedVersion: 2
         x: 1130
@@ -767,9 +1681,20 @@ TextureImporter:
         width: 169
         height: 192
       alignment: 9
-      pivot: {x: -.295857996, y: 1.33333337}
+      pivot: {x: -0.295858, y: 1.3333334}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Nc1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Nc1
       rect:
         serializedVersion: 2
         x: 1301
@@ -777,9 +1702,20 @@ TextureImporter:
         width: 151
         height: 192
       alignment: 9
-      pivot: {x: -.350993365, y: 1.33333337}
+      pivot: {x: -0.35099337, y: 1.3333334}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Nc2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Nc2
       rect:
         serializedVersion: 2
         x: 1454
@@ -787,9 +1723,20 @@ TextureImporter:
         width: 102
         height: 192
       alignment: 9
-      pivot: {x: -.666666687, y: 1.33333337}
+      pivot: {x: -0.6666667, y: 1.3333334}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Nc3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Nc3
       rect:
         serializedVersion: 2
         x: 1558
@@ -797,9 +1744,20 @@ TextureImporter:
         width: 115
         height: 192
       alignment: 9
-      pivot: {x: -.443478256, y: 1.33333337}
+      pivot: {x: -0.44347826, y: 1.3333334}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Nc4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Nc4
       rect:
         serializedVersion: 2
         x: 1675
@@ -807,9 +1765,20 @@ TextureImporter:
         width: 170
         height: 193
       alignment: 9
-      pivot: {x: -.217647061, y: 1.32642484}
+      pivot: {x: -0.21764706, y: 1.3264248}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Nd0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Nd0
       rect:
         serializedVersion: 2
         x: 1847
@@ -817,9 +1786,20 @@ TextureImporter:
         width: 129
         height: 198
       alignment: 9
-      pivot: {x: -.519379854, y: 1.29292929}
+      pivot: {x: -0.51937985, y: 1.2929293}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Nd1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Nd1
       rect:
         serializedVersion: 2
         x: 2
@@ -827,9 +1807,20 @@ TextureImporter:
         width: 118
         height: 198
       alignment: 9
-      pivot: {x: -.788135588, y: 1.29292929}
+      pivot: {x: -0.7881356, y: 1.2929293}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Nd2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a305410000000000800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Nd2
       rect:
         serializedVersion: 2
         x: 122
@@ -837,9 +1828,20 @@ TextureImporter:
         width: 106
         height: 198
       alignment: 9
-      pivot: {x: -.924528301, y: 1.29292929}
+      pivot: {x: -0.9245283, y: 1.2929293}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Nd3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Nd3
       rect:
         serializedVersion: 2
         x: 230
@@ -847,9 +1849,20 @@ TextureImporter:
         width: 123
         height: 198
       alignment: 9
-      pivot: {x: -.544715464, y: 1.29292929}
+      pivot: {x: -0.54471546, y: 1.2929293}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Nd4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Nd4
       rect:
         serializedVersion: 2
         x: 355
@@ -857,9 +1870,20 @@ TextureImporter:
         width: 129
         height: 198
       alignment: 9
-      pivot: {x: -.465116292, y: 1.29292929}
+      pivot: {x: -0.4651163, y: 1.2929293}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Ne0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a305410000000000800000000000000
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Ne0
       rect:
         serializedVersion: 2
         x: 486
@@ -867,9 +1891,20 @@ TextureImporter:
         width: 96
         height: 204
       alignment: 9
-      pivot: {x: -.875, y: 1.25490201}
+      pivot: {x: -0.875, y: 1.254902}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Ne1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Ne1
       rect:
         serializedVersion: 2
         x: 584
@@ -877,9 +1912,20 @@ TextureImporter:
         width: 78
         height: 204
       alignment: 9
-      pivot: {x: -1.25641024, y: 1.25490201}
+      pivot: {x: -1.2564102, y: 1.254902}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Ne2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Ne2
       rect:
         serializedVersion: 2
         x: 664
@@ -887,9 +1933,20 @@ TextureImporter:
         width: 108
         height: 204
       alignment: 9
-      pivot: {x: -.962962985, y: 1.25490201}
+      pivot: {x: -0.962963, y: 1.254902}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Ne3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea305410000000000800000000000000
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Ne3
       rect:
         serializedVersion: 2
         x: 774
@@ -897,9 +1954,20 @@ TextureImporter:
         width: 122
         height: 204
       alignment: 9
-      pivot: {x: -.631147563, y: 1.25490201}
+      pivot: {x: -0.63114756, y: 1.254902}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Ne4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b305410000000000800000000000000
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Ne4
       rect:
         serializedVersion: 2
         x: 898
@@ -907,9 +1975,20 @@ TextureImporter:
         width: 96
         height: 204
       alignment: 9
-      pivot: {x: -.791666687, y: 1.25490201}
+      pivot: {x: -0.7916667, y: 1.254902}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Sa0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b305410000000000800000000000000
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Sa0
       rect:
         serializedVersion: 2
         x: 996
@@ -917,9 +1996,20 @@ TextureImporter:
         width: 88
         height: 207
       alignment: 9
-      pivot: {x: -.988636374, y: 1.23671496}
+      pivot: {x: -0.9886364, y: 1.236715}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Sa1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b305410000000000800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Sa1
       rect:
         serializedVersion: 2
         x: 1086
@@ -927,9 +2017,20 @@ TextureImporter:
         width: 108
         height: 207
       alignment: 9
-      pivot: {x: -.796296299, y: 1.23671496}
+      pivot: {x: -0.7962963, y: 1.236715}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Sa2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b305410000000000800000000000000
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Sa2
       rect:
         serializedVersion: 2
         x: 1196
@@ -937,9 +2038,20 @@ TextureImporter:
         width: 127
         height: 207
       alignment: 9
-      pivot: {x: -.677165329, y: 1.23671496}
+      pivot: {x: -0.6771653, y: 1.236715}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Sa3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b305410000000000800000000000000
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Sa3
       rect:
         serializedVersion: 2
         x: 1325
@@ -947,9 +2059,20 @@ TextureImporter:
         width: 117
         height: 207
       alignment: 9
-      pivot: {x: -.56410259, y: 1.23671496}
+      pivot: {x: -0.5641026, y: 1.236715}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Sa4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab305410000000000800000000000000
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Sa4
       rect:
         serializedVersion: 2
         x: 1444
@@ -957,9 +2080,20 @@ TextureImporter:
         width: 89
         height: 207
       alignment: 9
-      pivot: {x: -.898876429, y: 1.23671496}
+      pivot: {x: -0.8988764, y: 1.236715}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Wa0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb305410000000000800000000000000
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Wa0
       rect:
         serializedVersion: 2
         x: 1535
@@ -967,9 +2101,20 @@ TextureImporter:
         width: 100
         height: 208
       alignment: 9
-      pivot: {x: -.879999995, y: 1.22596157}
+      pivot: {x: -0.88, y: 1.2259616}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Wa1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb305410000000000800000000000000
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Wa1
       rect:
         serializedVersion: 2
         x: 1637
@@ -977,9 +2122,20 @@ TextureImporter:
         width: 118
         height: 208
       alignment: 9
-      pivot: {x: -.737288117, y: 1.22596157}
+      pivot: {x: -0.7372881, y: 1.2259616}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Wa2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c305410000000000800000000000000
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Wa2
       rect:
         serializedVersion: 2
         x: 1757
@@ -987,9 +2143,20 @@ TextureImporter:
         width: 144
         height: 208
       alignment: 9
-      pivot: {x: -.479166657, y: 1.22596157}
+      pivot: {x: -0.47916666, y: 1.2259616}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Wa3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c305410000000000800000000000000
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Wa3
       rect:
         serializedVersion: 2
         x: 1903
@@ -997,9 +2164,20 @@ TextureImporter:
         width: 113
         height: 208
       alignment: 9
-      pivot: {x: -.513274312, y: 1.22596157}
+      pivot: {x: -0.5132743, y: 1.2259616}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Wa4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c305410000000000800000000000000
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Wa4
       rect:
         serializedVersion: 2
         x: 2
@@ -1007,9 +2185,20 @@ TextureImporter:
         width: 101
         height: 208
       alignment: 9
-      pivot: {x: -.663366318, y: 1.22596157}
+      pivot: {x: -0.6633663, y: 1.2259616}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Wb0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c305410000000000800000000000000
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Wb0
       rect:
         serializedVersion: 2
         x: 105
@@ -1017,9 +2206,20 @@ TextureImporter:
         width: 86
         height: 204
       alignment: 9
-      pivot: {x: -1.04651165, y: 1.25}
+      pivot: {x: -1.0465117, y: 1.25}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Wb1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c305410000000000800000000000000
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Wb1
       rect:
         serializedVersion: 2
         x: 193
@@ -1027,9 +2227,20 @@ TextureImporter:
         width: 116
         height: 204
       alignment: 9
-      pivot: {x: -.767241359, y: 1.25}
+      pivot: {x: -0.76724136, y: 1.25}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Wb2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac305410000000000800000000000000
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Wb2
       rect:
         serializedVersion: 2
         x: 311
@@ -1037,9 +2248,20 @@ TextureImporter:
         width: 136
         height: 204
       alignment: 9
-      pivot: {x: -.529411793, y: 1.25}
+      pivot: {x: -0.5294118, y: 1.25}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Wb3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc305410000000000800000000000000
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Wb3
       rect:
         serializedVersion: 2
         x: 449
@@ -1047,9 +2269,20 @@ TextureImporter:
         width: 118
         height: 204
       alignment: 9
-      pivot: {x: -.466101706, y: 1.25}
+      pivot: {x: -0.4661017, y: 1.25}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Wb4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec305410000000000800000000000000
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Wb4
       rect:
         serializedVersion: 2
         x: 569
@@ -1057,9 +2290,20 @@ TextureImporter:
         width: 87
         height: 204
       alignment: 9
-      pivot: {x: -.908045948, y: 1.25}
+      pivot: {x: -0.90804595, y: 1.25}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Wc0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d305410000000000800000000000000
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Wc0
       rect:
         serializedVersion: 2
         x: 658
@@ -1067,9 +2311,20 @@ TextureImporter:
         width: 86
         height: 201
       alignment: 9
-      pivot: {x: -1.02325583, y: 1.27363181}
+      pivot: {x: -1.0232558, y: 1.2736318}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Wc1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d305410000000000800000000000000
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Wc1
       rect:
         serializedVersion: 2
         x: 746
@@ -1077,9 +2332,20 @@ TextureImporter:
         width: 116
         height: 201
       alignment: 9
-      pivot: {x: -.75, y: 1.27363181}
+      pivot: {x: -0.75, y: 1.2736318}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Wc2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d305410000000000800000000000000
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Wc2
       rect:
         serializedVersion: 2
         x: 864
@@ -1087,9 +2353,20 @@ TextureImporter:
         width: 143
         height: 201
       alignment: 9
-      pivot: {x: -.398601413, y: 1.27363181}
+      pivot: {x: -0.3986014, y: 1.2736318}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Wc3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d305410000000000800000000000000
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Wc3
       rect:
         serializedVersion: 2
         x: 1009
@@ -1097,9 +2374,20 @@ TextureImporter:
         width: 137
         height: 201
       alignment: 9
-      pivot: {x: -.343065679, y: 1.27363181}
+      pivot: {x: -0.34306568, y: 1.2736318}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Wc4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d305410000000000800000000000000
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Wc4
       rect:
         serializedVersion: 2
         x: 1148
@@ -1107,9 +2395,20 @@ TextureImporter:
         width: 86
         height: 201
       alignment: 9
-      pivot: {x: -.95348835, y: 1.27363181}
+      pivot: {x: -0.95348835, y: 1.2736318}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Wd0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad305410000000000800000000000000
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Wd0
       rect:
         serializedVersion: 2
         x: 1236
@@ -1117,9 +2416,20 @@ TextureImporter:
         width: 83
         height: 205
       alignment: 9
-      pivot: {x: -1.07228911, y: 1.24878049}
+      pivot: {x: -1.0722891, y: 1.2487805}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Wd1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd305410000000000800000000000000
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Wd1
       rect:
         serializedVersion: 2
         x: 1321
@@ -1127,9 +2437,20 @@ TextureImporter:
         width: 130
         height: 205
       alignment: 9
-      pivot: {x: -.569230795, y: 1.24878049}
+      pivot: {x: -0.5692308, y: 1.2487805}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Wd2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed305410000000000800000000000000
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Wd2
       rect:
         serializedVersion: 2
         x: 1453
@@ -1137,9 +2458,20 @@ TextureImporter:
         width: 142
         height: 205
       alignment: 9
-      pivot: {x: -.42957747, y: 1.24878049}
+      pivot: {x: -0.42957747, y: 1.2487805}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Wd3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e305410000000000800000000000000
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Wd3
       rect:
         serializedVersion: 2
         x: 1597
@@ -1147,9 +2479,20 @@ TextureImporter:
         width: 131
         height: 205
       alignment: 9
-      pivot: {x: -.381679386, y: 1.24878049}
+      pivot: {x: -0.3816794, y: 1.2487805}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Wd4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e305410000000000800000000000000
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Wd4
       rect:
         serializedVersion: 2
         x: 1730
@@ -1157,9 +2500,20 @@ TextureImporter:
         width: 84
         height: 205
       alignment: 9
-      pivot: {x: -.988095224, y: 1.24878049}
+      pivot: {x: -0.9880952, y: 1.2487805}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214We0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e305410000000000800000000000000
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214We0
       rect:
         serializedVersion: 2
         x: 1816
@@ -1167,9 +2521,20 @@ TextureImporter:
         width: 93
         height: 209
       alignment: 9
-      pivot: {x: -.870967746, y: 1.22488034}
+      pivot: {x: -0.87096775, y: 1.2248803}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214We1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e305410000000000800000000000000
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214We1
       rect:
         serializedVersion: 2
         x: 1911
@@ -1177,9 +2542,20 @@ TextureImporter:
         width: 123
         height: 209
       alignment: 9
-      pivot: {x: -.658536613, y: 1.22488034}
+      pivot: {x: -0.6585366, y: 1.2248803}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214We2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e305410000000000800000000000000
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214We2
       rect:
         serializedVersion: 2
         x: 2
@@ -1187,9 +2563,20 @@ TextureImporter:
         width: 137
         height: 209
       alignment: 9
-      pivot: {x: -.540145993, y: 1.22488034}
+      pivot: {x: -0.540146, y: 1.2248803}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214We3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae305410000000000800000000000000
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214We3
       rect:
         serializedVersion: 2
         x: 141
@@ -1197,9 +2584,20 @@ TextureImporter:
         width: 119
         height: 209
       alignment: 9
-      pivot: {x: -.49579832, y: 1.22488034}
+      pivot: {x: -0.49579832, y: 1.2248803}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214We4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce305410000000000800000000000000
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214We4
       rect:
         serializedVersion: 2
         x: 262
@@ -1207,9 +2605,20 @@ TextureImporter:
         width: 93
         height: 209
       alignment: 9
-      pivot: {x: -.881720424, y: 1.22488034}
+      pivot: {x: -0.8817204, y: 1.2248803}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Wf0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee305410000000000800000000000000
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Wf0
       rect:
         serializedVersion: 2
         x: 357
@@ -1217,9 +2626,20 @@ TextureImporter:
         width: 100
         height: 205
       alignment: 9
-      pivot: {x: -.790000021, y: 1.24878049}
+      pivot: {x: -0.79, y: 1.2487805}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Wf1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f305410000000000800000000000000
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Wf1
       rect:
         serializedVersion: 2
         x: 459
@@ -1227,9 +2647,20 @@ TextureImporter:
         width: 115
         height: 205
       alignment: 9
-      pivot: {x: -.782608688, y: 1.24878049}
+      pivot: {x: -0.7826087, y: 1.2487805}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Wf2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f305410000000000800000000000000
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Wf2
       rect:
         serializedVersion: 2
         x: 576
@@ -1237,9 +2668,20 @@ TextureImporter:
         width: 133
         height: 205
       alignment: 9
-      pivot: {x: -.616541326, y: 1.24878049}
+      pivot: {x: -0.6165413, y: 1.2487805}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Wf3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f305410000000000800000000000000
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Wf3
       rect:
         serializedVersion: 2
         x: 711
@@ -1247,9 +2689,20 @@ TextureImporter:
         width: 116
         height: 205
       alignment: 9
-      pivot: {x: -.517241359, y: 1.24878049}
+      pivot: {x: -0.51724136, y: 1.2487805}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Wf4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f305410000000000800000000000000
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Wf4
       rect:
         serializedVersion: 2
         x: 829
@@ -1257,9 +2710,20 @@ TextureImporter:
         width: 100
         height: 205
       alignment: 9
-      pivot: {x: -.769999981, y: 1.24878049}
+      pivot: {x: -0.77, y: 1.2487805}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Wg0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f305410000000000800000000000000
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Wg0
       rect:
         serializedVersion: 2
         x: 931
@@ -1267,9 +2731,20 @@ TextureImporter:
         width: 106
         height: 201
       alignment: 9
-      pivot: {x: -.754716992, y: 1.27363181}
+      pivot: {x: -0.754717, y: 1.2736318}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Wg1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af305410000000000800000000000000
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Wg1
       rect:
         serializedVersion: 2
         x: 1039
@@ -1277,9 +2752,20 @@ TextureImporter:
         width: 114
         height: 201
       alignment: 9
-      pivot: {x: -.771929801, y: 1.27363181}
+      pivot: {x: -0.7719298, y: 1.2736318}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Wg2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf305410000000000800000000000000
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Wg2
       rect:
         serializedVersion: 2
         x: 1155
@@ -1287,9 +2773,20 @@ TextureImporter:
         width: 142
         height: 201
       alignment: 9
-      pivot: {x: -.535211265, y: 1.27363181}
+      pivot: {x: -0.53521127, y: 1.2736318}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Wg3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef305410000000000800000000000000
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Wg3
       rect:
         serializedVersion: 2
         x: 1299
@@ -1297,9 +2794,20 @@ TextureImporter:
         width: 117
         height: 201
       alignment: 9
-      pivot: {x: -.555555582, y: 1.27363181}
+      pivot: {x: -0.5555556, y: 1.2736318}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Wg4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00405410000000000800000000000000
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Wg4
       rect:
         serializedVersion: 2
         x: 1418
@@ -1307,9 +2815,20 @@ TextureImporter:
         width: 106
         height: 201
       alignment: 9
-      pivot: {x: -.660377383, y: 1.27363181}
+      pivot: {x: -0.6603774, y: 1.2736318}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Wh0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20405410000000000800000000000000
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Wh0
       rect:
         serializedVersion: 2
         x: 1526
@@ -1317,9 +2836,20 @@ TextureImporter:
         width: 103
         height: 204
       alignment: 9
-      pivot: {x: -.815533996, y: 1.25490201}
+      pivot: {x: -0.815534, y: 1.254902}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Wh1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40405410000000000800000000000000
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Wh1
       rect:
         serializedVersion: 2
         x: 1631
@@ -1327,9 +2857,20 @@ TextureImporter:
         width: 118
         height: 204
       alignment: 9
-      pivot: {x: -.703389823, y: 1.25490201}
+      pivot: {x: -0.7033898, y: 1.254902}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Wh2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60405410000000000800000000000000
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Wh2
       rect:
         serializedVersion: 2
         x: 1751
@@ -1337,9 +2878,20 @@ TextureImporter:
         width: 151
         height: 204
       alignment: 9
-      pivot: {x: -.423841059, y: 1.25490201}
+      pivot: {x: -0.42384106, y: 1.254902}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Wh3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80405410000000000800000000000000
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Wh3
       rect:
         serializedVersion: 2
         x: 1904
@@ -1347,9 +2899,20 @@ TextureImporter:
         width: 113
         height: 204
       alignment: 9
-      pivot: {x: -.584070802, y: 1.25490201}
+      pivot: {x: -0.5840708, y: 1.254902}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Wh4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0405410000000000800000000000000
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Wh4
       rect:
         serializedVersion: 2
         x: 2
@@ -1357,9 +2920,20 @@ TextureImporter:
         width: 104
         height: 204
       alignment: 9
-      pivot: {x: -.653846145, y: 1.25490201}
+      pivot: {x: -0.65384614, y: 1.254902}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: M214Xa0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0405410000000000800000000000000
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M214Xa0
       rect:
         serializedVersion: 2
         x: 108
@@ -1367,9 +2941,31 @@ TextureImporter:
         width: 206
         height: 56
       alignment: 9
-      pivot: {x: -.242718443, y: 4.57142878}
+      pivot: {x: -0.24271844, y: 4.571429}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0405410000000000800000000000000
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

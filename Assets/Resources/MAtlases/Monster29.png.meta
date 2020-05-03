@@ -1,183 +1,464 @@
 fileFormatVersion: 2
 guid: 36583fea6a37cbc41858f8f5076043c0
-timeCreated: 1442628579
-licenseType: Pro
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: MM262Aa0
-    21300002: MM262Aa1
-    21300004: MM262Aa2
-    21300006: MM262Aa3
-    21300008: MM262Aa4
-    21300010: MM262Ab0
-    21300012: MM262Ab1
-    21300014: MM262Ab2
-    21300016: MM262Ab3
-    21300018: MM262Ab4
-    21300020: MM262Ac0
-    21300022: MM262Ac1
-    21300024: MM262Ac2
-    21300026: MM262Ac3
-    21300028: MM262Ac4
-    21300030: MM262Ad0
-    21300032: MM262Ad1
-    21300034: MM262Ad2
-    21300036: MM262Ad3
-    21300038: MM262Ad4
-    21300040: MM262Ae0
-    21300042: MM262Ae1
-    21300044: MM262Ae2
-    21300046: MM262Ae3
-    21300048: MM262Ae4
-    21300050: MM262Af0
-    21300052: MM262Af1
-    21300054: MM262Af2
-    21300056: MM262Af3
-    21300058: MM262Af4
-    21300060: MM262Ag0
-    21300062: MM262Ag1
-    21300064: MM262Ag2
-    21300066: MM262Ag3
-    21300068: MM262Ag4
-    21300070: MM262Ah0
-    21300072: MM262Ah1
-    21300074: MM262Ah2
-    21300076: MM262Ah3
-    21300078: MM262Ah4
-    21300080: MM262Da0
-    21300082: MM262Db0
-    21300084: MM262Dc0
-    21300086: MM262Dd0
-    21300088: MM262De0
-    21300090: MM262Df0
-    21300092: MM262Dg0
-    21300094: MM262Na0
-    21300096: MM262Na1
-    21300098: MM262Na2
-    21300100: MM262Na3
-    21300102: MM262Na4
-    21300104: MM262Nb0
-    21300106: MM262Nb1
-    21300108: MM262Nb2
-    21300110: MM262Nb3
-    21300112: MM262Nb4
-    21300114: MM262Nc0
-    21300116: MM262Nc1
-    21300118: MM262Nc2
-    21300120: MM262Nc3
-    21300122: MM262Nc4
-    21300124: MM262Nd0
-    21300126: MM262Nd1
-    21300128: MM262Nd2
-    21300130: MM262Nd3
-    21300132: MM262Nd4
-    21300134: MM262Ne0
-    21300136: MM262Ne1
-    21300138: MM262Ne2
-    21300140: MM262Ne3
-    21300142: MM262Ne4
-    21300144: MM262Nf0
-    21300146: MM262Nf1
-    21300148: MM262Nf2
-    21300150: MM262Nf3
-    21300152: MM262Nf4
-    21300154: MM262Ng0
-    21300156: MM262Ng1
-    21300158: MM262Ng2
-    21300160: MM262Ng3
-    21300162: MM262Ng4
-    21300164: MM262Nh0
-    21300166: MM262Nh1
-    21300168: MM262Nh2
-    21300170: MM262Nh3
-    21300172: MM262Nh4
-    21300174: MM262Wa0
-    21300176: MM262Wa1
-    21300178: MM262Wa2
-    21300180: MM262Wa3
-    21300182: MM262Wa4
-    21300184: MM262Wb0
-    21300186: MM262Wb1
-    21300188: MM262Wb2
-    21300190: MM262Wb3
-    21300192: MM262Wb4
-    21300194: MM262Wc0
-    21300196: MM262Wc1
-    21300198: MM262Wc2
-    21300200: MM262Wc3
-    21300202: MM262Wc4
-    21300204: MM262Wd0
-    21300206: MM262Wd1
-    21300208: MM262Wd2
-    21300210: MM262Wd3
-    21300212: MM262Wd4
-    21300214: MM262We0
-    21300216: MM262We1
-    21300218: MM262We2
-    21300220: MM262We3
-    21300222: MM262We4
-    21300224: MM262Wf0
-    21300226: MM262Wf1
-    21300228: MM262Wf2
-    21300230: MM262Wf3
-    21300232: MM262Wf4
-    21300234: MM262Wg0
-    21300236: MM262Wg1
-    21300238: MM262Wg2
-    21300240: MM262Wg3
-    21300242: MM262Wg4
-    21300244: MM262Wh0
-    21300246: MM262Wh1
-    21300248: MM262Wh2
-    21300250: MM262Wh3
-    21300252: MM262Wh4
-    21300254: MM262Xa0
-  serializedVersion: 2
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: MM262Aa0
+  - first:
+      213: 21300002
+    second: MM262Aa1
+  - first:
+      213: 21300004
+    second: MM262Aa2
+  - first:
+      213: 21300006
+    second: MM262Aa3
+  - first:
+      213: 21300008
+    second: MM262Aa4
+  - first:
+      213: 21300010
+    second: MM262Ab0
+  - first:
+      213: 21300012
+    second: MM262Ab1
+  - first:
+      213: 21300014
+    second: MM262Ab2
+  - first:
+      213: 21300016
+    second: MM262Ab3
+  - first:
+      213: 21300018
+    second: MM262Ab4
+  - first:
+      213: 21300020
+    second: MM262Ac0
+  - first:
+      213: 21300022
+    second: MM262Ac1
+  - first:
+      213: 21300024
+    second: MM262Ac2
+  - first:
+      213: 21300026
+    second: MM262Ac3
+  - first:
+      213: 21300028
+    second: MM262Ac4
+  - first:
+      213: 21300030
+    second: MM262Ad0
+  - first:
+      213: 21300032
+    second: MM262Ad1
+  - first:
+      213: 21300034
+    second: MM262Ad2
+  - first:
+      213: 21300036
+    second: MM262Ad3
+  - first:
+      213: 21300038
+    second: MM262Ad4
+  - first:
+      213: 21300040
+    second: MM262Ae0
+  - first:
+      213: 21300042
+    second: MM262Ae1
+  - first:
+      213: 21300044
+    second: MM262Ae2
+  - first:
+      213: 21300046
+    second: MM262Ae3
+  - first:
+      213: 21300048
+    second: MM262Ae4
+  - first:
+      213: 21300050
+    second: MM262Af0
+  - first:
+      213: 21300052
+    second: MM262Af1
+  - first:
+      213: 21300054
+    second: MM262Af2
+  - first:
+      213: 21300056
+    second: MM262Af3
+  - first:
+      213: 21300058
+    second: MM262Af4
+  - first:
+      213: 21300060
+    second: MM262Ag0
+  - first:
+      213: 21300062
+    second: MM262Ag1
+  - first:
+      213: 21300064
+    second: MM262Ag2
+  - first:
+      213: 21300066
+    second: MM262Ag3
+  - first:
+      213: 21300068
+    second: MM262Ag4
+  - first:
+      213: 21300070
+    second: MM262Ah0
+  - first:
+      213: 21300072
+    second: MM262Ah1
+  - first:
+      213: 21300074
+    second: MM262Ah2
+  - first:
+      213: 21300076
+    second: MM262Ah3
+  - first:
+      213: 21300078
+    second: MM262Ah4
+  - first:
+      213: 21300080
+    second: MM262Da0
+  - first:
+      213: 21300082
+    second: MM262Db0
+  - first:
+      213: 21300084
+    second: MM262Dc0
+  - first:
+      213: 21300086
+    second: MM262Dd0
+  - first:
+      213: 21300088
+    second: MM262De0
+  - first:
+      213: 21300090
+    second: MM262Df0
+  - first:
+      213: 21300092
+    second: MM262Dg0
+  - first:
+      213: 21300094
+    second: MM262Na0
+  - first:
+      213: 21300096
+    second: MM262Na1
+  - first:
+      213: 21300098
+    second: MM262Na2
+  - first:
+      213: 21300100
+    second: MM262Na3
+  - first:
+      213: 21300102
+    second: MM262Na4
+  - first:
+      213: 21300104
+    second: MM262Nb0
+  - first:
+      213: 21300106
+    second: MM262Nb1
+  - first:
+      213: 21300108
+    second: MM262Nb2
+  - first:
+      213: 21300110
+    second: MM262Nb3
+  - first:
+      213: 21300112
+    second: MM262Nb4
+  - first:
+      213: 21300114
+    second: MM262Nc0
+  - first:
+      213: 21300116
+    second: MM262Nc1
+  - first:
+      213: 21300118
+    second: MM262Nc2
+  - first:
+      213: 21300120
+    second: MM262Nc3
+  - first:
+      213: 21300122
+    second: MM262Nc4
+  - first:
+      213: 21300124
+    second: MM262Nd0
+  - first:
+      213: 21300126
+    second: MM262Nd1
+  - first:
+      213: 21300128
+    second: MM262Nd2
+  - first:
+      213: 21300130
+    second: MM262Nd3
+  - first:
+      213: 21300132
+    second: MM262Nd4
+  - first:
+      213: 21300134
+    second: MM262Ne0
+  - first:
+      213: 21300136
+    second: MM262Ne1
+  - first:
+      213: 21300138
+    second: MM262Ne2
+  - first:
+      213: 21300140
+    second: MM262Ne3
+  - first:
+      213: 21300142
+    second: MM262Ne4
+  - first:
+      213: 21300144
+    second: MM262Nf0
+  - first:
+      213: 21300146
+    second: MM262Nf1
+  - first:
+      213: 21300148
+    second: MM262Nf2
+  - first:
+      213: 21300150
+    second: MM262Nf3
+  - first:
+      213: 21300152
+    second: MM262Nf4
+  - first:
+      213: 21300154
+    second: MM262Ng0
+  - first:
+      213: 21300156
+    second: MM262Ng1
+  - first:
+      213: 21300158
+    second: MM262Ng2
+  - first:
+      213: 21300160
+    second: MM262Ng3
+  - first:
+      213: 21300162
+    second: MM262Ng4
+  - first:
+      213: 21300164
+    second: MM262Nh0
+  - first:
+      213: 21300166
+    second: MM262Nh1
+  - first:
+      213: 21300168
+    second: MM262Nh2
+  - first:
+      213: 21300170
+    second: MM262Nh3
+  - first:
+      213: 21300172
+    second: MM262Nh4
+  - first:
+      213: 21300174
+    second: MM262Wa0
+  - first:
+      213: 21300176
+    second: MM262Wa1
+  - first:
+      213: 21300178
+    second: MM262Wa2
+  - first:
+      213: 21300180
+    second: MM262Wa3
+  - first:
+      213: 21300182
+    second: MM262Wa4
+  - first:
+      213: 21300184
+    second: MM262Wb0
+  - first:
+      213: 21300186
+    second: MM262Wb1
+  - first:
+      213: 21300188
+    second: MM262Wb2
+  - first:
+      213: 21300190
+    second: MM262Wb3
+  - first:
+      213: 21300192
+    second: MM262Wb4
+  - first:
+      213: 21300194
+    second: MM262Wc0
+  - first:
+      213: 21300196
+    second: MM262Wc1
+  - first:
+      213: 21300198
+    second: MM262Wc2
+  - first:
+      213: 21300200
+    second: MM262Wc3
+  - first:
+      213: 21300202
+    second: MM262Wc4
+  - first:
+      213: 21300204
+    second: MM262Wd0
+  - first:
+      213: 21300206
+    second: MM262Wd1
+  - first:
+      213: 21300208
+    second: MM262Wd2
+  - first:
+      213: 21300210
+    second: MM262Wd3
+  - first:
+      213: 21300212
+    second: MM262Wd4
+  - first:
+      213: 21300214
+    second: MM262We0
+  - first:
+      213: 21300216
+    second: MM262We1
+  - first:
+      213: 21300218
+    second: MM262We2
+  - first:
+      213: 21300220
+    second: MM262We3
+  - first:
+      213: 21300222
+    second: MM262We4
+  - first:
+      213: 21300224
+    second: MM262Wf0
+  - first:
+      213: 21300226
+    second: MM262Wf1
+  - first:
+      213: 21300228
+    second: MM262Wf2
+  - first:
+      213: 21300230
+    second: MM262Wf3
+  - first:
+      213: 21300232
+    second: MM262Wf4
+  - first:
+      213: 21300234
+    second: MM262Wg0
+  - first:
+      213: 21300236
+    second: MM262Wg1
+  - first:
+      213: 21300238
+    second: MM262Wg2
+  - first:
+      213: 21300240
+    second: MM262Wg3
+  - first:
+      213: 21300242
+    second: MM262Wg4
+  - first:
+      213: 21300244
+    second: MM262Wh0
+  - first:
+      213: 21300246
+    second: MM262Wh1
+  - first:
+      213: 21300248
+    second: MM262Wh2
+  - first:
+      213: 21300250
+    second: MM262Wh3
+  - first:
+      213: 21300252
+    second: MM262Wh4
+  - first:
+      213: 21300254
+    second: MM262Xa0
+  externalObjects: {}
+  serializedVersion: 10
   mipmaps:
     mipMapMode: 0
     enableMipMap: 1
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
     convertToNormalMap: 0
     externalNormalMap: 0
-    heightScale: .25
+    heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
   cubemapConvolution: 0
-  cubemapConvolutionSteps: 8
-  cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -1
   maxTextureSize: 4096
   textureSettings:
+    serializedVersion: 2
     filterMode: -1
     aniso: -1
-    mipBias: -1
-    wrapMode: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
-  rGBM: 0
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
-  spritePivot: {x: .5, y: .5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings: []
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: MM262Aa0
+    - serializedVersion: 2
+      name: MM262Aa0
       rect:
         serializedVersion: 2
         x: 2
@@ -185,9 +466,20 @@ TextureImporter:
         width: 139
         height: 166
       alignment: 9
-      pivot: {x: -.366906464, y: 1.25903618}
+      pivot: {x: -0.36690646, y: 1.2590362}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Aa1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Aa1
       rect:
         serializedVersion: 2
         x: 143
@@ -195,9 +487,20 @@ TextureImporter:
         width: 146
         height: 166
       alignment: 9
-      pivot: {x: -.383561641, y: 1.25903618}
+      pivot: {x: -0.38356164, y: 1.2590362}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Aa2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Aa2
       rect:
         serializedVersion: 2
         x: 291
@@ -205,9 +508,20 @@ TextureImporter:
         width: 111
         height: 166
       alignment: 9
-      pivot: {x: -.77477479, y: 1.25903618}
+      pivot: {x: -0.7747748, y: 1.2590362}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Aa3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Aa3
       rect:
         serializedVersion: 2
         x: 404
@@ -215,9 +529,20 @@ TextureImporter:
         width: 131
         height: 167
       alignment: 9
-      pivot: {x: -.473282456, y: 1.25149703}
+      pivot: {x: -0.47328246, y: 1.251497}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Aa4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Aa4
       rect:
         serializedVersion: 2
         x: 537
@@ -225,9 +550,20 @@ TextureImporter:
         width: 139
         height: 166
       alignment: 9
-      pivot: {x: -.474820137, y: 1.25301206}
+      pivot: {x: -0.47482014, y: 1.2530121}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Ab0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Ab0
       rect:
         serializedVersion: 2
         x: 678
@@ -235,9 +571,20 @@ TextureImporter:
         width: 169
         height: 153
       alignment: 9
-      pivot: {x: -.0769230798, y: 1.33333337}
+      pivot: {x: -0.07692308, y: 1.3333334}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Ab1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Ab1
       rect:
         serializedVersion: 2
         x: 849
@@ -245,9 +592,20 @@ TextureImporter:
         width: 123
         height: 153
       alignment: 9
-      pivot: {x: -.398373991, y: 1.33333337}
+      pivot: {x: -0.398374, y: 1.3333334}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Ab2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Ab2
       rect:
         serializedVersion: 2
         x: 974
@@ -255,9 +613,20 @@ TextureImporter:
         width: 122
         height: 154
       alignment: 9
-      pivot: {x: -.319672137, y: 1.32467532}
+      pivot: {x: -0.31967214, y: 1.3246753}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Ab3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Ab3
       rect:
         serializedVersion: 2
         x: 1098
@@ -265,9 +634,20 @@ TextureImporter:
         width: 183
         height: 154
       alignment: 9
-      pivot: {x: -.207650274, y: 1.32467532}
+      pivot: {x: -0.20765027, y: 1.3246753}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Ab4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Ab4
       rect:
         serializedVersion: 2
         x: 1283
@@ -275,9 +655,20 @@ TextureImporter:
         width: 169
         height: 155
       alignment: 9
-      pivot: {x: -.437869817, y: 1.31612909}
+      pivot: {x: -0.43786982, y: 1.3161291}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Ac0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Ac0
       rect:
         serializedVersion: 2
         x: 1454
@@ -285,9 +676,20 @@ TextureImporter:
         width: 218
         height: 122
       alignment: 9
-      pivot: {x: -.0871559605, y: 1.74590158}
+      pivot: {x: -0.08715596, y: 1.7459016}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Ac1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Ac1
       rect:
         serializedVersion: 2
         x: 1674
@@ -295,9 +697,20 @@ TextureImporter:
         width: 129
         height: 122
       alignment: 9
-      pivot: {x: -.534883738, y: 1.74590158}
+      pivot: {x: -0.53488374, y: 1.7459016}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Ac2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Ac2
       rect:
         serializedVersion: 2
         x: 1805
@@ -305,9 +718,20 @@ TextureImporter:
         width: 111
         height: 121
       alignment: 9
-      pivot: {x: -.729729712, y: 1.75206614}
+      pivot: {x: -0.7297297, y: 1.7520661}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Ac3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Ac3
       rect:
         serializedVersion: 2
         x: 2
@@ -315,9 +739,20 @@ TextureImporter:
         width: 208
         height: 121
       alignment: 9
-      pivot: {x: -.163461536, y: 1.75206614}
+      pivot: {x: -0.16346154, y: 1.7520661}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Ac4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Ac4
       rect:
         serializedVersion: 2
         x: 212
@@ -325,9 +760,20 @@ TextureImporter:
         width: 217
         height: 121
       alignment: 9
-      pivot: {x: -.0875576064, y: 1.75206614}
+      pivot: {x: -0.08755761, y: 1.7520661}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Ad0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Ad0
       rect:
         serializedVersion: 2
         x: 431
@@ -335,9 +781,20 @@ TextureImporter:
         width: 168
         height: 110
       alignment: 9
-      pivot: {x: -.136904761, y: 2.10909081}
+      pivot: {x: -0.13690476, y: 2.1090908}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Ad1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Ad1
       rect:
         serializedVersion: 2
         x: 601
@@ -345,9 +802,20 @@ TextureImporter:
         width: 133
         height: 112
       alignment: 9
-      pivot: {x: -.421052635, y: 2.08035707}
+      pivot: {x: -0.42105263, y: 2.080357}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Ad2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Ad2
       rect:
         serializedVersion: 2
         x: 736
@@ -355,9 +823,20 @@ TextureImporter:
         width: 128
         height: 112
       alignment: 9
-      pivot: {x: -.5859375, y: 2.08035707}
+      pivot: {x: -0.5859375, y: 2.080357}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Ad3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Ad3
       rect:
         serializedVersion: 2
         x: 866
@@ -365,9 +844,20 @@ TextureImporter:
         width: 142
         height: 111
       alignment: 9
-      pivot: {x: -.507042229, y: 2.09909916}
+      pivot: {x: -0.5070422, y: 2.0990992}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Ad4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Ad4
       rect:
         serializedVersion: 2
         x: 1010
@@ -375,9 +865,20 @@ TextureImporter:
         width: 168
         height: 110
       alignment: 9
-      pivot: {x: -.386904776, y: 2.10909081}
+      pivot: {x: -0.38690478, y: 2.1090908}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Ae0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Ae0
       rect:
         serializedVersion: 2
         x: 1180
@@ -385,9 +886,20 @@ TextureImporter:
         width: 143
         height: 127
       alignment: 9
-      pivot: {x: -.314685315, y: 1.8188976}
+      pivot: {x: -0.3146853, y: 1.8188976}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Ae1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Ae1
       rect:
         serializedVersion: 2
         x: 1325
@@ -395,9 +907,20 @@ TextureImporter:
         width: 150
         height: 127
       alignment: 9
-      pivot: {x: -.340000004, y: 1.8188976}
+      pivot: {x: -0.34, y: 1.8188976}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Ae2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Ae2
       rect:
         serializedVersion: 2
         x: 1477
@@ -405,9 +928,20 @@ TextureImporter:
         width: 116
         height: 127
       alignment: 9
-      pivot: {x: -.724137902, y: 1.8188976}
+      pivot: {x: -0.7241379, y: 1.8188976}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Ae3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Ae3
       rect:
         serializedVersion: 2
         x: 1595
@@ -415,9 +949,20 @@ TextureImporter:
         width: 97
         height: 127
       alignment: 9
-      pivot: {x: -.989690721, y: 1.8188976}
+      pivot: {x: -0.9896907, y: 1.8188976}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Ae4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Ae4
       rect:
         serializedVersion: 2
         x: 1694
@@ -425,9 +970,20 @@ TextureImporter:
         width: 142
         height: 128
       alignment: 9
-      pivot: {x: -.485915482, y: 1.8125}
+      pivot: {x: -0.48591548, y: 1.8125}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Af0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Af0
       rect:
         serializedVersion: 2
         x: 1838
@@ -435,9 +991,20 @@ TextureImporter:
         width: 182
         height: 128
       alignment: 9
-      pivot: {x: -.17582418, y: 1.8125}
+      pivot: {x: -0.17582418, y: 1.8125}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Af1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Af1
       rect:
         serializedVersion: 2
         x: 2
@@ -445,9 +1012,20 @@ TextureImporter:
         width: 170
         height: 128
       alignment: 9
-      pivot: {x: -.305882365, y: 1.8125}
+      pivot: {x: -0.30588236, y: 1.8125}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Af2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Af2
       rect:
         serializedVersion: 2
         x: 174
@@ -455,9 +1033,20 @@ TextureImporter:
         width: 110
         height: 128
       alignment: 9
-      pivot: {x: -.836363614, y: 1.8125}
+      pivot: {x: -0.8363636, y: 1.8125}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Af3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Af3
       rect:
         serializedVersion: 2
         x: 286
@@ -465,9 +1054,20 @@ TextureImporter:
         width: 123
         height: 128
       alignment: 9
-      pivot: {x: -.617886186, y: 1.8125}
+      pivot: {x: -0.6178862, y: 1.8125}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Af4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Af4
       rect:
         serializedVersion: 2
         x: 411
@@ -475,9 +1075,20 @@ TextureImporter:
         width: 181
         height: 128
       alignment: 9
-      pivot: {x: -.237569064, y: 1.8125}
+      pivot: {x: -0.23756906, y: 1.8125}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Ag0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Ag0
       rect:
         serializedVersion: 2
         x: 594
@@ -485,9 +1096,20 @@ TextureImporter:
         width: 197
         height: 150
       alignment: 9
-      pivot: {x: -.17766498, y: 1.47333336}
+      pivot: {x: -0.17766498, y: 1.4733334}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Ag1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Ag1
       rect:
         serializedVersion: 2
         x: 793
@@ -495,9 +1117,20 @@ TextureImporter:
         width: 164
         height: 151
       alignment: 9
-      pivot: {x: -.323170722, y: 1.4635762}
+      pivot: {x: -0.32317072, y: 1.4635762}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Ag2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Ag2
       rect:
         serializedVersion: 2
         x: 959
@@ -505,9 +1138,20 @@ TextureImporter:
         width: 113
         height: 151
       alignment: 9
-      pivot: {x: -.78761059, y: 1.4635762}
+      pivot: {x: -0.7876106, y: 1.4635762}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Ag3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Ag3
       rect:
         serializedVersion: 2
         x: 1074
@@ -515,9 +1159,20 @@ TextureImporter:
         width: 144
         height: 151
       alignment: 9
-      pivot: {x: -.409722209, y: 1.4635762}
+      pivot: {x: -0.4097222, y: 1.4635762}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Ag4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Ag4
       rect:
         serializedVersion: 2
         x: 1220
@@ -525,9 +1180,20 @@ TextureImporter:
         width: 197
         height: 150
       alignment: 9
-      pivot: {x: -.121827409, y: 1.47333336}
+      pivot: {x: -0.12182741, y: 1.4733334}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Ah0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Ah0
       rect:
         serializedVersion: 2
         x: 1419
@@ -535,9 +1201,20 @@ TextureImporter:
         width: 116
         height: 186
       alignment: 9
-      pivot: {x: -.560344815, y: 1.1881721}
+      pivot: {x: -0.5603448, y: 1.1881721}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Ah1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Ah1
       rect:
         serializedVersion: 2
         x: 1537
@@ -545,9 +1222,20 @@ TextureImporter:
         width: 126
         height: 186
       alignment: 9
-      pivot: {x: -.547619045, y: 1.1881721}
+      pivot: {x: -0.54761904, y: 1.1881721}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Ah2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Ah2
       rect:
         serializedVersion: 2
         x: 1665
@@ -555,9 +1243,20 @@ TextureImporter:
         width: 113
         height: 186
       alignment: 9
-      pivot: {x: -.78761059, y: 1.1881721}
+      pivot: {x: -0.7876106, y: 1.1881721}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Ah3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Ah3
       rect:
         serializedVersion: 2
         x: 1780
@@ -565,9 +1264,20 @@ TextureImporter:
         width: 128
         height: 186
       alignment: 9
-      pivot: {x: -.59375, y: 1.1881721}
+      pivot: {x: -0.59375, y: 1.1881721}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Ah4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Ah4
       rect:
         serializedVersion: 2
         x: 1910
@@ -575,9 +1285,20 @@ TextureImporter:
         width: 116
         height: 186
       alignment: 9
-      pivot: {x: -.646551728, y: 1.1881721}
+      pivot: {x: -0.6465517, y: 1.1881721}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Da0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Da0
       rect:
         serializedVersion: 2
         x: 2
@@ -585,9 +1306,20 @@ TextureImporter:
         width: 158
         height: 107
       alignment: 9
-      pivot: {x: -.291139245, y: 1.93457949}
+      pivot: {x: -0.29113925, y: 1.9345795}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Db0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Db0
       rect:
         serializedVersion: 2
         x: 162
@@ -595,9 +1327,20 @@ TextureImporter:
         width: 139
         height: 80
       alignment: 9
-      pivot: {x: -.431654662, y: 3.20000005}
+      pivot: {x: -0.43165466, y: 3.2}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Dc0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Dc0
       rect:
         serializedVersion: 2
         x: 303
@@ -605,9 +1348,20 @@ TextureImporter:
         width: 214
         height: 73
       alignment: 9
-      pivot: {x: -.0560747646, y: 3.50684929}
+      pivot: {x: -0.056074765, y: 3.5068493}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Dd0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Dd0
       rect:
         serializedVersion: 2
         x: 519
@@ -615,9 +1369,20 @@ TextureImporter:
         width: 235
         height: 52
       alignment: 9
-      pivot: {x: -.0255319141, y: 4.92307711}
+      pivot: {x: -0.025531914, y: 4.923077}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262De0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262De0
       rect:
         serializedVersion: 2
         x: 756
@@ -625,9 +1390,20 @@ TextureImporter:
         width: 235
         height: 33
       alignment: 9
-      pivot: {x: -.0255319141, y: 7.75757599}
+      pivot: {x: -0.025531914, y: 7.757576}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Df0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Df0
       rect:
         serializedVersion: 2
         x: 993
@@ -635,9 +1411,20 @@ TextureImporter:
         width: 235
         height: 33
       alignment: 9
-      pivot: {x: -.0255319141, y: 7.75757599}
+      pivot: {x: -0.025531914, y: 7.757576}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Dg0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Dg0
       rect:
         serializedVersion: 2
         x: 1230
@@ -645,9 +1432,20 @@ TextureImporter:
         width: 235
         height: 33
       alignment: 9
-      pivot: {x: -.0255319141, y: 7.75757599}
+      pivot: {x: -0.025531914, y: 7.757576}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Na0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Na0
       rect:
         serializedVersion: 2
         x: 1467
@@ -655,9 +1453,20 @@ TextureImporter:
         width: 180
         height: 155
       alignment: 9
-      pivot: {x: -.155555561, y: 1.34193552}
+      pivot: {x: -0.15555556, y: 1.3419355}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Na1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Na1
       rect:
         serializedVersion: 2
         x: 1649
@@ -665,9 +1474,20 @@ TextureImporter:
         width: 157
         height: 155
       alignment: 9
-      pivot: {x: 0, y: 1.34193552}
+      pivot: {x: 0, y: 1.3419355}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Na2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Na2
       rect:
         serializedVersion: 2
         x: 1808
@@ -675,9 +1495,20 @@ TextureImporter:
         width: 111
         height: 155
       alignment: 9
-      pivot: {x: -.342342347, y: 1.33548391}
+      pivot: {x: -0.34234235, y: 1.3354839}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Na3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Na3
       rect:
         serializedVersion: 2
         x: 2
@@ -685,9 +1516,20 @@ TextureImporter:
         width: 171
         height: 155
       alignment: 9
-      pivot: {x: -.0526315793, y: 1.33548391}
+      pivot: {x: -0.05263158, y: 1.3354839}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Na4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Na4
       rect:
         serializedVersion: 2
         x: 175
@@ -695,9 +1537,20 @@ TextureImporter:
         width: 185
         height: 155
       alignment: 9
-      pivot: {x: -.248648643, y: 1.34193552}
+      pivot: {x: -0.24864864, y: 1.3419355}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Nb0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Nb0
       rect:
         serializedVersion: 2
         x: 362
@@ -705,9 +1558,20 @@ TextureImporter:
         width: 212
         height: 131
       alignment: 9
-      pivot: {x: -.0707547143, y: 1.55725193}
+      pivot: {x: -0.070754714, y: 1.5572519}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Nb1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Nb1
       rect:
         serializedVersion: 2
         x: 576
@@ -715,9 +1579,20 @@ TextureImporter:
         width: 137
         height: 130
       alignment: 9
-      pivot: {x: -.299270064, y: 1.56923079}
+      pivot: {x: -0.29927006, y: 1.5692308}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Nb2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Nb2
       rect:
         serializedVersion: 2
         x: 715
@@ -725,9 +1600,20 @@ TextureImporter:
         width: 74
         height: 130
       alignment: 9
-      pivot: {x: -.783783793, y: 1.56923079}
+      pivot: {x: -0.7837838, y: 1.5692308}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Nb3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Nb3
       rect:
         serializedVersion: 2
         x: 791
@@ -735,9 +1621,20 @@ TextureImporter:
         width: 167
         height: 131
       alignment: 9
-      pivot: {x: -.215568855, y: 1.55725193}
+      pivot: {x: -0.21556886, y: 1.5572519}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Nb4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Nb4
       rect:
         serializedVersion: 2
         x: 960
@@ -745,9 +1642,20 @@ TextureImporter:
         width: 213
         height: 131
       alignment: 9
-      pivot: {x: -.131455392, y: 1.55725193}
+      pivot: {x: -0.13145539, y: 1.5572519}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Nc0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Nc0
       rect:
         serializedVersion: 2
         x: 1175
@@ -755,9 +1663,20 @@ TextureImporter:
         width: 135
         height: 137
       alignment: 9
-      pivot: {x: -.451851845, y: 1.5474453}
+      pivot: {x: -0.45185184, y: 1.5474453}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Nc1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Nc1
       rect:
         serializedVersion: 2
         x: 1312
@@ -765,9 +1684,20 @@ TextureImporter:
         width: 129
         height: 137
       alignment: 9
-      pivot: {x: -.426356584, y: 1.5474453}
+      pivot: {x: -0.42635658, y: 1.5474453}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Nc2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Nc2
       rect:
         serializedVersion: 2
         x: 1443
@@ -775,9 +1705,20 @@ TextureImporter:
         width: 104
         height: 137
       alignment: 9
-      pivot: {x: -.586538434, y: 1.5474453}
+      pivot: {x: -0.58653843, y: 1.5474453}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Nc3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Nc3
       rect:
         serializedVersion: 2
         x: 1549
@@ -785,9 +1726,20 @@ TextureImporter:
         width: 133
         height: 138
       alignment: 9
-      pivot: {x: -.503759384, y: 1.53623188}
+      pivot: {x: -0.5037594, y: 1.5362319}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Nc4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Nc4
       rect:
         serializedVersion: 2
         x: 1684
@@ -795,9 +1747,20 @@ TextureImporter:
         width: 135
         height: 138
       alignment: 9
-      pivot: {x: -.444444448, y: 1.53623188}
+      pivot: {x: -0.44444445, y: 1.5362319}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Nd0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Nd0
       rect:
         serializedVersion: 2
         x: 1821
@@ -805,9 +1768,20 @@ TextureImporter:
         width: 154
         height: 133
       alignment: 9
-      pivot: {x: -.298701286, y: 1.67669177}
+      pivot: {x: -0.2987013, y: 1.6766918}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Nd1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Nd1
       rect:
         serializedVersion: 2
         x: 2
@@ -815,9 +1789,20 @@ TextureImporter:
         width: 143
         height: 134
       alignment: 9
-      pivot: {x: -.37062937, y: 1.67164183}
+      pivot: {x: -0.37062937, y: 1.6716418}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Nd2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Nd2
       rect:
         serializedVersion: 2
         x: 147
@@ -825,9 +1810,20 @@ TextureImporter:
         width: 85
         height: 134
       alignment: 9
-      pivot: {x: -.917647064, y: 1.67164183}
+      pivot: {x: -0.91764706, y: 1.6716418}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Nd3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Nd3
       rect:
         serializedVersion: 2
         x: 234
@@ -835,9 +1831,20 @@ TextureImporter:
         width: 133
         height: 133
       alignment: 9
-      pivot: {x: -.451127827, y: 1.67669177}
+      pivot: {x: -0.45112783, y: 1.6766918}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Nd4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a305410000000000800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Nd4
       rect:
         serializedVersion: 2
         x: 369
@@ -845,9 +1852,20 @@ TextureImporter:
         width: 154
         height: 133
       alignment: 9
-      pivot: {x: -.363636374, y: 1.67669177}
+      pivot: {x: -0.36363637, y: 1.6766918}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Ne0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Ne0
       rect:
         serializedVersion: 2
         x: 525
@@ -855,9 +1873,20 @@ TextureImporter:
         width: 162
         height: 149
       alignment: 9
-      pivot: {x: -.30864197, y: 1.6510067}
+      pivot: {x: -0.30864197, y: 1.6510067}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Ne1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Ne1
       rect:
         serializedVersion: 2
         x: 689
@@ -865,9 +1894,20 @@ TextureImporter:
         width: 150
         height: 149
       alignment: 9
-      pivot: {x: -.446666658, y: 1.6510067}
+      pivot: {x: -0.44666666, y: 1.6510067}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Ne2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a305410000000000800000000000000
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Ne2
       rect:
         serializedVersion: 2
         x: 841
@@ -875,9 +1915,20 @@ TextureImporter:
         width: 107
         height: 148
       alignment: 9
-      pivot: {x: -.878504694, y: 1.6554054}
+      pivot: {x: -0.8785047, y: 1.6554054}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Ne3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Ne3
       rect:
         serializedVersion: 2
         x: 950
@@ -885,9 +1936,20 @@ TextureImporter:
         width: 118
         height: 148
       alignment: 9
-      pivot: {x: -.618644059, y: 1.6554054}
+      pivot: {x: -0.61864406, y: 1.6554054}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Ne4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Ne4
       rect:
         serializedVersion: 2
         x: 1070
@@ -895,9 +1957,20 @@ TextureImporter:
         width: 162
         height: 148
       alignment: 9
-      pivot: {x: -.271604925, y: 1.6554054}
+      pivot: {x: -0.27160493, y: 1.6554054}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Nf0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea305410000000000800000000000000
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Nf0
       rect:
         serializedVersion: 2
         x: 1234
@@ -905,9 +1978,20 @@ TextureImporter:
         width: 183
         height: 183
       alignment: 9
-      pivot: {x: -.360655725, y: 1.27868855}
+      pivot: {x: -0.36065573, y: 1.2786885}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Nf1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b305410000000000800000000000000
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Nf1
       rect:
         serializedVersion: 2
         x: 1419
@@ -915,9 +1999,20 @@ TextureImporter:
         width: 162
         height: 182
       alignment: 9
-      pivot: {x: -.475308657, y: 1.28021979}
+      pivot: {x: -0.47530866, y: 1.2802198}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Nf2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b305410000000000800000000000000
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Nf2
       rect:
         serializedVersion: 2
         x: 1583
@@ -925,9 +2020,20 @@ TextureImporter:
         width: 114
         height: 182
       alignment: 9
-      pivot: {x: -.833333313, y: 1.28021979}
+      pivot: {x: -0.8333333, y: 1.2802198}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Nf3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b305410000000000800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Nf3
       rect:
         serializedVersion: 2
         x: 1699
@@ -935,9 +2041,20 @@ TextureImporter:
         width: 149
         height: 183
       alignment: 9
-      pivot: {x: -.382550329, y: 1.27868855}
+      pivot: {x: -0.38255033, y: 1.2786885}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Nf4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b305410000000000800000000000000
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Nf4
       rect:
         serializedVersion: 2
         x: 1850
@@ -945,9 +2062,20 @@ TextureImporter:
         width: 182
         height: 183
       alignment: 9
-      pivot: {x: -.0439560451, y: 1.27868855}
+      pivot: {x: -0.043956045, y: 1.2786885}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Ng0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b305410000000000800000000000000
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Ng0
       rect:
         serializedVersion: 2
         x: 2
@@ -955,9 +2083,20 @@ TextureImporter:
         width: 162
         height: 184
       alignment: 9
-      pivot: {x: -.413580239, y: 1.19021738}
+      pivot: {x: -0.41358024, y: 1.1902174}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Ng1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab305410000000000800000000000000
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Ng1
       rect:
         serializedVersion: 2
         x: 166
@@ -965,9 +2104,20 @@ TextureImporter:
         width: 133
         height: 184
       alignment: 9
-      pivot: {x: -.571428597, y: 1.19021738}
+      pivot: {x: -0.5714286, y: 1.1902174}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Ng2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb305410000000000800000000000000
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Ng2
       rect:
         serializedVersion: 2
         x: 301
@@ -975,9 +2125,20 @@ TextureImporter:
         width: 118
         height: 183
       alignment: 9
-      pivot: {x: -.737288117, y: 1.19125688}
+      pivot: {x: -0.7372881, y: 1.1912569}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Ng3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb305410000000000800000000000000
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Ng3
       rect:
         serializedVersion: 2
         x: 421
@@ -985,9 +2146,20 @@ TextureImporter:
         width: 148
         height: 183
       alignment: 9
-      pivot: {x: -.358108103, y: 1.19125688}
+      pivot: {x: -0.3581081, y: 1.1912569}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Ng4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c305410000000000800000000000000
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Ng4
       rect:
         serializedVersion: 2
         x: 571
@@ -995,9 +2167,20 @@ TextureImporter:
         width: 162
         height: 184
       alignment: 9
-      pivot: {x: -.166666672, y: 1.19021738}
+      pivot: {x: -0.16666667, y: 1.1902174}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Nh0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c305410000000000800000000000000
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Nh0
       rect:
         serializedVersion: 2
         x: 735
@@ -1005,9 +2188,20 @@ TextureImporter:
         width: 133
         height: 178
       alignment: 9
-      pivot: {x: -.533834577, y: 1.17977524}
+      pivot: {x: -0.5338346, y: 1.1797752}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Nh1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c305410000000000800000000000000
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Nh1
       rect:
         serializedVersion: 2
         x: 870
@@ -1015,9 +2209,20 @@ TextureImporter:
         width: 121
         height: 179
       alignment: 9
-      pivot: {x: -.611570239, y: 1.17318439}
+      pivot: {x: -0.61157024, y: 1.1731844}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Nh2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c305410000000000800000000000000
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Nh2
       rect:
         serializedVersion: 2
         x: 993
@@ -1025,9 +2230,20 @@ TextureImporter:
         width: 118
         height: 179
       alignment: 9
-      pivot: {x: -.694915235, y: 1.17318439}
+      pivot: {x: -0.69491524, y: 1.1731844}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Nh3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c305410000000000800000000000000
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Nh3
       rect:
         serializedVersion: 2
         x: 1113
@@ -1035,9 +2251,20 @@ TextureImporter:
         width: 142
         height: 179
       alignment: 9
-      pivot: {x: -.408450693, y: 1.17318439}
+      pivot: {x: -0.4084507, y: 1.1731844}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Nh4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac305410000000000800000000000000
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Nh4
       rect:
         serializedVersion: 2
         x: 1257
@@ -1045,9 +2272,20 @@ TextureImporter:
         width: 132
         height: 179
       alignment: 9
-      pivot: {x: -.393939406, y: 1.17318439}
+      pivot: {x: -0.3939394, y: 1.1731844}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Wa0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc305410000000000800000000000000
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Wa0
       rect:
         serializedVersion: 2
         x: 1391
@@ -1055,9 +2293,20 @@ TextureImporter:
         width: 140
         height: 161
       alignment: 9
-      pivot: {x: -.400000006, y: 1.28571427}
+      pivot: {x: -0.4, y: 1.2857143}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Wa1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec305410000000000800000000000000
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Wa1
       rect:
         serializedVersion: 2
         x: 1533
@@ -1065,9 +2314,20 @@ TextureImporter:
         width: 140
         height: 162
       alignment: 9
-      pivot: {x: -.407142848, y: 1.27777779}
+      pivot: {x: -0.40714285, y: 1.2777778}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Wa2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d305410000000000800000000000000
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Wa2
       rect:
         serializedVersion: 2
         x: 1675
@@ -1075,9 +2335,20 @@ TextureImporter:
         width: 109
         height: 163
       alignment: 9
-      pivot: {x: -.80733943, y: 1.26993871}
+      pivot: {x: -0.80733943, y: 1.2699387}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Wa3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d305410000000000800000000000000
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Wa3
       rect:
         serializedVersion: 2
         x: 1786
@@ -1085,9 +2356,20 @@ TextureImporter:
         width: 132
         height: 162
       alignment: 9
-      pivot: {x: -.454545468, y: 1.27777779}
+      pivot: {x: -0.45454547, y: 1.2777778}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Wa4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d305410000000000800000000000000
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Wa4
       rect:
         serializedVersion: 2
         x: 2
@@ -1095,9 +2377,20 @@ TextureImporter:
         width: 140
         height: 161
       alignment: 9
-      pivot: {x: -.428571433, y: 1.27950311}
+      pivot: {x: -0.42857143, y: 1.2795031}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Wb0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d305410000000000800000000000000
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Wb0
       rect:
         serializedVersion: 2
         x: 144
@@ -1105,9 +2398,20 @@ TextureImporter:
         width: 184
         height: 136
       alignment: 9
-      pivot: {x: -.184782609, y: 1.44852936}
+      pivot: {x: -0.18478261, y: 1.4485294}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Wb1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d305410000000000800000000000000
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Wb1
       rect:
         serializedVersion: 2
         x: 330
@@ -1115,9 +2419,20 @@ TextureImporter:
         width: 151
         height: 136
       alignment: 9
-      pivot: {x: -.344370872, y: 1.44852936}
+      pivot: {x: -0.34437087, y: 1.4485294}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Wb2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad305410000000000800000000000000
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Wb2
       rect:
         serializedVersion: 2
         x: 483
@@ -1125,9 +2440,20 @@ TextureImporter:
         width: 111
         height: 137
       alignment: 9
-      pivot: {x: -.783783793, y: 1.43795621}
+      pivot: {x: -0.7837838, y: 1.4379562}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Wb3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd305410000000000800000000000000
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Wb3
       rect:
         serializedVersion: 2
         x: 596
@@ -1135,9 +2461,20 @@ TextureImporter:
         width: 151
         height: 136
       alignment: 9
-      pivot: {x: -.364238411, y: 1.44852936}
+      pivot: {x: -0.3642384, y: 1.4485294}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Wb4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed305410000000000800000000000000
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Wb4
       rect:
         serializedVersion: 2
         x: 749
@@ -1145,9 +2482,20 @@ TextureImporter:
         width: 184
         height: 135
       alignment: 9
-      pivot: {x: -.206521735, y: 1.45925927}
+      pivot: {x: -0.20652173, y: 1.4592593}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Wc0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e305410000000000800000000000000
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Wc0
       rect:
         serializedVersion: 2
         x: 935
@@ -1155,9 +2503,20 @@ TextureImporter:
         width: 224
         height: 109
       alignment: 9
-      pivot: {x: -.0625, y: 1.78899086}
+      pivot: {x: -0.0625, y: 1.7889909}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Wc1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e305410000000000800000000000000
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Wc1
       rect:
         serializedVersion: 2
         x: 1161
@@ -1165,9 +2524,20 @@ TextureImporter:
         width: 170
         height: 109
       alignment: 9
-      pivot: {x: -.31764707, y: 1.78899086}
+      pivot: {x: -0.31764707, y: 1.7889909}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Wc2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e305410000000000800000000000000
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Wc2
       rect:
         serializedVersion: 2
         x: 1333
@@ -1175,9 +2545,20 @@ TextureImporter:
         width: 112
         height: 108
       alignment: 9
-      pivot: {x: -.776785731, y: 1.80555558}
+      pivot: {x: -0.77678573, y: 1.8055556}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Wc3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e305410000000000800000000000000
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Wc3
       rect:
         serializedVersion: 2
         x: 1447
@@ -1185,9 +2566,20 @@ TextureImporter:
         width: 170
         height: 108
       alignment: 9
-      pivot: {x: -.34117648, y: 1.80555558}
+      pivot: {x: -0.34117648, y: 1.8055556}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Wc4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e305410000000000800000000000000
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Wc4
       rect:
         serializedVersion: 2
         x: 1619
@@ -1195,9 +2587,20 @@ TextureImporter:
         width: 223
         height: 108
       alignment: 9
-      pivot: {x: -.0807174891, y: 1.80555558}
+      pivot: {x: -0.08071749, y: 1.8055556}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Wd0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae305410000000000800000000000000
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Wd0
       rect:
         serializedVersion: 2
         x: 1844
@@ -1205,9 +2608,20 @@ TextureImporter:
         width: 138
         height: 114
       alignment: 9
-      pivot: {x: -.413043469, y: 1.71929824}
+      pivot: {x: -0.41304347, y: 1.7192982}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Wd1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce305410000000000800000000000000
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Wd1
       rect:
         serializedVersion: 2
         x: 2
@@ -1215,9 +2629,20 @@ TextureImporter:
         width: 127
         height: 114
       alignment: 9
-      pivot: {x: -.55905509, y: 1.71929824}
+      pivot: {x: -0.5590551, y: 1.7192982}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Wd2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee305410000000000800000000000000
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Wd2
       rect:
         serializedVersion: 2
         x: 131
@@ -1225,9 +2650,20 @@ TextureImporter:
         width: 110
         height: 114
       alignment: 9
-      pivot: {x: -.809090912, y: 1.71929824}
+      pivot: {x: -0.8090909, y: 1.7192982}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Wd3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f305410000000000800000000000000
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Wd3
       rect:
         serializedVersion: 2
         x: 243
@@ -1235,9 +2671,20 @@ TextureImporter:
         width: 127
         height: 113
       alignment: 9
-      pivot: {x: -.582677186, y: 1.72566366}
+      pivot: {x: -0.5826772, y: 1.7256637}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Wd4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f305410000000000800000000000000
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Wd4
       rect:
         serializedVersion: 2
         x: 372
@@ -1245,9 +2692,20 @@ TextureImporter:
         width: 137
         height: 114
       alignment: 9
-      pivot: {x: -.445255488, y: 1.71929824}
+      pivot: {x: -0.4452555, y: 1.7192982}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262We0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f305410000000000800000000000000
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262We0
       rect:
         serializedVersion: 2
         x: 511
@@ -1255,9 +2713,20 @@ TextureImporter:
         width: 159
         height: 121
       alignment: 9
-      pivot: {x: -.295597494, y: 1.66942143}
+      pivot: {x: -0.2955975, y: 1.6694214}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262We1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f305410000000000800000000000000
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262We1
       rect:
         serializedVersion: 2
         x: 672
@@ -1265,9 +2734,20 @@ TextureImporter:
         width: 137
         height: 121
       alignment: 9
-      pivot: {x: -.474452555, y: 1.67768598}
+      pivot: {x: -0.47445256, y: 1.677686}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262We2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f305410000000000800000000000000
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262We2
       rect:
         serializedVersion: 2
         x: 811
@@ -1275,9 +2755,20 @@ TextureImporter:
         width: 110
         height: 121
       alignment: 9
-      pivot: {x: -.800000012, y: 1.67768598}
+      pivot: {x: -0.8, y: 1.677686}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262We3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af305410000000000800000000000000
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262We3
       rect:
         serializedVersion: 2
         x: 923
@@ -1285,9 +2776,20 @@ TextureImporter:
         width: 136
         height: 120
       alignment: 9
-      pivot: {x: -.507352948, y: 1.68333328}
+      pivot: {x: -0.50735295, y: 1.6833333}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262We4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf305410000000000800000000000000
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262We4
       rect:
         serializedVersion: 2
         x: 1061
@@ -1295,9 +2797,20 @@ TextureImporter:
         width: 159
         height: 120
       alignment: 9
-      pivot: {x: -.314465404, y: 1.68333328}
+      pivot: {x: -0.3144654, y: 1.6833333}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Wf0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef305410000000000800000000000000
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Wf0
       rect:
         serializedVersion: 2
         x: 1222
@@ -1305,9 +2818,20 @@ TextureImporter:
         width: 194
         height: 121
       alignment: 9
-      pivot: {x: -.14948453, y: 1.69421482}
+      pivot: {x: -0.14948453, y: 1.6942148}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Wf1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00405410000000000800000000000000
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Wf1
       rect:
         serializedVersion: 2
         x: 1418
@@ -1315,9 +2839,20 @@ TextureImporter:
         width: 152
         height: 121
       alignment: 9
-      pivot: {x: -.381578952, y: 1.69421482}
+      pivot: {x: -0.38157895, y: 1.6942148}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Wf2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20405410000000000800000000000000
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Wf2
       rect:
         serializedVersion: 2
         x: 1572
@@ -1325,9 +2860,20 @@ TextureImporter:
         width: 109
         height: 121
       alignment: 9
-      pivot: {x: -.798165143, y: 1.69421482}
+      pivot: {x: -0.79816514, y: 1.6942148}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Wf3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40405410000000000800000000000000
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Wf3
       rect:
         serializedVersion: 2
         x: 1683
@@ -1335,9 +2881,20 @@ TextureImporter:
         width: 152
         height: 121
       alignment: 9
-      pivot: {x: -.407894731, y: 1.69421482}
+      pivot: {x: -0.40789473, y: 1.6942148}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Wf4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60405410000000000800000000000000
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Wf4
       rect:
         serializedVersion: 2
         x: 1837
@@ -1345,9 +2902,20 @@ TextureImporter:
         width: 194
         height: 120
       alignment: 9
-      pivot: {x: -.170103088, y: 1.70833337}
+      pivot: {x: -0.17010309, y: 1.7083334}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Wg0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80405410000000000800000000000000
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Wg0
       rect:
         serializedVersion: 2
         x: 2
@@ -1355,9 +2923,20 @@ TextureImporter:
         width: 203
         height: 136
       alignment: 9
-      pivot: {x: -.118226603, y: 1.50735295}
+      pivot: {x: -0.1182266, y: 1.507353}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Wg1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0405410000000000800000000000000
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Wg1
       rect:
         serializedVersion: 2
         x: 207
@@ -1365,9 +2944,20 @@ TextureImporter:
         width: 155
         height: 136
       alignment: 9
-      pivot: {x: -.335483879, y: 1.50735295}
+      pivot: {x: -0.33548388, y: 1.507353}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Wg2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0405410000000000800000000000000
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Wg2
       rect:
         serializedVersion: 2
         x: 364
@@ -1375,9 +2965,20 @@ TextureImporter:
         width: 109
         height: 136
       alignment: 9
-      pivot: {x: -.798165143, y: 1.50735295}
+      pivot: {x: -0.79816514, y: 1.507353}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Wg3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0405410000000000800000000000000
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Wg3
       rect:
         serializedVersion: 2
         x: 475
@@ -1385,9 +2986,20 @@ TextureImporter:
         width: 155
         height: 136
       alignment: 9
-      pivot: {x: -.361290336, y: 1.50735295}
+      pivot: {x: -0.36129034, y: 1.507353}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Wg4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01405410000000000800000000000000
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Wg4
       rect:
         serializedVersion: 2
         x: 632
@@ -1395,9 +3007,20 @@ TextureImporter:
         width: 203
         height: 136
       alignment: 9
-      pivot: {x: -.142857149, y: 1.50735295}
+      pivot: {x: -0.14285715, y: 1.507353}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Wh0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21405410000000000800000000000000
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Wh0
       rect:
         serializedVersion: 2
         x: 837
@@ -1405,9 +3028,20 @@ TextureImporter:
         width: 116
         height: 173
       alignment: 9
-      pivot: {x: -.586206913, y: 1.17919075}
+      pivot: {x: -0.5862069, y: 1.1791908}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Wh1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41405410000000000800000000000000
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Wh1
       rect:
         serializedVersion: 2
         x: 955
@@ -1415,9 +3049,20 @@ TextureImporter:
         width: 127
         height: 174
       alignment: 9
-      pivot: {x: -.535433054, y: 1.17241383}
+      pivot: {x: -0.53543305, y: 1.1724138}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Wh2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61405410000000000800000000000000
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Wh2
       rect:
         serializedVersion: 2
         x: 1084
@@ -1425,9 +3070,20 @@ TextureImporter:
         width: 109
         height: 174
       alignment: 9
-      pivot: {x: -.816513777, y: 1.17241383}
+      pivot: {x: -0.8165138, y: 1.1724138}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Wh3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81405410000000000800000000000000
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Wh3
       rect:
         serializedVersion: 2
         x: 1195
@@ -1435,9 +3091,20 @@ TextureImporter:
         width: 121
         height: 173
       alignment: 9
-      pivot: {x: -.586776853, y: 1.17341042}
+      pivot: {x: -0.58677685, y: 1.1734104}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Wh4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1405410000000000800000000000000
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Wh4
       rect:
         serializedVersion: 2
         x: 1318
@@ -1445,9 +3112,20 @@ TextureImporter:
         width: 116
         height: 172
       alignment: 9
-      pivot: {x: -.620689631, y: 1.18023252}
+      pivot: {x: -0.62068963, y: 1.1802325}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: MM262Xa0
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1405410000000000800000000000000
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MM262Xa0
       rect:
         serializedVersion: 2
         x: 1436
@@ -1455,9 +3133,31 @@ TextureImporter:
         width: 235
         height: 28
       alignment: 9
-      pivot: {x: -.0255319141, y: 9.14285755}
+      pivot: {x: -0.025531914, y: 9.142858}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1405410000000000800000000000000
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

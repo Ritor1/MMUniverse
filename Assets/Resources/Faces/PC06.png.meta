@@ -1,111 +1,248 @@
 fileFormatVersion: 2
 guid: e7f864d8d95d129468feab45c28c3b23
-timeCreated: 1434285297
-licenseType: Free
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: PC0601
-    21300002: PC0602
-    21300004: PC0603
-    21300006: PC0604
-    21300008: PC0605
-    21300010: PC0606
-    21300012: PC0607
-    21300014: PC0608
-    21300016: PC0609
-    21300018: PC0610
-    21300020: PC0611
-    21300022: PC0612
-    21300024: PC0613
-    21300026: PC0614
-    21300028: PC0615
-    21300030: PC0616
-    21300032: PC0617
-    21300034: PC0618
-    21300036: PC0619
-    21300038: PC0620
-    21300040: PC0621
-    21300042: PC0622
-    21300044: PC0623
-    21300046: PC0624
-    21300048: PC0625
-    21300050: PC0626
-    21300052: PC0627
-    21300054: PC0628
-    21300056: PC0629
-    21300058: PC0630
-    21300060: PC0631
-    21300062: PC0632
-    21300064: PC0633
-    21300066: PC0634
-    21300068: PC0635
-    21300070: PC0636
-    21300072: PC0637
-    21300074: PC0638
-    21300076: PC0639
-    21300078: PC0640
-    21300080: PC0641
-    21300082: PC0642
-    21300084: PC0643
-    21300086: PC0644
-    21300088: PC0645
-    21300090: PC0646
-    21300092: PC0647
-    21300094: PC0648
-    21300096: PC0649
-    21300098: PC0650
-    21300100: PC0651
-    21300102: PC0652
-    21300104: PC0653
-    21300106: PC0654
-    21300108: PC0655
-    21300110: PC0656
-  serializedVersion: 2
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: PC0601
+  - first:
+      213: 21300002
+    second: PC0602
+  - first:
+      213: 21300004
+    second: PC0603
+  - first:
+      213: 21300006
+    second: PC0604
+  - first:
+      213: 21300008
+    second: PC0605
+  - first:
+      213: 21300010
+    second: PC0606
+  - first:
+      213: 21300012
+    second: PC0607
+  - first:
+      213: 21300014
+    second: PC0608
+  - first:
+      213: 21300016
+    second: PC0609
+  - first:
+      213: 21300018
+    second: PC0610
+  - first:
+      213: 21300020
+    second: PC0611
+  - first:
+      213: 21300022
+    second: PC0612
+  - first:
+      213: 21300024
+    second: PC0613
+  - first:
+      213: 21300026
+    second: PC0614
+  - first:
+      213: 21300028
+    second: PC0615
+  - first:
+      213: 21300030
+    second: PC0616
+  - first:
+      213: 21300032
+    second: PC0617
+  - first:
+      213: 21300034
+    second: PC0618
+  - first:
+      213: 21300036
+    second: PC0619
+  - first:
+      213: 21300038
+    second: PC0620
+  - first:
+      213: 21300040
+    second: PC0621
+  - first:
+      213: 21300042
+    second: PC0622
+  - first:
+      213: 21300044
+    second: PC0623
+  - first:
+      213: 21300046
+    second: PC0624
+  - first:
+      213: 21300048
+    second: PC0625
+  - first:
+      213: 21300050
+    second: PC0626
+  - first:
+      213: 21300052
+    second: PC0627
+  - first:
+      213: 21300054
+    second: PC0628
+  - first:
+      213: 21300056
+    second: PC0629
+  - first:
+      213: 21300058
+    second: PC0630
+  - first:
+      213: 21300060
+    second: PC0631
+  - first:
+      213: 21300062
+    second: PC0632
+  - first:
+      213: 21300064
+    second: PC0633
+  - first:
+      213: 21300066
+    second: PC0634
+  - first:
+      213: 21300068
+    second: PC0635
+  - first:
+      213: 21300070
+    second: PC0636
+  - first:
+      213: 21300072
+    second: PC0637
+  - first:
+      213: 21300074
+    second: PC0638
+  - first:
+      213: 21300076
+    second: PC0639
+  - first:
+      213: 21300078
+    second: PC0640
+  - first:
+      213: 21300080
+    second: PC0641
+  - first:
+      213: 21300082
+    second: PC0642
+  - first:
+      213: 21300084
+    second: PC0643
+  - first:
+      213: 21300086
+    second: PC0644
+  - first:
+      213: 21300088
+    second: PC0645
+  - first:
+      213: 21300090
+    second: PC0646
+  - first:
+      213: 21300092
+    second: PC0647
+  - first:
+      213: 21300094
+    second: PC0648
+  - first:
+      213: 21300096
+    second: PC0649
+  - first:
+      213: 21300098
+    second: PC0650
+  - first:
+      213: 21300100
+    second: PC0651
+  - first:
+      213: 21300102
+    second: PC0652
+  - first:
+      213: 21300104
+    second: PC0653
+  - first:
+      213: 21300106
+    second: PC0654
+  - first:
+      213: 21300108
+    second: PC0655
+  - first:
+      213: 21300110
+    second: PC0656
+  externalObjects: {}
+  serializedVersion: 10
   mipmaps:
     mipMapMode: 0
     enableMipMap: 1
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
     convertToNormalMap: 0
     externalNormalMap: 0
-    heightScale: .25
+    heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
   cubemapConvolution: 0
-  cubemapConvolutionSteps: 8
-  cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -1
   maxTextureSize: 4096
   textureSettings:
+    serializedVersion: 2
     filterMode: -1
     aniso: -1
-    mipBias: -1
-    wrapMode: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
-  rGBM: 0
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
-  spritePivot: {x: .5, y: .5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings: []
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: PC0601
+    - serializedVersion: 2
+      name: PC0601
       rect:
         serializedVersion: 2
         x: 2
@@ -113,9 +250,20 @@ TextureImporter:
         width: 58
         height: 79
       alignment: 9
-      pivot: {x: .508620679, y: .5}
+      pivot: {x: 0.5086207, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: PC0602
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC0602
       rect:
         serializedVersion: 2
         x: 62
@@ -123,9 +271,20 @@ TextureImporter:
         width: 58
         height: 79
       alignment: 9
-      pivot: {x: .508620679, y: .5}
+      pivot: {x: 0.5086207, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: PC0603
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC0603
       rect:
         serializedVersion: 2
         x: 122
@@ -133,9 +292,20 @@ TextureImporter:
         width: 58
         height: 79
       alignment: 9
-      pivot: {x: .508620679, y: .5}
+      pivot: {x: 0.5086207, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: PC0604
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC0604
       rect:
         serializedVersion: 2
         x: 182
@@ -143,9 +313,20 @@ TextureImporter:
         width: 58
         height: 79
       alignment: 9
-      pivot: {x: .508620679, y: .5}
+      pivot: {x: 0.5086207, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: PC0605
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC0605
       rect:
         serializedVersion: 2
         x: 242
@@ -153,9 +334,20 @@ TextureImporter:
         width: 58
         height: 79
       alignment: 9
-      pivot: {x: .508620679, y: .5}
+      pivot: {x: 0.5086207, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: PC0606
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC0606
       rect:
         serializedVersion: 2
         x: 302
@@ -163,9 +355,20 @@ TextureImporter:
         width: 58
         height: 79
       alignment: 9
-      pivot: {x: .508620679, y: .5}
+      pivot: {x: 0.5086207, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: PC0607
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC0607
       rect:
         serializedVersion: 2
         x: 362
@@ -173,9 +376,20 @@ TextureImporter:
         width: 58
         height: 79
       alignment: 9
-      pivot: {x: .508620679, y: .5}
+      pivot: {x: 0.5086207, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: PC0608
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC0608
       rect:
         serializedVersion: 2
         x: 422
@@ -183,9 +397,20 @@ TextureImporter:
         width: 58
         height: 79
       alignment: 9
-      pivot: {x: .508620679, y: .5}
+      pivot: {x: 0.5086207, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: PC0609
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC0609
       rect:
         serializedVersion: 2
         x: 2
@@ -193,9 +418,20 @@ TextureImporter:
         width: 58
         height: 79
       alignment: 9
-      pivot: {x: .508620679, y: .5}
+      pivot: {x: 0.5086207, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: PC0610
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC0610
       rect:
         serializedVersion: 2
         x: 62
@@ -203,9 +439,20 @@ TextureImporter:
         width: 58
         height: 79
       alignment: 9
-      pivot: {x: .508620679, y: .5}
+      pivot: {x: 0.5086207, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: PC0611
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC0611
       rect:
         serializedVersion: 2
         x: 122
@@ -213,9 +460,20 @@ TextureImporter:
         width: 58
         height: 79
       alignment: 9
-      pivot: {x: .508620679, y: .5}
+      pivot: {x: 0.5086207, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: PC0612
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC0612
       rect:
         serializedVersion: 2
         x: 182
@@ -223,9 +481,20 @@ TextureImporter:
         width: 58
         height: 79
       alignment: 9
-      pivot: {x: .508620679, y: .5}
+      pivot: {x: 0.5086207, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: PC0613
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC0613
       rect:
         serializedVersion: 2
         x: 242
@@ -233,9 +502,20 @@ TextureImporter:
         width: 58
         height: 79
       alignment: 9
-      pivot: {x: .508620679, y: .5}
+      pivot: {x: 0.5086207, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: PC0614
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC0614
       rect:
         serializedVersion: 2
         x: 302
@@ -243,9 +523,20 @@ TextureImporter:
         width: 58
         height: 79
       alignment: 9
-      pivot: {x: .508620679, y: .5}
+      pivot: {x: 0.5086207, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: PC0615
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC0615
       rect:
         serializedVersion: 2
         x: 362
@@ -253,9 +544,20 @@ TextureImporter:
         width: 58
         height: 79
       alignment: 9
-      pivot: {x: .508620679, y: .5}
+      pivot: {x: 0.5086207, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: PC0616
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC0616
       rect:
         serializedVersion: 2
         x: 422
@@ -263,9 +565,20 @@ TextureImporter:
         width: 58
         height: 79
       alignment: 9
-      pivot: {x: .508620679, y: .5}
+      pivot: {x: 0.5086207, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: PC0617
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC0617
       rect:
         serializedVersion: 2
         x: 2
@@ -273,9 +586,20 @@ TextureImporter:
         width: 58
         height: 79
       alignment: 9
-      pivot: {x: .508620679, y: .5}
+      pivot: {x: 0.5086207, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: PC0618
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC0618
       rect:
         serializedVersion: 2
         x: 62
@@ -283,9 +607,20 @@ TextureImporter:
         width: 58
         height: 79
       alignment: 9
-      pivot: {x: .508620679, y: .5}
+      pivot: {x: 0.5086207, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: PC0619
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC0619
       rect:
         serializedVersion: 2
         x: 122
@@ -293,9 +628,20 @@ TextureImporter:
         width: 58
         height: 79
       alignment: 9
-      pivot: {x: .508620679, y: .5}
+      pivot: {x: 0.5086207, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: PC0620
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC0620
       rect:
         serializedVersion: 2
         x: 182
@@ -303,9 +649,20 @@ TextureImporter:
         width: 58
         height: 79
       alignment: 9
-      pivot: {x: .508620679, y: .5}
+      pivot: {x: 0.5086207, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: PC0621
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC0621
       rect:
         serializedVersion: 2
         x: 242
@@ -313,9 +670,20 @@ TextureImporter:
         width: 58
         height: 79
       alignment: 9
-      pivot: {x: .508620679, y: .5}
+      pivot: {x: 0.5086207, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: PC0622
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC0622
       rect:
         serializedVersion: 2
         x: 302
@@ -323,9 +691,20 @@ TextureImporter:
         width: 58
         height: 79
       alignment: 9
-      pivot: {x: .508620679, y: .5}
+      pivot: {x: 0.5086207, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: PC0623
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC0623
       rect:
         serializedVersion: 2
         x: 362
@@ -333,9 +712,20 @@ TextureImporter:
         width: 58
         height: 79
       alignment: 9
-      pivot: {x: .508620679, y: .5}
+      pivot: {x: 0.5086207, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: PC0624
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC0624
       rect:
         serializedVersion: 2
         x: 422
@@ -343,9 +733,20 @@ TextureImporter:
         width: 58
         height: 79
       alignment: 9
-      pivot: {x: .508620679, y: .5}
+      pivot: {x: 0.5086207, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: PC0625
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC0625
       rect:
         serializedVersion: 2
         x: 2
@@ -353,9 +754,20 @@ TextureImporter:
         width: 58
         height: 79
       alignment: 9
-      pivot: {x: .508620679, y: .5}
+      pivot: {x: 0.5086207, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: PC0626
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC0626
       rect:
         serializedVersion: 2
         x: 62
@@ -363,9 +775,20 @@ TextureImporter:
         width: 58
         height: 79
       alignment: 9
-      pivot: {x: .508620679, y: .5}
+      pivot: {x: 0.5086207, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: PC0627
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC0627
       rect:
         serializedVersion: 2
         x: 122
@@ -373,9 +796,20 @@ TextureImporter:
         width: 58
         height: 79
       alignment: 9
-      pivot: {x: .508620679, y: .5}
+      pivot: {x: 0.5086207, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: PC0628
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC0628
       rect:
         serializedVersion: 2
         x: 182
@@ -383,9 +817,20 @@ TextureImporter:
         width: 58
         height: 79
       alignment: 9
-      pivot: {x: .508620679, y: .5}
+      pivot: {x: 0.5086207, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: PC0629
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC0629
       rect:
         serializedVersion: 2
         x: 242
@@ -393,9 +838,20 @@ TextureImporter:
         width: 58
         height: 79
       alignment: 9
-      pivot: {x: .508620679, y: .5}
+      pivot: {x: 0.5086207, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: PC0630
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC0630
       rect:
         serializedVersion: 2
         x: 302
@@ -403,9 +859,20 @@ TextureImporter:
         width: 58
         height: 79
       alignment: 9
-      pivot: {x: .508620679, y: .5}
+      pivot: {x: 0.5086207, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: PC0631
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC0631
       rect:
         serializedVersion: 2
         x: 362
@@ -413,9 +880,20 @@ TextureImporter:
         width: 58
         height: 79
       alignment: 9
-      pivot: {x: .508620679, y: .5}
+      pivot: {x: 0.5086207, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: PC0632
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC0632
       rect:
         serializedVersion: 2
         x: 422
@@ -423,9 +901,20 @@ TextureImporter:
         width: 58
         height: 79
       alignment: 9
-      pivot: {x: .508620679, y: .5}
+      pivot: {x: 0.5086207, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: PC0633
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC0633
       rect:
         serializedVersion: 2
         x: 2
@@ -433,9 +922,20 @@ TextureImporter:
         width: 58
         height: 79
       alignment: 9
-      pivot: {x: .508620679, y: .5}
+      pivot: {x: 0.5086207, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: PC0634
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC0634
       rect:
         serializedVersion: 2
         x: 62
@@ -443,9 +943,20 @@ TextureImporter:
         width: 58
         height: 79
       alignment: 9
-      pivot: {x: .508620679, y: .5}
+      pivot: {x: 0.5086207, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: PC0635
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC0635
       rect:
         serializedVersion: 2
         x: 122
@@ -453,9 +964,20 @@ TextureImporter:
         width: 58
         height: 79
       alignment: 9
-      pivot: {x: .508620679, y: .5}
+      pivot: {x: 0.5086207, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: PC0636
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC0636
       rect:
         serializedVersion: 2
         x: 182
@@ -463,9 +985,20 @@ TextureImporter:
         width: 58
         height: 79
       alignment: 9
-      pivot: {x: .508620679, y: .5}
+      pivot: {x: 0.5086207, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: PC0637
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC0637
       rect:
         serializedVersion: 2
         x: 242
@@ -473,9 +1006,20 @@ TextureImporter:
         width: 58
         height: 79
       alignment: 9
-      pivot: {x: .508620679, y: .5}
+      pivot: {x: 0.5086207, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: PC0638
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC0638
       rect:
         serializedVersion: 2
         x: 302
@@ -483,9 +1027,20 @@ TextureImporter:
         width: 58
         height: 79
       alignment: 9
-      pivot: {x: .508620679, y: .5}
+      pivot: {x: 0.5086207, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: PC0639
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC0639
       rect:
         serializedVersion: 2
         x: 362
@@ -493,9 +1048,20 @@ TextureImporter:
         width: 58
         height: 79
       alignment: 9
-      pivot: {x: .508620679, y: .5}
+      pivot: {x: 0.5086207, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: PC0640
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC0640
       rect:
         serializedVersion: 2
         x: 422
@@ -503,9 +1069,20 @@ TextureImporter:
         width: 58
         height: 79
       alignment: 9
-      pivot: {x: .508620679, y: .5}
+      pivot: {x: 0.5086207, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: PC0641
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC0641
       rect:
         serializedVersion: 2
         x: 2
@@ -513,9 +1090,20 @@ TextureImporter:
         width: 58
         height: 79
       alignment: 9
-      pivot: {x: .508620679, y: .5}
+      pivot: {x: 0.5086207, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: PC0642
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC0642
       rect:
         serializedVersion: 2
         x: 62
@@ -523,9 +1111,20 @@ TextureImporter:
         width: 58
         height: 79
       alignment: 9
-      pivot: {x: .508620679, y: .5}
+      pivot: {x: 0.5086207, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: PC0643
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC0643
       rect:
         serializedVersion: 2
         x: 122
@@ -533,9 +1132,20 @@ TextureImporter:
         width: 58
         height: 79
       alignment: 9
-      pivot: {x: .508620679, y: .5}
+      pivot: {x: 0.5086207, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: PC0644
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC0644
       rect:
         serializedVersion: 2
         x: 182
@@ -543,9 +1153,20 @@ TextureImporter:
         width: 58
         height: 79
       alignment: 9
-      pivot: {x: .508620679, y: .5}
+      pivot: {x: 0.5086207, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: PC0645
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC0645
       rect:
         serializedVersion: 2
         x: 242
@@ -553,9 +1174,20 @@ TextureImporter:
         width: 58
         height: 79
       alignment: 9
-      pivot: {x: .508620679, y: .5}
+      pivot: {x: 0.5086207, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: PC0646
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC0646
       rect:
         serializedVersion: 2
         x: 302
@@ -563,9 +1195,20 @@ TextureImporter:
         width: 58
         height: 79
       alignment: 9
-      pivot: {x: .508620679, y: .5}
+      pivot: {x: 0.5086207, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: PC0647
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC0647
       rect:
         serializedVersion: 2
         x: 362
@@ -573,9 +1216,20 @@ TextureImporter:
         width: 58
         height: 79
       alignment: 9
-      pivot: {x: .508620679, y: .5}
+      pivot: {x: 0.5086207, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: PC0648
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC0648
       rect:
         serializedVersion: 2
         x: 422
@@ -583,9 +1237,20 @@ TextureImporter:
         width: 58
         height: 79
       alignment: 9
-      pivot: {x: .508620679, y: .5}
+      pivot: {x: 0.5086207, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: PC0649
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC0649
       rect:
         serializedVersion: 2
         x: 2
@@ -593,9 +1258,20 @@ TextureImporter:
         width: 58
         height: 79
       alignment: 9
-      pivot: {x: .508620679, y: .5}
+      pivot: {x: 0.5086207, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: PC0650
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC0650
       rect:
         serializedVersion: 2
         x: 62
@@ -603,9 +1279,20 @@ TextureImporter:
         width: 58
         height: 79
       alignment: 9
-      pivot: {x: .508620679, y: .5}
+      pivot: {x: 0.5086207, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: PC0651
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC0651
       rect:
         serializedVersion: 2
         x: 122
@@ -613,9 +1300,20 @@ TextureImporter:
         width: 58
         height: 79
       alignment: 9
-      pivot: {x: .508620679, y: .5}
+      pivot: {x: 0.5086207, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: PC0652
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC0652
       rect:
         serializedVersion: 2
         x: 182
@@ -623,9 +1321,20 @@ TextureImporter:
         width: 58
         height: 79
       alignment: 9
-      pivot: {x: .508620679, y: .5}
+      pivot: {x: 0.5086207, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: PC0653
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC0653
       rect:
         serializedVersion: 2
         x: 242
@@ -633,9 +1342,20 @@ TextureImporter:
         width: 58
         height: 79
       alignment: 9
-      pivot: {x: .508620679, y: .5}
+      pivot: {x: 0.5086207, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: PC0654
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC0654
       rect:
         serializedVersion: 2
         x: 302
@@ -643,9 +1363,20 @@ TextureImporter:
         width: 58
         height: 79
       alignment: 9
-      pivot: {x: .508620679, y: .5}
+      pivot: {x: 0.5086207, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: PC0655
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC0655
       rect:
         serializedVersion: 2
         x: 362
@@ -653,9 +1384,20 @@ TextureImporter:
         width: 58
         height: 79
       alignment: 9
-      pivot: {x: .508620679, y: .5}
+      pivot: {x: 0.5086207, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: PC0656
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC0656
       rect:
         serializedVersion: 2
         x: 422
@@ -663,9 +1405,31 @@ TextureImporter:
         width: 58
         height: 79
       alignment: 9
-      pivot: {x: .508620679, y: .5}
+      pivot: {x: 0.5086207, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

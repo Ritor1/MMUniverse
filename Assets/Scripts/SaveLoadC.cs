@@ -51,20 +51,24 @@ public class SaveLoadC : MonoBehaviour {
 	
 	void  OnGUI (){
 		if(menu){
-			GUI.Box ( new Rect(Screen.width / 2 - 110,230,220,200), "Menu");
-			if (GUI.Button ( new Rect(Screen.width / 2 - 45,285,90,40), "Save Game")) {
+			GUI.Box ( new Rect(Screen.width / 2 - 110,Screen.height/2-150,220,300), "Menu");
+			if (GUI.Button ( new Rect(Screen.width / 2 - 45, Screen.height / 2 - 95, 90,40), "Save Game")) {
 				SaveData();
 				OnOffMenu();
 			}
 			
-			if (GUI.Button ( new Rect(Screen.width / 2 - 45,365,90,40), "Load Game")) {
+			if (GUI.Button ( new Rect(Screen.width / 2 - 45, Screen.height / 2 - 15, 90,40), "Load Game")) {
 				LoadData();
 				OnOffMenu();
 			}
-			
-			if (GUI.Button ( new Rect(Screen.width / 2 + 55,235,30,30), "X")) {
+			if (GUI.Button(new Rect(Screen.width / 2 - 45, Screen.height / 2 +65, 90, 40), "Quit Game"))
+			{
+				Application.Quit();
+			}
+			if (GUI.Button ( new Rect(Screen.width / 2 + 70, Screen.height / 2 - 145, 30,30), "X")) {
 				OnOffMenu();
 			}
+
 		}
 		
 	}
